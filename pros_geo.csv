@@ -65,7 +65,7 @@ My Three Girls Bakery,(602) 509-0307,4915 E Lafayette Blvd Phoenix AZ 85018,NA,N
 Bamboo Bakery,(602) 246-8061,2647 W Glendale Ave Phoenix AZ 85051,no,NA,-112.115869,33.5377332,"2647 w glendale ave, phoenix, az 85051, usa",NA
 Pasteleria Azteca,(623) 247-8493,5881 W Indian School Rd Phoenix AZ 85031,no,NA,-112.1857217,33.4938361,"5881 w indian school rd, phoenix, az 85031, usa",NA
 Pasteler+A Azteca,(623) 266-7251,5893 W Indian School Rd Phoenix AZ 85031,NA,NA,-112.1860557,33.4939347,"5893 w indian school rd, phoenix, az 85031, usa",NA
-Candyland Cupcakes,(602) 325-6926,2320 W Northern Ave Phoenix AZ 85021,NA,NA,-112.1092552,33.5535436,"2320 w northern ave, phoenix, az 85021, usa",NA
+Candyland Cupcakes,(602) 325-6926,2320 W Northern Ave Phoenix AZ 85021,NA,NA,-112.1089742,33.5543017,"2320 w northern ave, phoenix, az 85021, usa",NA
 Pasteleria Y Panaderia,(602) 374-5297,8941 N 12th St Phoenix AZ 85020,no,NA,-112.0565911,33.5675172,"8941 n 12th st, phoenix, az 85020, usa",NA
 Panaderia Los Reyes,(602) 861-4962,9226 N 7th St Phoenix AZ 85020,NA,NA,-112.0656383,33.5706832,"9226 n 7th st, phoenix, az 85020, usa",NA
 Cake Lady Studios & Events,(602) 612-4168,2601 W Dunlap Ave Phoenix AZ 85021,NA,NA,-112.1149375,33.5668497,"2601 w dunlap ave, phoenix, az 85021, usa",NA
@@ -419,3 +419,294 @@ Richmond's,414-539-1883,"2721 N Blaine Pl Milwaukee, WI 53210",NA,NA,-87.989751,
 DOC's Smokehouse,414-935-2029,"754 N Vel R. Phillips Ave Milwaukee, Wisconsin 53203",NA,NA,-87.9158162,43.0399901,"754 vel r. phillips ave, milwaukee, wi 53203, usa",NA
 Mac Shack,414-837-4534,"1701 N Humboldt Ave Milwaukee, WI 53202",NA,NA,-87.89832729999999,43.0531196,"1701 n humboldt ave, milwaukee, wi 53202, usa",NA
 Jake's Delicatessen,414 562 1272,"1634 W North Ave, Milwaukee, WI 53205-1252",yes,no,-87.9337101,43.0606049,"1634 w north ave, milwaukee, wi 53205, usa",red
+Muddys Bake Shop,(901) 683-8844,5101 Sanderlin Ave Memphis TN 38117,Yes,No,-89.8916567,35.1160851,"5101 sanderlin ave, memphis, tn 38137, usa",NA
+Kay Bakery,(901) 767-0780,667 Avon Rd Memphis TN 38122,No,NA,-89.9024318,35.1494844,"667 avon rd, memphis, tn 38122, usa",NA
+Creative Cakes Boutique,(901) 389-0683,2910 Overton Crossing St Memphis TN 38127,NA,NA,-89.99673960000001,35.204736,"2910 overton crossing st, memphis, tn 38127, usa",NA
+Twinique Cakes,(901) 386-0779,6880 Hillshire Dr Ste 14 Memphis TN 38133,NA,NA,-89.833871,35.186698,"6880 hillshire dr #14, memphis, tn 38133, usa",NA
+Cupcake Cutie Inc,(901) 729-6514,7140 Stage Rd Memphis TN 38133,NA,NA,-89.8248268,35.2048575,"7140 stage rd, bartlett, tn 38133, usa",NA
+Butcher & Baker,(901) 682-7441,5041 Summer Ave Memphis TN 38122,NA,NA,-89.89224120000002,35.1489172,"5041 summer ave, memphis, tn 38122, usa",NA
+Pink Diva Cupcakery,(901) 946-0056,936 Florida St Memphis TN 38106,NA,NA,-90.0617765,35.1220274,"936 florida st, memphis, tn 38106, usa",NA
+Mom's Kitchen,(901) 614-9606,669 S Highland St Memphis TN 38111,NA,NA,-89.9459825,35.1133605,"669 s highland st, memphis, tn 38111, usa",NA
+Nacho Average Bakery,(901) 522-4455,150 Jefferson Ave Memphis TN 38103,NA,NA,-90.05017319999999,35.1468749,"150 jefferson ave, memphis, tn 38103, usa",NA
+The Cake Gallery,(901) 654-3425,164 Madison Ave Memphis TN 38103,NA,NA,-90.0505725,35.1447053,"164 madison ave, memphis, tn 38103, usa",NA
+Grandma's Desserts Etc,(901) 458-2197,3108 Park Ave Memphis TN 38111,NA,NA,-89.9590115,35.1079995,"3108 park ave, memphis, tn 38111, usa",NA
+Crumbl Cookies - East Memphis,(901) 410-1950,705 S Mendenhall Rd Memphis TN 38117,Yes,No,-89.8965913,35.1116985,"705 s mendenhall rd, memphis, tn 38117, usa",NA
+Nothing Bundt Cakes,(901) 208-8984,681 S White Station Rd Ste 101 Memphis TN 38117,Yes,Yes,-89.8885554,35.1124636,"681 s white station rd suite 101, memphis, tn 38117, usa",NA
+Milk Dessert Bar,(901) 730-0893,1789 Kirby Pkwy Ste 10 Memphis TN 38138,No,NA,-89.840133,35.1003025,"1789 kirby pkwy # 10, germantown, tn 38138, usa",NA
+Cinnabon,(901) 381-2769,2760 N Germantown Pkwy Memphis TN 38133,Yes,No,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",NA
+Kandy Apple Hill,(901) 453-6829,210 N 4th St Memphis TN 38105,NA,NA,-90.0452065,35.1493344,"210 n 4th st, memphis, tn 38105, usa",NA
+Cupcake Cutie Etc,(901) 249-6996,109 S Court Ave Memphis TN 38103,NA,NA,-90.05221949999999,35.1455659,"109 s ct ave, memphis, tn 38103, usa",NA
+The Big Ono Bake Shop,(901) 590-4910,116 S Front St Memphis TN 38103,NA,NA,-90.0552153,35.1424182,"116 s front st, memphis, tn 38103, usa",NA
+Interstate Brands,(901) 251-1060,490 Monroe Ave Memphis TN 38103,NA,NA,-90.0417339,35.1414153,"490 monroe ave, memphis, tn 38103, usa",NA
+Cupcake Cutie Etc.,(901) 443-5664,300 S Main St Memphis TN 38103,Yes,No,-90.05626749999999,35.1378448,"300 s main st, memphis, tn 38103, usa",NA
+Dee'lightful Bliss Bakery,(901) 244-8768,409 S Main St Memphis TN 38103,NA,NA,-90.05865709999999,35.1355017,"409 s main st, memphis, tn 38103, usa",NA
+Cakes & Catering by Nea,(901) 254-2800,853 Faxon Ave Memphis TN 38105,NA,NA,-90.0304513,35.1560633,"853 faxon ave, memphis, tn 38105, usa",NA
+Bake Pro Plus,(901) 729-7247,281 Bickford Ave Memphis TN 38107,NA,NA,-90.03902560000002,35.1644358,"281 bickford ave, memphis, tn 38107, usa",NA
+Primas Bakery and Boutique,(901) 746-8563,523 S Main St Memphis TN 38103,NA,NA,-90.05925909999999,35.1331594,"523 s main st, memphis, tn 38103, usa",NA
+Baptist Health Science University,(901) 524-1117,20 Dudley St Memphis TN 38103,NA,NA,-90.0292896,35.13946680000001,"20 dudley st, memphis, tn 38103, usa",NA
+Kel's Cookie Corner,(731) 676-2542,1325 Autumn Ave Memphis TN 38104,NA,NA,-90.01552129999999,35.15068249999999,"1325 autumn ave, memphis, tn 38104, usa",NA
+The Gingers Bread & Co,(901) 870-3927,1613 Union Ave Memphis TN 38104,NA,NA,-90.007851,35.135623,"1613 union ave, memphis, tn 38104, usa",NA
+Lallemand Baking Solutions,(901) 357-6847,251 Stiles Dr Memphis TN 38127,NA,NA,-90.05380319999999,35.1906252,"251 stiles dr, memphis, tn 38127, usa",NA
+Lady Bugg Bakery,(901) 343-0438,6 S Cooper St Memphis TN 38104,NA,NA,-89.9898238,35.1362677,"6 cooper st, memphis, tn 38104, usa",NA
+Frost Bake Shop,(901) 682-4545,1094 Channel Ave Memphis TN 38106,Yes,Yes,-90.0903379,35.1055686,"1094 channel ave, memphis, tn 38106, usa",NA
+Carol's Cheesecakes & More,(901) 323-2217,482 N Hollywood St Memphis TN 38112,NA,NA,-89.9768804,35.1485417,"482 n hollywood st, memphis, tn 38112, usa",NA
+La Baguette,(901) 458-0900,3088 Poplar Ave Memphis TN 38111,Yes,Yes,-89.9589501,35.1323398,"3088 poplar ave, memphis, tn 38111, usa",NA
+Bread-Hostess Cake,(816) 701-4600,570 Rivergate Rd Memphis TN 38109,NA,NA,-90.0830663,35.0805119,"570 n rivergate rd, memphis, tn 38109, usa",NA
+La Espiga Panaderia,(901) 454-9220,3967 Summer Ave Memphis TN 38122,NA,NA,-89.9287064,35.1487031,"3967 summer ave, memphis, tn 38122, usa",NA
+Panaderia San Juan,(901) 249-3233,3979 Jackson Ave Memphis TN 38128,NA,NA,-89.9311079,35.1839759,"3979 jackson ave, memphis, tn 38128, usa",NA
+Weaver's Slice of Heaven Bakery,(901) 552-4232,4287 Summer Ave Memphis TN 38122,NA,NA,-89.9177673,35.1485505,"4287 summer ave, memphis, tn 38122, usa",NA
+Cookie Cake Company,(901) 623-3722,4465 Poplar Ave Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave, memphis, tn 38117, usa",NA
+And Cookies Apples,(901) 789-3130,3654 Boxtown Rd Memphis TN 38109,NA,NA,-90.1248181,35.0490321,"3654 boxtown rd, memphis, tn 38109, usa",NA
+Gigi's Cupcakes,(901) 888-2255,4709 Poplar Ave Memphis TN 38117,NA,NA,-89.9049764,35.1150584,"4709 poplar ave, memphis, tn 38117, usa",NA
+The Flour Garden,(901) 417-7600,4730 Poplar Ave Ste 3 Memphis TN 38117,NA,NA,-89.904039,35.115709,"4730 poplar ave #3, memphis, tn 38117, usa",NA
+City Bread,(901) 683-7350,575 S Mendenhall Rd Memphis TN 38117,NA,NA,-89.8963259,35.1155061,"575 s mendenhall rd, memphis, tn 38117, usa",NA
+Bimbo Bakeries USA,(901) 348-1825,1253 E Shelby Dr Memphis TN 38116,NA,NA,-90.0224585,35.0208813,"1253 e shelby dr, memphis, tn 38116, usa",NA
+Haute Monde Dessert Bar,(901) 290-2099,4590 Plato Ave Memphis TN 38128,NA,NA,-89.9101913,35.2162427,"4590 plato ave, memphis, tn 38128, usa",NA
+Panaderia La Ideal,(901) 779-7925,3993 Lamar Ave Memphis TN 38118,NA,NA,-89.9308387,35.0551146,"3993 lamar ave, memphis, tn 38118, usa",NA
+Panaderia Bakery La Idal,(901) 779-7925,3993 Lamar Ave Memphis TN 38118,NA,NA,-89.9308387,35.0551146,"3993 lamar ave, memphis, tn 38118, usa",NA
+Ms. Chocolate Drop Bakeries & Treat,(901) 255-4128,5276 Kimbark Woods Dr Memphis TN 38134,NA,NA,-89.88741309999999,35.1930852,"5276 kimbark woods dr, memphis, tn 38134, usa",NA
+Walmart - Bakery,(901) 346-4994,5255 Elvis Presley Blvd Memphis TN 38116,NA,NA,-90.0275238,35.0044996,"5255 elvis presley blvd, memphis, tn 38116, usa",NA
+Panaderia La Ilusion 4,(901) 729-7820,5717 Raleigh Lagrange Rd Memphis TN 38134,No,NA,-89.87276570000002,35.18244720000001,"5717 raleigh lagrange rd, bartlett, tn 38134, usa",NA
+Bishop Tammy,(901) 207-5829,1314 Channel Ave Memphis TN 37501,NA,NA,-90.0973771,35.1034812,"1314 channel ave, memphis, tn 38113, usa",NA
+Jostens Jostens,(901) 425-2913,5681 Quince Rd Memphis TN 38119,NA,NA,-89.87406570000002,35.0886127,"5681 quince rd, memphis, tn 38119, usa",NA
+Panaderia,(901) 249-7248,3127 S Mendenhall Rd Memphis TN 38115,NA,NA,-89.88727279999999,35.0632829,"3127 s mendenhall rd, memphis, tn 38115, usa",NA
+Jose Bakery,(901) 249-3933,5365 Knight Arnold Rd Memphis TN 38115,NA,NA,-89.8846514,35.0615008,"5365 knight arnold rd, memphis, tn 38115, usa",NA
+Kutie Pies Company,(901) 779-6902,6488 Gallan Dr Memphis TN 38134,NA,NA,-89.8467151,35.1682157,"6488 gallan dr, memphis, tn 38134, usa",NA
+Sprinkle Me Silly,(901) 729-7758,6860 Hillshire Dr Ste 8 Memphis TN 38133,NA,NA,-89.8349755,35.1865439,"6860 hillshire dr #8, memphis, tn 38134, usa",NA
+Old School Cookies,(901) 846-6046,4210 Altruria Rd Ste 110 Memphis TN 38135,NA,NA,-89.8438516,35.2400782,"4210 altruria rd #110, bartlett, tn 38135, usa",NA
+AppleHeadz SweetzBoutique,(901) 235-3940,7140 Stage Blvd  STE 112 Memphis TN 38133,NA,NA,-89.7989767,35.2091855,"bartlett, tn 38133, usa",NA
+Le Gourmet French Pastry,(901) 384-3900,7395 Us Highway 64 Ste 103 Memphis TN 38133,NA,NA,-89.8180229,35.2038555,"7395 us-64 #103, memphis, tn 38133, usa",NA
+La Espiga Bakery,(901) 207-2732,6661 Winchester Rd Memphis TN 38115,NA,NA,-89.84133940000001,35.0490161,"6661 winchester rd, memphis, tn 38115, usa",NA
+Thecheesecakeguru,(901) 361-6248,6891 Somerset Cv Memphis TN 38119,NA,NA,-89.83276359999999,35.0623229,"6891 somerset cove, memphis, tn 38119, usa",NA
+Ty's Gourmet Cupcakes,(901) 207-7741,6415 Fawn Hollow Cir S Memphis TN 38141,NA,NA,-89.8494474,35.0242212,"6415 s fawn hollow cir, memphis, tn 38141, usa",NA
+Sprinkle Me Silly,(901) 729-7758,6860 Hillshire Dr Ste 8 Memphis TN 38133,NA,NA,-89.8349755,35.1865439,"6860 hillshire dr #8, memphis, tn 38134, usa",NA
+Old School Cookies,(901) 846-6046,4210 Altruria Rd Ste 110 Memphis TN 38135,NA,NA,-89.8438516,35.2400782,"4210 altruria rd #110, bartlett, tn 38135, usa",NA
+AppleHeadz SweetzBoutique,(901) 235-3940,7140 Stage Blvd  STE 112 Memphis TN 38133,NA,NA,-89.7989767,35.2091855,"bartlett, tn 38133, usa",NA
+Le Gourmet French Pastry,(901) 384-3900,7395 Us Highway 64 Ste 103 Memphis TN 38133,NA,NA,-89.8180229,35.2038555,"7395 us-64 #103, memphis, tn 38133, usa",NA
+La Espiga Bakery,(901) 207-2732,6661 Winchester Rd Memphis TN 38115,NA,NA,-89.84133940000001,35.0490161,"6661 winchester rd, memphis, tn 38115, usa",NA
+Thecheesecakeguru,(901) 361-6248,6891 Somerset Cv Memphis TN 38119,NA,NA,-89.83276359999999,35.0623229,"6891 somerset cove, memphis, tn 38119, usa",NA
+Ty's Gourmet Cupcakes,(901) 207-7741,6415 Fawn Hollow Cir S Memphis TN 38141,NA,NA,-89.8494474,35.0242212,"6415 s fawn hollow cir, memphis, tn 38141, usa",NA
+Carousel Sweets Bakery,(901) 352-5567,8034 Giacosa Pl Ste 103 Memphis TN 38133,NA,NA,-89.7958865,35.1991964,"8034 giacosa pl suite 103, memphis, tn 38133, usa",NA
+Walmart - Bakery,(901) 757-1442,7525 Winchester Rd Memphis TN 38125,NA,NA,-89.811162,35.047802,"7525 winchester rd, memphis, tn 38125, usa",NA
+Walmart - Bakery,(901) 309-7876,6990 E Shelby Dr Memphis TN 38125,NA,NA,-89.8303826,35.0220905,"6990 e shelby dr, memphis, tn 38141, usa",NA
+Gigi's Cupcakes,(901) 888-2253,1680 Union Ave Memphis TN 38104,NA,NA,-90.0058653,35.1362032,"1680 union ave, memphis, tn 38104, usa",NA
+Tempting Berries Bakery,(901) 363-6300,6765 Winchester Rd Memphis TN 38115,NA,NA,-89.83769579999999,35.0483392,"6765 winchester rd, memphis, tn 38115, usa",NA
+Baker Corp,(901) 332-0259,1451 Corporate Ave Memphis TN 38132,NA,NA,-90.01439390000002,35.071543,"1451 corporate ave, memphis, tn 38132, usa",NA
+Bimbo Bakeries USA,(901) 348-1825,3053 Fleetbrook Dr Memphis TN 38116,NA,NA,-90.0332085,35.0656053,"3053 fleetbrook dr, memphis, tn 38116, usa",NA
+Draper's Bakery & Banquets,(901) 385-7788,6110 Macon Rd Memphis TN 38134,Yes,Yes,-89.8595026,35.1646471,"6110 macon rd, memphis, tn 38134, usa",NA
+La Ilucion,(901) 761-0160,4312 Macon Rd Memphis TN 38122,No,NA,-89.9167451,35.1622974,"4312 macon rd, memphis, tn 38122, usa",NA
+D & R Bakery,(901) 377-9991,2740 Whitten Rd Memphis TN 38133,NA,NA,-89.83609,35.2002246,"2740 whitten rd, memphis, tn 38133, usa",NA
+Southern Gourmet Designer Cakes & Baskets,(901) 218-4618,4529 Atoll Ln Memphis TN 38118,NA,NA,-89.9592704,35.024762,"4529 atoll ln, memphis, tn 38118, usa",NA
+La Ilucion,(901) 369-0212,4273 American Way Memphis TN 38118,NA,NA,-89.9211725,35.0750106,"4273 american way, memphis, tn 38118, usa",NA
+Sweet Expressions Now,(901) 290-2121,1671 Euclid Ave Memphis TN 38114,NA,NA,-90.00609960000001,35.12096289999999,"1671 euclid ave, memphis, tn 38114, usa",NA
+Middle East Bakery & Grill,(901) 552-5296,4514 Summer Ave Ste 9 Memphis TN 38122,No,NA,-89.9105246,35.150147,"4514 summer ave #9, memphis, tn 38122, usa",NA
+L J J's Custom Cakes,(901) 377-2305,5647 Falling Bark Dr Memphis TN 38134,NA,NA,-89.87450170000001,35.1800654,"5647 falling bark dr, memphis, tn 38134, usa",NA
+Sweet Thangs Custom Creations,(901) 336-8899,5499 Oak Bark Dr Memphis TN 38116,NA,NA,-90.02417439999999,34.998287,"5499 oak bark dr, memphis, tn 38116, usa",NA
+River Oaks Restaurant,(901) 683-9305,5871 Poplar Ave Memphis TN 38119,NA,NA,-89.8668275,35.1031052,"5871 poplar ave, memphis, tn 38119, usa",NA
+Mi Pueblo,(901) 751-8896,3750 Hacks Cross Rd Memphis TN 38125,NA,NA,-89.7947041,35.0463838,"3750 hacks cross rd, memphis, tn 38125, usa",NA
+Muddy's Grind House,(901) 443-4144,585 S Cooper St Memphis TN 38104,NA,NA,-89.99083569999999,35.1299544,"585 cooper st, memphis, tn 38104, usa",NA
+Dunkin',(901) 272-0172,1540 Union Ave Memphis TN 38104,NA,NA,-90.00983889999999,35.1365966,"1540 union ave, memphis, tn 38104, usa",NA
+Phillip Ashley Chocolates,(901) 572-1011,1200 Madison Ave Memphis TN 38104,NA,NA,-90.0211621,35.1396229,"1200 madison ave, memphis, tn 38104, usa",NA
+Caf√© Eclectic,(901) 725-1718,603 N Mclean Blvd Memphis TN 38107,NA,NA,-89.99752269999999,35.1541408,"603 n mclean blvd, memphis, tn 38107, usa",NA
+Hustle & Dough,(901) 701-7577,477 S Main St Memphis TN 38103,NA,NA,-90.0593363,35.134393,"477 s main st, memphis, tn 38103, usa",NA
+Byrds Soulfood Andesserts,(901) 830-2204,1583 N Merton St Memphis TN 38108,NA,NA,-89.9731176,35.1793006,"1583 n merton st, memphis, tn 38108, usa",NA
+Perkins Restaurant & Bakery,(901) 341-6824,3455 Poplar Ave Memphis TN 38111,yes,no,-89.9467056,35.12764,"3455 poplar ave, memphis, tn 38111, usa",red
+Jeremiah's Italian Ice,(901) 660-2092,3717 Summer Ave Memphis TN 38122,NA,NA,-89.9369646,35.1489916,"3717 summer ave, memphis, tn 38122, usa",NA
+Sweet Potato Baby,(901) 401-0379,4728 Spottswood Ave Ste 161 Memphis TN 38117,NA,NA,-89.90552679999999,35.1133135,"4728 spottswood ave #161, memphis, tn 38117, usa",NA
+Butteriffic Bakery & Cafe,(901) 207-4618,488 S 2nd St Memphis TN 38103,yes,ish,-90.05621,35.1338382,"488 s 2nd st, memphis, tn 38103, usa",purple
+Lucy J's Bakery,(901) 257-9206,1350 Concourse Ave Ste 151 Memphis TN 38104,yes,yes,-90.0143805,35.1518486,"crosstown concourse, 1350 concourse ave suite 151, memphis, tn 38104, usa",darkblue
+K3 Studio Cafe,(901) 281-7762,1130 S 3rd St Memphis TN 38106,NA,NA,-90.054941,35.116588,"1130 s 3rd st, memphis, tn 38106, usa",NA
+Choice Cheesecakes,(901) 730-6082,111 S Highland St # 630 Memphis TN 38111,NA,NA,-89.9457123,35.128918,"111 s highland st #630, memphis, tn 38111, usa",NA
+Cafe Eclectic,(901) 410-0765,510 S Highland St Memphis TN 38111,NA,NA,-89.94536839999999,35.1176059,"510 s highland st, memphis, tn 38111, usa",NA
+Whimsy Cookie Company Franchising,(901) 343-0709,4704 Poplar Ave Memphis TN 38117,NA,NA,-89.9049699,35.1159458,"4704 poplar ave, memphis, tn 38117, usa",NA
+Mi Pueblo,(901) 244-7913,5007 Black Rd Memphis TN 38117,NA,NA,-89.89505249999999,35.1142461,"5007 black rd, memphis, tn 38117, usa",NA
+Blanca Cakes,(901) 207-7452,5070 Raleigh Lagrange Rd Ste 18 Memphis TN 38134,NA,NA,-89.8939505,35.1936299,"5070 raleigh lagrange rd #18, memphis, tn 38134, usa",NA
+Kellogg's Snacks,(901) 373-6115,1751 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.8559239,35.1733686,"1751 n shelby oaks dr, memphis, tn 38134, usa",NA
+Marie Callender's,(901) 766-6400,6075 Poplar Ave Ste 800 Memphis TN 38119,NA,NA,-89.86105040000001,35.1014489,"6075 poplar ave # 800, memphis, tn 38119, usa",NA
+Sweet Lala's Bakery,(901) 654-3646,6150 Poplar Ave Ste 118 Memphis TN 38119,NA,NA,-89.8575741,35.1027656,"6150 poplar ave suite 118, memphis, tn 38119, usa",NA
+The Donut Box,(901) 385-1867,3051 Kirby Whitten Rd Ste 1 Memphis TN 38134,NA,NA,-89.841065,35.2089901,"3051 kirby whitten rd #1, bartlett, tn 38134, usa",NA
+Schnucks Markets,(901) 754-3451,5270 Riverdale Rd Memphis TN 38141,NA,NA,-89.830664,35.0037656,"5270 riverdale rd, memphis, tn 38125, usa",NA
+Schnucks Markets,(901) 754-8947,5274 Riverdale Rd Memphis TN 38141,NA,NA,-89.8284113,35.004454,"5274 riverdale rd, memphis, tn 38141, usa",NA
+Makeda's Homemade Cookies,(901) 745-2667,2370 Airways Blvd Memphis TN 38114,yes,gb model,-89.9847155,35.0807294,"2370 airways blvd, memphis, tn 38114, usa",blue
+Great American Cookies,(901) 683-8803,4465 Poplar Ave Ste 1132 Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave #1132, memphis, tn 38117, usa",NA
+La Baguette French Bread Shop,(901) 458-0900,3088 Poplar Ave Memphis TN 38111,NA,NA,-89.9589501,35.1323398,"3088 poplar ave, memphis, tn 38111, usa",NA
+Ricki's Cookie Corner,(901) 866-2447,5068 Park Ave Memphis TN 38117,NA,NA,-89.89377669999999,35.1078566,"5068 park ave, memphis, tn 38117, usa",NA
+Bunny Bread Co,(901) 388-3803,4699 Austin Peay Hwy Memphis TN 38135,NA,NA,-89.8767593,35.2540848,"4699 austin peay hwy, memphis, tn 38135, usa",NA
+Flowers Baking Company,(901) 566-1220,4521 Malone Rd Memphis TN 38118,NA,NA,-89.9211257,35.025066,"4521 malone rd, memphis, tn 38118, usa",NA
+Makeda's Homemade Butter Cookies,(901) 367-8799,6075 Winchester Rd Memphis TN 38115,NA,NA,-89.861052,35.0481711,"6075 winchester rd, memphis, tn 38115, usa",NA
+Great American Cookies,(901) 386-7871,2760 N Germantown Pkwy Memphis TN 38133,NA,NA,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",NA
+MJ Donuts & Coffee,(901) 367-6675,4608 Winchester Rd Memphis TN 38118,NA,NA,-89.9097534,35.0515809,"4608 winchester rd, memphis, tn 38118, usa",NA
+Marie Callender's,(901) 766-6492,1687 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.85662219999999,35.1710632,"1687 shelby oaks dr, memphis, tn 38134, usa",NA
+Cookie Florist The,(901) 377-7034,6860 Hillshire Dr Memphis TN 38133,NA,NA,-89.83460430000001,35.1867083,"6860 hillshire dr, memphis, tn 38133, usa",NA
+the sweet tooth of Memphis,(901) 581-3312,2264 meadow glade ln memphis TN 38134,no,NA,-89.8779893,35.1858901,"2264 meadow glade ln, memphis, tn 38134, usa",NA
+Muddy's Bake Shop,(901) 683-8844,2497 Broad Ave Memphis TN 38112,NA,NA,-89.9758408,35.1478025,"2497 broad ave, memphis, tn 38112, usa",NA
+Flowers Baking Company,(901) 946-7808,1029 Florida St Memphis TN 38106,NA,NA,-90.0623904,35.1195057,"1029 florida st, memphis, tn 38106, usa",NA
+The Cheesecake Corner,(901) 525-2253,113 E Ge Patterson Ave Memphis TN 38103,no,NA,-90.05849289999999,35.13264410000001,"113 ge patterson ave, memphis, tn 38103, usa",NA
+Original Donut Man,(901) 388-9500,3224 Austin Peay Hwy Memphis TN 38128,yes,ish,-89.9166082,35.2129615,"3224 austin peay hwy, memphis, tn 38128, usa",purple
+Daylight Donuts,(901) 266-5152,5735 Raleigh Lagrange Rd Memphis TN 38134,NA,NA,-89.87227229999999,35.1824681,"5735 raleigh lagrange rd, memphis, tn 38134, usa",NA
+Bartlett Donuts,(901) 217-3938,2731 Bartlett Blvd Memphis TN 38134,no,NA,-89.8676789,35.2006681,"2731 bartlett blvd, bartlett, tn 38134, usa",NA
+Big Daddy Donuts,(901) 308-0972,8 S Main St Memphis TN 38103,NA,NA,-90.05261999999999,35.144872,"8 s main st, memphis, tn 38103, usa",NA
+Midtown Donut,(901) 347-2020,1776 Union Ave Memphis TN 38104,yes,ish,-90.0024589,35.1356662,"1776 union ave, memphis, tn 38104, usa",purple
+Community Donuts Inc,(901) 305-6311,2782 S Perkins Rd Memphis TN 38118,NA,NA,-89.9051068,35.07294230000001,"2782 s perkins rd, memphis, tn 38118, usa",NA
+Sam's Donuts,(901) 385-1152,2235 Whitten Rd Ste 102 Memphis TN 38133,NA,NA,-89.8365438,35.186661,"2235 whitten rd #102, memphis, tn 38133, usa",NA
+MJ Donuts & Coffee,(901) 367-6675,4608 Winchester Rd Memphis TN 38118,NA,NA,-89.9097534,35.0515809,"4608 winchester rd, memphis, tn 38118, usa",NA
+Donald's Donuts,(901) 725-5595,1776 Union Ave Memphis TN 38104,NA,NA,-90.0024589,35.1356662,"1776 union ave, memphis, tn 38104, usa",NA
+Kay Bakery,(901) 767-0780,667 Avon Rd Memphis TN 38122,yes,gb model,-89.9024318,35.1494844,"667 avon rd, memphis, tn 38122, usa",blue
+River Oaks Restaurant,(901) 683-9305,5871 Poplar Ave Memphis TN 38119,NA,NA,-89.8668275,35.1031052,"5871 poplar ave, memphis, tn 38119, usa",NA
+Muddy's Grind House,(901) 443-4144,585 S Cooper St Memphis TN 38104,NA,NA,-89.99083569999999,35.1299544,"585 cooper st, memphis, tn 38104, usa",NA
+Pink Diva Cupcakery,(901) 946-0056,936 Florida St Memphis TN 38106,NA,NA,-90.0617765,35.1220274,"936 florida st, memphis, tn 38106, usa",NA
+Twinique Cakes,(901) 386-0779,6880 Hillshire Dr Ste 14 Memphis TN 38133,NA,NA,-89.833871,35.186698,"6880 hillshire dr #14, memphis, tn 38133, usa",NA
+Muddy's Bake Shop,(901) 683-8844,2497 Broad Ave Memphis TN 38112,Yes,No,-89.9758408,35.1478025,"2497 broad ave, memphis, tn 38112, usa",NA
+Mom's Kitchen,(901) 614-9606,669 S Highland St Memphis TN 38111,NA,NA,-89.9459825,35.1133605,"669 s highland st, memphis, tn 38111, usa",NA
+La Ilucion,(901) 369-0212,4273 American Way Memphis TN 38118,NA,NA,-89.9211725,35.0750106,"4273 american way, memphis, tn 38118, usa",NA
+Nacho Average Bakery,(901) 522-4455,150 Jefferson Ave Memphis TN 38103,NA,NA,-90.05017319999999,35.1468749,"150 jefferson ave, memphis, tn 38103, usa",NA
+Phillip Ashley Chocolates,(901) 572-1011,1200 Madison Ave Memphis TN 38104,NA,NA,-90.0211621,35.1396229,"1200 madison ave, memphis, tn 38104, usa",NA
+Caf√© Eclectic,(901) 725-1718,603 N Mclean Blvd Memphis TN 38107,NA,NA,-89.99752269999999,35.1541408,"603 n mclean blvd, memphis, tn 38107, usa",NA
+Einstein Bros Bagels,(901) 800-2806,4631 Poplar Ave Memphis TN 38117,NA,NA,-89.90778159999999,35.1160769,"4631 poplar ave, memphis, tn 38117, usa",NA
+The Cake Gallery,(901) 654-3425,164 Madison Ave Memphis TN 38103,NA,NA,-90.0505725,35.1447053,"164 madison ave, memphis, tn 38103, usa",NA
+Hustle & Dough,(901) 701-7577,477 S Main St Memphis TN 38103,NA,NA,-90.0593363,35.134393,"477 s main st, memphis, tn 38103, usa",NA
+Byrds Soulfood Andesserts,(901) 830-2204,1583 N Merton St Memphis TN 38108,NA,NA,-89.9731176,35.1793006,"1583 n merton st, memphis, tn 38108, usa",NA
+Grandma's Desserts Etc,(901) 458-2197,3108 Park Ave Memphis TN 38111,NA,NA,-89.9590115,35.1079995,"3108 park ave, memphis, tn 38111, usa",NA
+Perkins Restaurant & Bakery,(901) 341-6824,3455 Poplar Ave Memphis TN 38111,Yes,No,-89.9467056,35.12764,"3455 poplar ave, memphis, tn 38111, usa",NA
+Jeremiah's Italian Ice,(901) 660-2092,3717 Summer Ave Memphis TN 38122,NO,DOESNT GO BAD,-89.9369646,35.1489916,"3717 summer ave, memphis, tn 38122, usa",NA
+Sweet Potato Baby,(901) 401-0379,4728 Spottswood Ave Ste 161 Memphis TN 38117,NA,NA,-89.90552679999999,35.1133135,"4728 spottswood ave #161, memphis, tn 38117, usa",NA
+Crumbl Cookies - East Memphis,(901) 410-1950,705 S Mendenhall Rd Memphis TN 38117,yes,No,-89.8965913,35.1116985,"705 s mendenhall rd, memphis, tn 38117, usa",NA
+Crumbl Cookies - East Memphis,(901) 410-1950,711 S Mendenhall Rd Memphis TN 38117,NA,NA,-89.8965654,35.1116475,"711 s mendenhall rd, memphis, tn 38117, usa",NA
+Ricki's Cookie Corner,(901) 866-2447,5068 Park Ave Memphis TN 38117,NA,NA,-89.89377669999999,35.1078566,"5068 park ave, memphis, tn 38117, usa",NA
+Nothing Bundt Cakes,(901) 208-8984,681 S White Station Rd Ste 101 Memphis TN 38117,Yes,yes,-89.8885554,35.1124636,"681 s white station rd suite 101, memphis, tn 38117, usa",darkblue
+the sweet tooth of Memphis,(901) 581-3312,2264 meadow glade ln memphis TN 38134,No,NA,-89.8779893,35.1858901,"2264 meadow glade ln, memphis, tn 38134, usa",NA
+Sweet Thangs Custom Creations,(901) 336-8899,5499 Oak Bark Dr Memphis TN 38116,NA,NA,-90.02417439999999,34.998287,"5499 oak bark dr, memphis, tn 38116, usa",NA
+Milk Dessert Bar,(901) 730-0893,1789 Kirby Pkwy Ste 10 Memphis TN 38138,Yes,No,-89.840133,35.1003025,"1789 kirby pkwy # 10, germantown, tn 38138, usa",NA
+Cinnabon,(901) 381-2769,2760 N Germantown Pkwy Memphis TN 38133,Yes,No,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",NA
+Dave's Bagels,(206) 658-7280,694 Madison Ave Memphis TN 38103,NA,NA,-90.03787609999999,35.1413216,"694 madison ave, memphis, tn 38103, usa",NA
+The Hive,(901) 421-6924,276 S Front St Memphis TN 38103,NA,NA,-90.057031,35.13876,"276 s front st, memphis, tn 38103, usa",NA
+Kandy Apple Hill,(901) 453-6829,210 N 4th St Memphis TN 38105,NA,NA,-90.0452065,35.1493344,"210 n 4th st, memphis, tn 38105, usa",NA
+Cupcake Cutie Etc,(901) 249-6996,109 S Court Ave Memphis TN 38103,NA,NA,-90.05221949999999,35.1455659,"109 s ct ave, memphis, tn 38103, usa",NA
+The Big Ono Bake Shop,(901) 590-4910,116 S Front St Memphis TN 38103,NA,NA,-90.0552153,35.1424182,"116 s front st, memphis, tn 38103, usa",NA
+Interstate Brands,(901) 251-1060,490 Monroe Ave Memphis TN 38103,NA,NA,-90.0417339,35.1414153,"490 monroe ave, memphis, tn 38103, usa",NA
+Goodness Gracious Cookies,(901) 830-8756,694 Madison Ave Memphis TN 38103,NA,NA,-90.03787609999999,35.1413216,"694 madison ave, memphis, tn 38103, usa",NA
+Cupcake Cutie Etc.,(901) 443-5664,300 S Main St Memphis TN 38103,NA,NA,-90.05626749999999,35.1378448,"300 s main st, memphis, tn 38103, usa",NA
+Dee'lightful Bliss Bakery,(901) 244-8768,409 S Main St Memphis TN 38103,NA,NA,-90.05865709999999,35.1355017,"409 s main st, memphis, tn 38103, usa",NA
+Cakes & Catering by Nea,(901) 254-2800,853 Faxon Ave Memphis TN 38105,NA,NA,-90.0304513,35.1560633,"853 faxon ave, memphis, tn 38105, usa",NA
+Butteriffic Bakery & Cafe,(901) 207-4618,488 S 2nd St Memphis TN 38103,Yes,Yes,-90.05621,35.1338382,"488 s 2nd st, memphis, tn 38103, usa",NA
+Bake Pro Plus,(901) 729-7247,281 Bickford Ave Memphis TN 38107,NA,NA,-90.03902560000002,35.1644358,"281 bickford ave, memphis, tn 38107, usa",NA
+Primas Bakery and Boutique,(901) 746-8563,523 S Main St Memphis TN 38103,NA,NA,-90.05925909999999,35.1331594,"523 s main st, memphis, tn 38103, usa",NA
+Baptist Health Science University,(901) 524-1117,20 Dudley St Memphis TN 38103,NA,NA,-90.0292896,35.13946680000001,"20 dudley st, memphis, tn 38103, usa",NA
+Kel's Cookie Corner,(731) 676-2542,1325 Autumn Ave Memphis TN 38104,NA,NA,-90.01552129999999,35.15068249999999,"1325 autumn ave, memphis, tn 38104, usa",NA
+Einstein Bros Bagels,(901) 208-8196,7780 Us Highway 64 Memphis TN 38133,NA,NA,-89.80352409999999,35.2052858,"7780 us-64, memphis, tn 38133, usa",NA
+Kandy Apple Hill,(901) 453-6829,210 N 4th St Memphis TN 38105,NA,NA,-90.0452065,35.1493344,"210 n 4th st, memphis, tn 38105, usa",NA
+Cupcake Cutie Etc,(901) 249-6996,109 S Court Ave Memphis TN 38103,NA,NA,-90.05221949999999,35.1455659,"109 s ct ave, memphis, tn 38103, usa",NA
+The Big Ono Bake Shop,(901) 590-4910,116 S Front St Memphis TN 38103,NA,NA,-90.0552153,35.1424182,"116 s front st, memphis, tn 38103, usa",NA
+Interstate Brands,(901) 251-1060,490 Monroe Ave Memphis TN 38103,NA,NA,-90.0417339,35.1414153,"490 monroe ave, memphis, tn 38103, usa",NA
+Goodness Gracious Cookies,(901) 830-8756,694 Madison Ave Memphis TN 38103,NA,NA,-90.03787609999999,35.1413216,"694 madison ave, memphis, tn 38103, usa",NA
+Cupcake Cutie Etc.,(901) 443-5664,300 S Main St Memphis TN 38103,NA,NA,-90.05626749999999,35.1378448,"300 s main st, memphis, tn 38103, usa",NA
+Dee'lightful Bliss Bakery,(901) 244-8768,409 S Main St Memphis TN 38103,NA,NA,-90.05865709999999,35.1355017,"409 s main st, memphis, tn 38103, usa",NA
+Cakes & Catering by Nea,(901) 254-2800,853 Faxon Ave Memphis TN 38105,NA,NA,-90.0304513,35.1560633,"853 faxon ave, memphis, tn 38105, usa",NA
+Butteriffic Bakery & Cafe,(901) 207-4618,488 S 2nd St Memphis TN 38103,NA,NA,-90.05621,35.1338382,"488 s 2nd st, memphis, tn 38103, usa",NA
+Bake Pro Plus,(901) 729-7247,281 Bickford Ave Memphis TN 38107,NA,NA,-90.03902560000002,35.1644358,"281 bickford ave, memphis, tn 38107, usa",NA
+Primas Bakery and Boutique,(901) 746-8563,523 S Main St Memphis TN 38103,NA,NA,-90.05925909999999,35.1331594,"523 s main st, memphis, tn 38103, usa",NA
+Baptist Health Science University,(901) 524-1117,20 Dudley St Memphis TN 38103,NA,NA,-90.0292896,35.13946680000001,"20 dudley st, memphis, tn 38103, usa",NA
+Kel's Cookie Corner,(731) 676-2542,1325 Autumn Ave Memphis TN 38104,NA,NA,-90.01552129999999,35.15068249999999,"1325 autumn ave, memphis, tn 38104, usa",NA
+Lucy J's Bakery,(901) 257-9206,1350 Concourse Ave Ste 151 Memphis TN 38104,Yes,No,-90.0143805,35.1518486,"crosstown concourse, 1350 concourse ave suite 151, memphis, tn 38104, usa",NA
+Flowers Baking Company,(901) 946-7808,1029 Florida St Memphis TN 38106,NA,NA,-90.0623904,35.1195057,"1029 florida st, memphis, tn 38106, usa",NA
+K3 Studio Cafe,(901) 281-7762,1130 S 3rd St Memphis TN 38106,Yes,No,-90.054941,35.116588,"1130 s 3rd st, memphis, tn 38106, usa",NA
+The Gingers Bread & Co,(901) 870-3927,1613 Union Ave Memphis TN 38104,No,NA,-90.007851,35.135623,"1613 union ave, memphis, tn 38104, usa",NA
+Gigi's Cupcakes,(901) 888-2253,1680 Union Ave Memphis TN 38104,NA,NA,-90.0058653,35.1362032,"1680 union ave, memphis, tn 38104, usa",NA
+Lallemand Baking Solutions,(901) 357-6847,251 Stiles Dr Memphis TN 38127,NA,NA,-90.05380319999999,35.1906252,"251 stiles dr, memphis, tn 38127, usa",NA
+Sweet Expressions Now,(901) 290-2121,1671 Euclid Ave Memphis TN 38114,NA,NA,-90.00609960000001,35.12096289999999,"1671 euclid ave, memphis, tn 38114, usa",NA
+Lady Bugg Bakery,(901) 343-0438,6 S Cooper St Memphis TN 38104,NA,NA,-89.9898238,35.1362677,"6 cooper st, memphis, tn 38104, usa",NA
+Frost Bake Shop,(901) 682-4545,1094 Channel Ave Memphis TN 38106,Yes,Yes,-90.0903379,35.1055686,"1094 channel ave, memphis, tn 38106, usa",NA
+Carol's Cheesecakes & More,(901) 323-2217,482 N Hollywood St Memphis TN 38112,NA,NA,-89.9768804,35.1485417,"482 n hollywood st, memphis, tn 38112, usa",NA
+Perkins Restaurant & Bakery,(901) 774-9443,2249 Perry Rd Memphis TN 38106,NA,NA,-90.0109116,35.0838688,"2249 perry rd, memphis, tn 38106, usa",NA
+La Baguette French Bread Shop,(901) 458-0900,3088 Poplar Ave Memphis TN 38111,NA,NA,-89.9589501,35.1323398,"3088 poplar ave, memphis, tn 38111, usa",NA
+Bread-Hostess Cake,(816) 701-4600,570 Rivergate Rd Memphis TN 38109,NA,NA,-90.0830663,35.0805119,"570 n rivergate rd, memphis, tn 38109, usa",NA
+Baker Corp,(901) 332-0259,1451 Corporate Ave Memphis TN 38132,NA,NA,-90.01439390000002,35.071543,"1451 corporate ave, memphis, tn 38132, usa",NA
+Bimbo Bakeries USA,(901) 348-1825,3053 Fleetbrook Dr Memphis TN 38116,NA,NA,-90.0332085,35.0656053,"3053 fleetbrook dr, memphis, tn 38116, usa",NA
+Choice Cheesecakes,(901) 730-6082,111 S Highland St # 630 Memphis TN 38111,NA,NA,-89.9457123,35.128918,"111 s highland st #630, memphis, tn 38111, usa",NA
+Cafe Eclectic,(901) 410-0765,510 S Highland St Memphis TN 38111,NA,NA,-89.94536839999999,35.1176059,"510 s highland st, memphis, tn 38111, usa",NA
+La Espiga Panaderia,(901) 454-9220,3967 Summer Ave Memphis TN 38122,NA,NA,-89.9287064,35.1487031,"3967 summer ave, memphis, tn 38122, usa",NA
+Panaderia San Juan,(901) 249-3233,3979 Jackson Ave Memphis TN 38128,NA,NA,-89.9311079,35.1839759,"3979 jackson ave, memphis, tn 38128, usa",NA
+Weaver's Slice of Heaven Bakery,(901) 552-4232,4287 Summer Ave Memphis TN 38122,NA,NA,-89.9177673,35.1485505,"4287 summer ave, memphis, tn 38122, usa",NA
+La Ilucion,(901) 761-0160,4312 Macon Rd Memphis TN 38122,NA,NA,-89.9167451,35.1622974,"4312 macon rd, memphis, tn 38122, usa",NA
+Perkins Restaurant & Bakery,(901) 779-6135,1443 Leslie Cv Memphis TN 38111,NA,NA,-89.9339543,35.0921926,"1443 leslie cove, memphis, tn 38111, usa",NA
+Cinnabon,(901) 922-8000,2491 Winchester Rd Memphis TN 38116,NA,NA,-89.9814413,35.0471162,"2491 winchester rd, memphis, tn 38116, usa",NA
+Middle East Bakery & Grill,(901) 552-5296,4514 Summer Ave Ste 9 Memphis TN 38122,NA,NA,-89.9105246,35.150147,"4514 summer ave #9, memphis, tn 38122, usa",NA
+Great American Cookies,(901) 683-8803,4465 Poplar Ave Ste 1132 Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave #1132, memphis, tn 38117, usa",NA
+Cookie Cake Company,(901) 623-3722,4465 Poplar Ave Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave, memphis, tn 38117, usa",NA
+And Cookies Apples,(901) 789-3130,3654 Boxtown Rd Memphis TN 38109,NA,NA,-90.1248181,35.0490321,"3654 boxtown rd, memphis, tn 38109, usa",NA
+Perkins Restaurant & Bakery,(901) 818-5549,555 S Perkins Rd Memphis TN 38117,NA,NA,-89.9098886,35.1161402,"555 s perkins rd, memphis, tn 38117, usa",NA
+Whimsy Cookie Company Franchising,(901) 343-0709,4704 Poplar Ave Memphis TN 38117,NA,NA,-89.9049699,35.1159458,"4704 poplar ave, memphis, tn 38117, usa",NA
+Gigi's Cupcakes,(901) 888-2255,4709 Poplar Ave Memphis TN 38117,NA,NA,-89.9049764,35.1150584,"4709 poplar ave, memphis, tn 38117, usa",NA
+The Flour Garden,(901) 417-7600,4730 Poplar Ave Ste 3 Memphis TN 38117,NA,NA,-89.904039,35.115709,"4730 poplar ave #3, memphis, tn 38117, usa",NA
+Butcher & Baker,(901) 682-7441,5041 Summer Ave Memphis TN 38122,NA,NA,-89.89224120000002,35.1489172,"5041 summer ave, memphis, tn 38122, usa",NA
+City Bread,(901) 683-7350,575 S Mendenhall Rd Memphis TN 38117,NA,NA,-89.8963259,35.1155061,"575 s mendenhall rd, memphis, tn 38117, usa",NA
+Mi Pueblo,(901) 244-7913,5007 Black Rd Memphis TN 38117,NA,NA,-89.89505249999999,35.1142461,"5007 black rd, memphis, tn 38117, usa",NA
+Haute Monde Dessert Bar,(901) 290-2099,4590 Plato Ave Memphis TN 38128,NA,NA,-89.9101913,35.2162427,"4590 plato ave, memphis, tn 38128, usa",NA
+D's Butter Cookies,(901) 435-6083,1833 Gooch Rd Memphis TN 38109,NA,NA,-90.124843,35.032259,"1833 gooch rd, memphis, tn 38109, usa",NA
+Blanca Cakes,(901) 207-7452,5070 Raleigh Lagrange Rd Ste 18 Memphis TN 38134,NA,NA,-89.8939505,35.1936299,"5070 raleigh lagrange rd #18, memphis, tn 38134, usa",NA
+Panaderia La Ideal,(901) 779-7925,3993 Lamar Ave Memphis TN 38118,NA,NA,-89.9308387,35.0551146,"3993 lamar ave, memphis, tn 38118, usa",NA
+Ms. Chocolate Drop Bakeries & Treat,(901) 255-4128,5276 Kimbark Woods Dr Memphis TN 38134,NA,NA,-89.88741309999999,35.1930852,"5276 kimbark woods dr, memphis, tn 38134, usa",NA
+Southern Gourmet Designer Cakes & Baskets,(901) 218-4618,4529 Atoll Ln Memphis TN 38118,NA,NA,-89.9592704,35.024762,"4529 atoll ln, memphis, tn 38118, usa",NA
+L J J's Custom Cakes,(901) 377-2305,5647 Falling Bark Dr Memphis TN 38134,NA,NA,-89.87450170000001,35.1800654,"5647 falling bark dr, memphis, tn 38134, usa",NA
+Panaderia La Ilusion 4,(901) 729-7820,5717 Raleigh Lagrange Rd Memphis TN 38134,yes,no,-89.87276570000002,35.18244720000001,"5717 raleigh lagrange rd, bartlett, tn 38134, usa",red
+Jostens Jostens,(901) 425-2913,5681 Quince Rd Memphis TN 38119,NA,NA,-89.87406570000002,35.0886127,"5681 quince rd, memphis, tn 38119, usa",NA
+Draper's Bakery & Banquets,(901) 385-7788,6110 Macon Rd Memphis TN 38134,no,NA,-89.8595026,35.1646471,"6110 macon rd, memphis, tn 38134, usa",NA
+Panaderia,(901) 249-7248,3127 S Mendenhall Rd Memphis TN 38115,no,NA,-89.88727279999999,35.0632829,"3127 s mendenhall rd, memphis, tn 38115, usa",NA
+Kellogg's Snacks,(901) 373-6115,1751 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.8559239,35.1733686,"1751 n shelby oaks dr, memphis, tn 38134, usa",NA
+Jose Bakery,(901) 249-3933,5365 Knight Arnold Rd Memphis TN 38115,yes,ish,-89.8846514,35.0615008,"5365 knight arnold rd, memphis, tn 38115, usa",purple
+Marie Callender's,(901) 766-6400,6075 Poplar Ave Ste 800 Memphis TN 38119,NA,NA,-89.86105040000001,35.1014489,"6075 poplar ave # 800, memphis, tn 38119, usa",NA
+Marie Callender's,(901) 766-6492,1687 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.85662219999999,35.1710632,"1687 shelby oaks dr, memphis, tn 38134, usa",NA
+Sweet Lala's Bakery,(901) 654-3646,6150 Poplar Ave Ste 118 Memphis TN 38119,yes,no,-89.8575741,35.1027656,"6150 poplar ave suite 118, memphis, tn 38119, usa",red
+Flowers Baking Company,(901) 566-1220,4521 Malone Rd Memphis TN 38118,NA,NA,-89.9211257,35.025066,"4521 malone rd, memphis, tn 38118, usa",NA
+Cinnabon,(901) 761-1818,6300 Poplar Ave Memphis TN 38119,NA,NA,-89.8530384,35.1020598,"6300 poplar ave, memphis, tn 38119, usa",NA
+Kutie Pies Company,(901) 779-6902,6488 Gallan Dr Memphis TN 38134,NA,NA,-89.8467151,35.1682157,"6488 gallan dr, memphis, tn 38134, usa",NA
+Walmart - Bakery,(901) 362-3622,2856 Hickory Hill Rd Memphis TN 38115,NA,NA,-89.8627032,35.0699717,"2856 hickory hill rd, memphis, tn 38115, usa",NA
+Walmart - Bakery,(901) 498-5340,6727 Raleigh Lagrange Rd Memphis TN 38134,NA,NA,-89.83965669999999,35.176975,"6727 raleigh lagrange rd, memphis, tn 38134, usa",NA
+Bunny Bread Co,(901) 388-3803,4699 Austin Peay Hwy Memphis TN 38135,NA,NA,-89.8767593,35.2540848,"4699 austin peay hwy, memphis, tn 38135, usa",NA
+Sprinkle Me Silly,(901) 729-7758,6860 Hillshire Dr Ste 8 Memphis TN 38133,NA,NA,-89.8349755,35.1865439,"6860 hillshire dr #8, memphis, tn 38134, usa",NA
+Cookie Florist The,(901) 377-7034,6860 Hillshire Dr Memphis TN 38133,NA,NA,-89.83460430000001,35.1867083,"6860 hillshire dr, memphis, tn 38133, usa",NA
+The Donut Box,(901) 385-1867,3051 Kirby Whitten Rd Ste 1 Memphis TN 38134,NA,NA,-89.841065,35.2089901,"3051 kirby whitten rd #1, bartlett, tn 38134, usa",NA
+D & R Bakery,(901) 377-9991,2740 Whitten Rd Memphis TN 38133,NA,NA,-89.83609,35.2002246,"2740 whitten rd, memphis, tn 38133, usa",NA
+Makeda's Homemade Butter Cookies,(901) 367-8799,6075 Winchester Rd Memphis TN 38115,NA,NA,-89.861052,35.0481711,"6075 winchester rd, memphis, tn 38115, usa",NA
+Old School Cookies,(901) 846-6046,4210 Altruria Rd Ste 110 Memphis TN 38135,NA,NA,-89.8438516,35.2400782,"4210 altruria rd #110, bartlett, tn 38135, usa",NA
+AppleHeadz SweetzBoutique,(901) 235-3940,7140 Stage Blvd  STE 112 Memphis TN 38133,NA,NA,-89.7989767,35.2091855,"bartlett, tn 38133, usa",NA
+Le Gourmet French Pastry,(901) 384-3900,7395 Us Highway 64 Ste 103 Memphis TN 38133,NA,NA,-89.8180229,35.2038555,"7395 us-64 #103, memphis, tn 38133, usa",NA
+La Espiga Bakery,(901) 207-2732,6661 Winchester Rd Memphis TN 38115,NA,NA,-89.84133940000001,35.0490161,"6661 winchester rd, memphis, tn 38115, usa",NA
+Thecheesecakeguru,(901) 361-6248,6891 Somerset Cv Memphis TN 38119,NA,NA,-89.83276359999999,35.0623229,"6891 somerset cove, memphis, tn 38119, usa",NA
+Tempting Berries Bakery,(901) 363-6300,6765 Winchester Rd Memphis TN 38115,NA,NA,-89.83769579999999,35.0483392,"6765 winchester rd, memphis, tn 38115, usa",NA
+Ty's Gourmet Cupcakes,(901) 207-7741,6415 Fawn Hollow Cir S Memphis TN 38141,NA,NA,-89.8494474,35.0242212,"6415 s fawn hollow cir, memphis, tn 38141, usa",NA
+Carousel Sweets Bakery,(901) 352-5567,8034 Giacosa Pl Ste 103 Memphis TN 38133,NA,NA,-89.7958865,35.1991964,"8034 giacosa pl suite 103, memphis, tn 38133, usa",NA
+Walmart - Bakery,(901) 757-1442,7525 Winchester Rd Memphis TN 38125,NA,NA,-89.811162,35.047802,"7525 winchester rd, memphis, tn 38125, usa",NA
+Walmart - Bakery,(901) 309-7876,6990 E Shelby Dr Memphis TN 38125,NA,NA,-89.8303826,35.0220905,"6990 e shelby dr, memphis, tn 38141, usa",NA
+Schnucks Markets,(901) 754-3451,5270 Riverdale Rd Memphis TN 38141,NA,NA,-89.830664,35.0037656,"5270 riverdale rd, memphis, tn 38125, usa",NA
+Schnucks Markets,(901) 754-8947,5274 Riverdale Rd Memphis TN 38141,NA,NA,-89.8284113,35.004454,"5274 riverdale rd, memphis, tn 38141, usa",NA
+Makeda's Homemade Cookies,(901) 745-2667,2370 Airways Blvd Memphis TN 38114,yes,yes,-89.9847155,35.0807294,"2370 airways blvd, memphis, tn 38114, usa",darkblue
+Great American Cookies,(901) 386-7871,2760 N Germantown Pkwy Memphis TN 38133,yes,no,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",red
+Muddys Bake Shop,(901) 683-8844,5101 Sanderlin Ave Memphis TN 38117,NA,NA,-89.8916567,35.1160851,"5101 sanderlin ave, memphis, tn 38137, usa",NA
+Creative Cakes Boutique,(901) 389-0683,2910 Overton Crossing St Memphis TN 38127,NA,NA,-89.99673960000001,35.204736,"2910 overton crossing st, memphis, tn 38127, usa",NA
+Cupcake Cutie Inc,(901) 729-6514,7140 Stage Rd Memphis TN 38133,NA,NA,-89.8248268,35.2048575,"7140 stage rd, bartlett, tn 38133, usa",NA
+Howard's Do-Nuts,(870) 735-2046,1711 N Missouri St West Memphis AR 72301,yes,no,-90.184274,35.1657733,"1711 n missouri st, west memphis, ar 72301, usa",red
+opera house,NA,"500 Walnut St, Kansas City, MO 64106-1209",not really,not really,-94.5818005,39.1083806,"500 walnut st, kansas city, mo 64106, usa",NA
+elvira's cakes,NA,"3838 Independence Ave, Kansas City, MO 64124-2704",yes,ish,-94.5359397,39.1061216,"3838 independence ave, kansas city, mo 64124, usa",purple
+Cupcake a la mode,NA,"4639 Wornall Rd, Kansas City, MO 64112",yes,no,-94.5898419,39.0426063,"4639 wornall rd, kansas city, mo 64112, usa",red
+Scola's Original Italian Cookies & Pastries,NA,"8002 N Oak Tfwy, Unit 105, Kansas City, MO 64118",yes,no,-94.5768711,39.2396141,"8002 n oak trafficway #105, kansas city, mo 64118, usa",red
+McLain's Bakery,NA,"201 E Gregory Blvd, Kansas City, MO 64114",yes,no,-94.5865863,38.9991104,"201 e gregory blvd, kansas city, mo 64114, usa",red
+Messenger Coffee Co. + Ibis Bakery,NA,"318 W 47th St, Kansas City, MO 64112",NA,NA,-94.5908235,39.042494,"318 w 47th st, kansas city, mo 64112, usa",NA
+Bloom Baking Company,NA,"15 E 3rd St, Kansas City, MO 64106-1004",yes,yes,-94.5826541,39.1098605,"15 e 3rd st, kansas city, mo 64106, usa",darkblue
+Bonito Michoacán Bakery,NA,"1150 Minnesota Ave, Kansas City, KS 66102",NA,NA,-94.640479,39.115844,"1150 minnesota ave, kansas city, ks 66102, usa",NA
+Ashleigh's Bakeshop,NA,"115 Westport Rd, Kansas City, MO 64111-2226",yes,no,-94.5878268,39.0543597,"115 westport rd, kansas city, mo 64111, usa",red
+cupcakin bakery,NA,"2450 Grand Blvd, Unit 126, Kansas City, MO 64108",NA,NA,-94.58244619999999,39.0826589,"2450 grand blvd #126, kansas city, mo 64108, usa",NA
+smallcakes 64th,NA,"6127 NW 63rd Ter, Kansas City, MO 64151",NA,NA,-94.6519026,39.209258,"6127 nw 63rd terrace, kansas city, mo 64151, usa",NA
+sweet petites kc,NA,"108 E Missouri Ave, Kansas City, MO 64106",yes,no,-94.58089199999999,39.1078502,"108 e missouri ave, kansas city, mo 64106, usa",red
+delicias bakery,NA,"1704 Central Ave Kansas City, KS 66102",no,no,-94.64851999999999,39.1058801,"1704 central ave, kansas city, ks 66102, usa",red
+The Muffin Top Bakery - Zona Rosa,NA,8671 NW Prairie View RD.,yes,no,-94.661726,39.2513007,"8671 nw prairie view rd, kansas city, mo 64153, usa",red
+donut king,NA,"2320 Armour Rd, North Kansas City, MO 64116",NA,NA,-94.5549276,39.1466534,"2320 armour rd, north kansas city, mo 64116, usa",NA
+donutology,NA,"1009 Westport Rd, Kansas City, MO 64111",yes,no,-94.59866210000001,39.0495807,"1009 westport rd, kansas city, mo 64111, usa",red
+johnnys donuts,NA,"4424 Prospect Ave, Kansas City, MO 64130",NA,NA,-94.5543716,39.0455111,"4424 prospect ave, kansas city, mo 64130, usa",NA
+yummys donut palace,NA,"3120 Stadium Dr, Kansas City, MO 64128",yes,yes,-94.52024730000001,39.0684014,"3120 n stadium dr, kansas city, mo 64129, usa",darkblue
+Providence By The Slice,NA,"415 Westport Rd, Kansas City, MO 64111",yes,no,-94.5906784,39.0529821,"415 westport rd, kansas city, mo 64111, usa",red
+SPIN! Pizza,NA,"4950 Main St, Kansas City, MO 64112",NA,NA,-94.5874934,39.0371806,"4950 main st, kansas city, mo 64112, usa",NA
+Leo's Pizza,NA,"408 NW Englewood Rd, Kansas City, MO 64118",NA,NA,-94.5871618,39.19720119999999,"408 nw englewood rd, kansas city, mo 64118, usa",NA
+Buffalo State Pizza Co. & Bar,NA,"1815 Wyandotte St, Kansas City, MO 64108",yes,no,-94.58575739999999,39.091383,"1815 wyandotte st, kansas city, mo 64108, usa",red
+Mud Pie Bakery & Coffee,NA,"7319 W 95th St, Overland Park, KS 66212",NA,NA,-94.6704709,38.9562713,"7319 w 95th st, overland park, ks 66212, usa",NA
+Bo Lings,NA,"4701 Jefferson St, Kansas City, MO 64112",yes,no,-94.5944584,39.0420877,"4701 jefferson st, kansas city, mo 64112, usa",red
