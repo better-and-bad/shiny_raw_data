@@ -1,20 +1,20 @@
 Name,PhoneNum,Address,Surplus,Solution,lon,lat,address,status_Color
 Kick Ass Kakes,(602) 266-0533,4700 N Central Ave Ste 105 Phoenix AZ 85012,NA,NA,-112.0745341,33.506001,"4700 n central ave #105, phoenix, az 85012, usa",NA
-Diana's Bakery,(602) 415-9715,5010 W Mcdowell Rd Phoenix AZ 85035,NA,no,-112.166704,33.4663748,"5010 w mcdowell rd, phoenix, az 85035, usa",red
+Diana's Bakery,(602) 415-9715,5010 W Mcdowell Rd Phoenix AZ 85035,NA,no,-112.166704,33.4663748,"5010 w mcdowell rd, phoenix, az 85035, usa",blue
 Classic Cakes and Confection,(602) 795-9662,10801 N 32nd St Ste 3 Phoenix AZ 85028,NA,NA,-112.0127053,33.5846534,"10801 n 32nd st #3, phoenix, az 85028, usa",NA
 Baker Wee,(602) 843-0112,4263 W Thunderbird Rd Phoenix AZ 85053,NA,NA,-112.1508179,33.6103391,"4263 w thunderbird rd, phoenix, az 85053, usa",NA
 Switch Restaurant & Wine Bar,(602) 264-2295,2603 N Central Ave Phoenix AZ 85004,NA,NA,-112.0734629,33.4770272,"2603 n central ave, phoenix, az 85004, usa",NA
 Cakes 'n' Pastries,(480) 442-4119,17150 N 23rd St Unit 125 Phoenix AZ 85022,NA,NA,-112.0340149,33.6430121,"17150 n 23rd st unit 125, phoenix, az 85022, usa",NA
-Holsum Bakery,(623) 434-3150,18631 N 19th Ave Phoenix AZ 85027,NA,NA,-112.0992886,33.656723,"18631 n 19th ave, phoenix, az 85027, usa",NA
+Holsum Bakery,(623) 434-3150,18631 N 19th Ave Phoenix AZ 85027,NA,NA,-112.0988798,33.6558058,"18631 n 19th ave, phoenix, az 85027, usa",NA
 Oroweat Bakery Outlet,(602) 788-0372,19401 N Cave Creek Rd Phoenix AZ 85024,NA,NA,-112.0297998,33.6633528,"19401 n cave creek rd, phoenix, az 85024, usa",NA
 Cafe Valley Bakery Inc,(602) 278-2909,7000 W Buckeye Rd Phoenix AZ 85043,NA,NA,-112.2106681,33.4383901,"7000 w buckeye rd, phoenix, az 85043, usa",NA
-Wild Flower Bread Company,(602) 275-2300,3400 E Sky Harbor Blvd Phoenix AZ 85034,yes,yes,-112.0087061,33.4341358,"west economy park and walk, 3400 sky hbr blvd, phoenix, az 85034, usa",darkblue
-Wildflower Bread Company,(480) 951-0094,3319 N 35th Ave Phoenix AZ 85017,yes,yes,-112.1336163,33.4866538,"3319 n 35th ave, phoenix, az 85017, usa",darkblue
+Wild Flower Bread Company,(602) 275-2300,3400 E Sky Harbor Blvd Phoenix AZ 85034,yes,yes,-112.035749,33.4413046,"3400 e sky harbor cir n, phoenix, az 85034, usa",red
+Wildflower Bread Company,(480) 951-0094,3319 N 35th Ave Phoenix AZ 85017,yes,yes,-112.1336163,33.4866538,"3319 n 35th ave, phoenix, az 85017, usa",red
 Lilac Bakery,(602) 559-4869,2747 E Indian School Rd Phoenix AZ 85016,NA,NA,-112.0219506,33.4947439,"2747 e indian school rd, phoenix, az 85016, usa",NA
 Sweet Baby,(602) 535-5940,2323 N 39th Pl Phoenix AZ 85008,NA,NA,-111.9963571,33.4739624,"2323 north 39th pl, phoenix, az 85008, usa",NA
 Bread and Honey House,602-825-1048,4700 E Van Buren St Phoenix AZ 85008,NA,NA,-111.9806725,33.4513988,"4700 e van buren st, phoenix, az 85008, usa",NA
 The Bakery Phx,(480) 499-0211,1528 E Bethany Home Rd Phoenix AZ 85014,NA,NA,-112.048522,33.5240236,"1528 e bethany home rd, phoenix, az 85014, usa",NA
-Cookie Brokers Bakery of Phoenix,(602) 651-1352,3931 E Indian School Rd Phoenix AZ 85018,yes,no,-111.9959631,33.4941722,"3931 e indian school rd, phoenix, az 85018, usa",red
+Cookie Brokers Bakery of Phoenix,(602) 651-1352,3931 E Indian School Rd Phoenix AZ 85018,yes,no,-111.9959631,33.4941722,"3931 e indian school rd, phoenix, az 85018, usa",blue
 Omg! Cake Pops,(480) 478-3317,Arizona Phoenix AZ 85016,NA,NA,-112.029752,33.5106684,"phoenix, az 85016, usa",NA
 Angelicious Cakes & Fine Treats,(602) 741-5669,Private Phoenix AZ 85041,NA,NA,-112.0963314,33.6197267,"s private dr, phoenix, az 85023, usa",NA
 Cinnabon,(602) 331-4400,9617 Metro Parkway Phoenix AZ 85051,NA,NA,-112.121551,33.5757555,"9617 n metro pkwy e, phoenix, az 85051, usa",NA
@@ -56,7 +56,7 @@ Sprinkle Me Cupcake,(602) 283-5672,2019 W Bethany Home Rd Phoenix AZ 85015,NA,NA
 Big Daddy's Banana Pudding,(602) 283-5672,2019 W Bethany Home Rd Phoenix AZ 85015,NA,NA,-112.1025488,33.5236705,"2019 w bethany home rd, phoenix, az 85015, usa",NA
 Edwards Bakery,(602) 595-7006,4344 W Indian School Rd Phoenix AZ 85031,NA,NA,-112.1528614,33.4974417,"4344 w indian school rd, phoenix, az 85031, usa",NA
 Safari Bakery & Cafe,(602) 358-7091,5042 E Mcdowell Rd Phoenix AZ 85008,NA,NA,-111.9726699,33.4661464,"5042 e mcdowell rd, phoenix, az 85008, usa",NA
-Pie Snob,(602) 266-0511,6522 N 16th St Phoenix AZ 85016,yes,no,-112.0480562,33.5318493,"6522 n 16th st, phoenix, az 85016, usa",red
+Pie Snob,(602) 266-0511,6522 N 16th St Phoenix AZ 85016,yes,no,-112.0480562,33.5318493,"6522 n 16th st, phoenix, az 85016, usa",blue
 Kneaders Bakery & Cafe,(602) 296-0576,4126 E Indian School Rd Phoenix AZ 85018,NA,NA,-111.9921373,33.4952469,"4126 e indian school rd, phoenix, az 85018, usa",NA
 Safari Bakery & Cafe,(602) 358-7091,5042 E Mcdowell Rd Phoenix AZ 85008,NA,NA,-111.9726699,33.4661464,"5042 e mcdowell rd, phoenix, az 85008, usa",NA
 Enchanted Cupcakes and More,(602) 694-4736,3933 W Pollack St Phoenix AZ 85041,NA,NA,-112.1439297,33.3796756,"3933 w pollack st, phoenix, az 85041, usa",NA
@@ -72,37 +72,37 @@ Cake Lady Studios & Events,(602) 612-4168,2601 W Dunlap Ave Phoenix AZ 85021,NA,
 Bakery Antigua 2,(623) 936-7229,8240 W Lower Buckeye Rd Phoenix AZ 85043,NA,NA,-112.2371443,33.4235469,"8240 w lower buckeye rd, phoenix, az 85043, usa",NA
 Ms Maureen's Irish Soda Bread,(602) 975-1242,9636 N 36th St Phoenix AZ 85028,no,NA,-112.0045545,33.5750663,"9636 n 36th st, phoenix, az 85028, usa",NA
 Sweet Creations,(602) 753-1282,4825 E Warner Rd Phoenix AZ 85044,NA,NA,-111.9787355,33.3294975,"4825 e warner rd, phoenix, az 85044, usa",NA
-Smallcakes A Cupcakery,(480) 706-2253,4302 E Ray Rd Phoenix AZ 85044,yes,no,-111.9918625,33.3203374,"4302 e ray rd, phoenix, az 85044, usa",red
+Smallcakes A Cupcakery,(480) 706-2253,4302 E Ray Rd Phoenix AZ 85044,yes,no,-111.9918625,33.3203374,"4302 e ray rd, phoenix, az 85044, usa",blue
 Kneaders,(602) 688-8530,4734 E Ray Rd Phoenix AZ 85044,NA,NA,-111.9811417,33.3218984,"4734 e ray rd, phoenix, az 85044, usa",NA
 Eden's Bakery,(602) 843-1133,12450 N 35th Ave Phoenix AZ 85029,NA,NA,-112.135119,33.5987905,"12450 n 35th ave, phoenix, az 85029, usa",NA
 Sweet & Divine Baking,(602) 320-7235,13826 N 19th Pl Phoenix AZ 85022,NA,NA,-112.0411863,33.6126694,"13826 n 19th pl, phoenix, az 85022, usa",NA
 12 Cake Baker Scottsdale Cakery,(602) 377-8311,15414 N 7th St Phoenix AZ 85022,NA,NA,-112.0664068,33.6263934,"15414 n 7th st, phoenix, az 85022, usa",NA
 Mamma Toledo's The Pie Hole,(602) 332-7346,15414 N 7th St Ste 6 Phoenix AZ 85022,NA,NA,-112.0663905,33.6263408,"15414 n 7th st #6, phoenix, az 85022, usa",NA
-Sugar & Lace Bakery,(480) 287-6102,15414 N 19th Ave Phoenix AZ 85023,yes,no,-112.1001269,33.6259032,"15414 n 19th ave, phoenix, az 85023, usa",red
-Meters Bakery Of Phoenix Bell,(602) 923-0647,1150 E Bell Rd Phoenix AZ 85022,NA,NA,-112.0585239,33.6409374,"1150 e bell rd, phoenix, az 85022, usa",NA
-Balkan Bakery,(602) 996-4598,1618 E Bell Rd Ste 106 Phoenix AZ 85022,yes,no,-112.0472209,33.6409718,"1618 e bell rd # 106, phoenix, az 85022, usa",red
+Sugar & Lace Bakery,(480) 287-6102,15414 N 19th Ave Phoenix AZ 85023,yes,no,-112.1001269,33.6259032,"15414 n 19th ave, phoenix, az 85023, usa",blue
+Meters Bakery Of Phoenix Bell,(602) 923-0647,1150 E Bell Rd Phoenix AZ 85022,NA,NA,-112.0584891,33.6409228,"1150 e bell rd, phoenix, az 85022, usa",NA
+Balkan Bakery,(602) 996-4598,1618 E Bell Rd Ste 106 Phoenix AZ 85022,yes,no,-112.0472209,33.6409718,"1618 e bell rd # 106, phoenix, az 85022, usa",blue
 Tala Bakery,(480) 215-3773,2507 E Bell Rd Phoenix AZ 85032,NA,NA,-112.0282325,33.639793,"2507 e bell rd, phoenix, az 85032, usa",NA
 Pasteleria Y Panaderia El Guero,(602) 364-9015,2535 E Bell Rd Phoenix AZ 85032,NA,NA,-112.0270972,33.639886,"2535 e bell rd, phoenix, az 85032, usa",NA
 Kate's Karamels,(623) 329-8710,3934 W Phelps Rd Phoenix AZ 85053,NA,NA,-112.1443954,33.6374439,"3934 w phelps rd, phoenix, az 85053, usa",NA
 Cakes by Stiggy,NA,3143 E Libby St Phoenix AZ 85032,NA,NA,-112.0140793,33.6488605,"3143 e libby st, phoenix, az 85032, usa",NA
 Knead Luv Bakery & Caf+,(602) 844-5091,21031 N Cave Creek Rd Phoenix AZ 85024,NA,NA,-112.0298452,33.6778943,"21031 n cave creek rd, phoenix, az 85024, usa",NA
 Blue Bake Shop,(602) 909-1439,24250 N 23rd Ave Phoenix AZ 85085,NA,NA,-112.1098731,33.7059231,"24250 n 23rd ave, phoenix, az 85085, usa",NA
-Sweeteez Sweets,(623) 734-6082,1985 W Happy Valley Rd Phoenix AZ 85085,yes,no,-112.1019899,33.7122821,"1985 w happy valley rd, phoenix, az 85085, usa",red
+Sweeteez Sweets,(623) 734-6082,1985 W Happy Valley Rd Phoenix AZ 85085,yes,no,-112.1019899,33.7122821,"1985 w happy valley rd, phoenix, az 85085, usa",blue
 Honeylamb Cookie Company,(602) 653-6550,27908 N 65th Ln Phoenix AZ 85083,no,NA,-112.2006088,33.7384201,"27908 n 65th ln, phoenix, az 85083, usa",NA
 Cookie Wednesday,(801) 372-9322,1811 W Sierra Sunset Trl Phoenix AZ 85085,no,NA,-112.0980776,33.7784257,"1811 w sierra sunset trail, phoenix, az 85085, usa",NA
 El Fenix Bakery,(602) 276-9104,6219 S Central Ave Phoenix AZ 85042,NA,NA,-112.0729473,33.3895846,"6219 s central ave, phoenix, az 85042, usa",NA
-Bimbo Bakery,(623) 780-0412,2058 W Rose Garden Ln Phoenix AZ 85027,no,no,-112.1047377,33.6770106,"2058 w rose garden ln, phoenix, az 85027, usa",red
-Cakes by Ashli,(602) 882-4991,40th st and southern phoenix AZ 85040,no,NA,-111.9956559,33.3922411,"40th st & southern av, phoenix, az 85042, usa",NA
-Victorian Cake Company,(602) 246-4633,402 E Greenway Pkwy Ste 1 Phoenix AZ 85022,yes,yes,-112.0665473,33.6383632,"402 e greenway pkwy #1, phoenix, az 85022, usa",darkblue
+Bimbo Bakery,(623) 780-0412,2058 W Rose Garden Ln Phoenix AZ 85027,no,no,-112.1047377,33.6770106,"2058 w rose garden ln, phoenix, az 85027, usa",blue
+Cakes by Ashli,(602) 882-4991,40th st and southern phoenix AZ 85040,no,NA,-111.9955575,33.3926065,"southern ave & 40th st, phoenix, az, usa",NA
+Victorian Cake Company,(602) 246-4633,402 E Greenway Pkwy Ste 1 Phoenix AZ 85022,yes,yes,-112.0665473,33.6383632,"402 e greenway pkwy #1, phoenix, az 85022, usa",red
 Asahi Bakery,(602) 234-3093,6056 N 16th St Phoenix AZ 85016,NA,NA,-112.048161,33.5251623,"6056 n 16th st, phoenix, az 85016, usa",NA
-Cinnabon,(602) 275-1721,3400 E Sky Harbor Blvd Phoenix AZ 85034,NA,NA,-112.0087061,33.4341358,"west economy park and walk, 3400 sky hbr blvd, phoenix, az 85034, usa",NA
+Cinnabon,(602) 275-1721,3400 E Sky Harbor Blvd Phoenix AZ 85034,NA,NA,-112.035749,33.4413046,"3400 e sky harbor cir n, phoenix, az 85034, usa",NA
 Holsum Bakery Inc,(602) 252-2351,2322 W Lincoln St Phoenix AZ 85009,NA,NA,-112.1096746,33.4426468,"2322 w lincoln st, phoenix, az 85009, usa",NA
-Upper Crust Bakery USA,(602) 255-0464,3655 W Washington St Phoenix AZ 85009,yes,yes,-112.1376176,33.4467456,"3655 w washington st, phoenix, az 85009, usa",darkblue
+Upper Crust Bakery USA,(602) 255-0464,3655 W Washington St Phoenix AZ 85009,yes,yes,-112.1376176,33.4467456,"3655 w washington st, phoenix, az 85009, usa",red
 Cinnzeo,(602) 943-2095,9617 N Metro Pkwy W Phoenix AZ 85051,NA,NA,-112.1217839,33.5756703,"9617 n metro pkwy w, phoenix, az 85051, usa",NA
-Bimbo Bakeries USA,(602) 567-7020,3425 E Van Buren St Phoenix AZ 85008,yes,no,-112.0068469,33.4501573,"3425 e van buren st, phoenix, az 85008, usa",red
+Bimbo Bakeries USA,(602) 567-7020,3425 E Van Buren St Phoenix AZ 85008,yes,no,-112.0068469,33.4501573,"3425 e van buren st, phoenix, az 85008, usa",blue
 Old Heidelberg Bakery,(602) 224-9877,2210 E Indian School Rd Phoenix AZ 85016,NA,NA,-112.0340137,33.4951201,"2210 e indian school rd, phoenix, az 85016, usa",NA
 La Purisima Bakery II,623-842-1400,2318 E Indian School Rd Phoenix AZ 85016,NA,NA,-112.0316383,33.4951463,"2318 e indian school rd, phoenix, az 85016, usa",NA
-Cinnabon,(602) 808-9800,4445 E Thomas Rd Phoenix AZ 85018,yes,yes,-111.9854582,33.4798183,"4445 e thomas rd, phoenix, az 85018, usa",darkblue
+Cinnabon,(602) 808-9800,4445 E Thomas Rd Phoenix AZ 85018,yes,yes,-111.9854582,33.4798183,"4445 e thomas rd, phoenix, az 85018, usa",red
 Antigua Bakery,(602) 973-9021,3605 W Camelback Rd Phoenix AZ 85019,NA,NA,-112.13647,33.5087315,"3605 w camelback rd, phoenix, az 85019, usa",NA
 Dawn Bakery Services Center,(602) 353-9176,2429 S 51st Ave Ste 104 Phoenix AZ 85043,NA,NA,-112.1688526,33.4247002,"2429 51st ave #104, phoenix, az 85043, usa",NA
 Nothing Bundt Cakes,(480) 753-1121,4722 E Ray Rd Phoenix AZ 85044,NA,NA,-111.9811417,33.3215648,"4722 e ray rd, phoenix, az 85044, usa",NA
@@ -119,8 +119,8 @@ Bimbo Bakery,(602) 216-6292,10414 N 19th Ave Phoenix AZ 85021,NA,NA,-112.1001269
 Panaderia Mazatlan,(602) 944-2110,10430 N 19th Ave Phoenix AZ 85021,NA,NA,-112.10022,33.5811623,"10430 n 19th ave, phoenix, az 85021, usa",NA
 Holsum Bakery,(602) 993-2901,17815 N 25th Ave Phoenix AZ 85023,NA,NA,-112.1119753,33.6482228,"17815 n 25th ave, phoenix, az 85023, usa",NA
 Sara Lee Bakery,(602) 252-6881,738 W Van Buren St Phoenix AZ 85007,NA,NA,-112.084345,33.451864,"738 w van buren st, phoenix, az 85007, usa",NA
-Bimbo Bakeries USA,(602) 252-6888,312 N 9th Ave Phoenix AZ 85007,yes,yes,-112.0855251,33.45194499999999,"312 n 9th ave, phoenix, az 85007, usa",darkblue
-Cinna-Bear,(602) 230-7755,3115 N 3rd Ave Ste 111 Phoenix AZ 85013,yes,yes,-112.0772188,33.484361,"3115 n 3rd ave # 111, phoenix, az 85013, usa",darkblue
+Bimbo Bakeries USA,(602) 252-6888,312 N 9th Ave Phoenix AZ 85007,yes,yes,-112.0855251,33.45194499999999,"312 n 9th ave, phoenix, az 85007, usa",red
+Cinna-Bear,(602) 230-7755,3115 N 3rd Ave Ste 111 Phoenix AZ 85013,yes,yes,-112.0772188,33.484361,"3115 n 3rd ave # 111, phoenix, az 85013, usa",red
 La Sonorense Tortilla & Bakery,(602) 484-7627,3029 W Van Buren St Phoenix AZ 85009,NA,NA,-112.1252247,33.4510015,"3029 w van buren st, phoenix, az 85009, usa",NA
 Aztca Bakeries Inc,(602) 353-9949,4317 N 43rd Ave Phoenix AZ 85031,NA,NA,-112.1506624,33.4992465,"4317 n 43rd ave, phoenix, az 85031, usa",NA
 Oroweat Baking Company,(602) 285-1608,10414 N 19th Ave Phoenix AZ 85021,NA,NA,-112.1001269,33.5804314,"10414 n 19th ave, phoenix, az 85021, usa",NA
@@ -133,7 +133,7 @@ Breadcrafters Bakery & Cafe,(602) 494-4442,12635 N Tatum Blvd Phoenix AZ 85032,N
 Marys Mexican Food & Bakery,(602) 413-2880,4109 E Mcdowell Rd Phoenix AZ 85008,NA,NA,-111.9925617,33.4653295,"4109 e mcdowell rd, phoenix, az 85008, usa",NA
 Tony's Bakery,(623) 873-2045,7537 W Thomas Rd Phoenix AZ 85033,NA,NA,-112.2221603,33.4797706,"7537 w thomas rd, phoenix, az 85033, usa",NA
 Euro Bakery,(602) 993-1837,15440 N 35th Ave Ste 15 Phoenix AZ 85053,NA,NA,-112.1345712,33.6268648,"15440 n 35th ave #15, phoenix, az 85053, usa",NA
-Scratch Cupcakes,(480) 650-5948,5102 E Tunder Dr Phoenix AZ 85044,yes,no,-111.9768183,33.3380136,"5102 e tunder dr, phoenix, az 85044, usa",red
+Scratch Cupcakes,(480) 650-5948,5102 E Tunder Dr Phoenix AZ 85044,yes,no,-111.9768183,33.3380136,"5102 e tunder dr, phoenix, az 85044, usa",blue
 Gigi's Cupcakes,(480) 940-3440,4910 E Ray Rd Phoenix AZ 85044,NA,NA,-111.9775,33.3204782,"parking lot, 4910 e ray rd, phoenix, az 85044, usa",NA
 My Goodness Cakes,(602) 861-4711,21043 N Cave Creek Rd Phoenix AZ 85024,NA,NA,-112.0300781,33.6790557,"21043 n cave creek rd, phoenix, az 85024, usa",NA
 Jana's Bakery,(602) 493-4077,13025 N Cave Creek Rd Phoenix AZ 85022,NA,NA,-112.036175,33.6054754,"13025 n cave creek rd, phoenix, az 85022, usa",NA
@@ -141,7 +141,6 @@ Cookies In Bloom,(602) 955-3030,3931 E Indian School Rd Phoenix AZ 85018,NA,NA,-
 Sweet Little Thang,(602) 423-1752,900 E Camelback Rd Phoenix AZ 85014,NA,NA,-112.0614641,33.5093879,"900 e camelback rd, scottsdale, az 85251, usa",NA
 Belfiore Ristorante,(602) 493-1793,15842 N Cave Creek Rd Phoenix AZ 85032,NA,NA,-112.0313822,33.6308566,"15842 n cave creek rd, phoenix, az 85032, usa",NA
 Strictly From Scratch & Cornershop Bakery,(602) 258-1158,800 N 17th Ave Phoenix AZ 85007,Spanish idk,NA,-112.0965407,33.4570059,"800 n 17th ave, phoenix, az 85007, usa",NA
-Dunkin',(602) 765-4951,3137 E Cactus Rd Phoenix AZ 85032,NA,NA,-112.0141491,33.5964862,"3137 e cactus rd, phoenix, az 85032, usa",NA
 Fair Trade Cafe,(602) 354-8150,1020 N 1st Ave Phoenix AZ 85003,no,NA,-112.0743347,33.4593921,"1020 n 1st ave, phoenix, az 85003, usa",NA
 BoSa Donuts,(602) 888-8999,3701 N Central Ave Phoenix AZ 85012,NA,NA,-112.0733931,33.4910039,"3701 n central ave, phoenix, az 85012, usa",NA
 Whereubean Coffee,(480) 584-3886,4804 E Chandler Blvd Suite #110 Phoenix AZ 85048,NA,NA,-111.9798771,33.3059847,"4804 e chandler blvd #110, phoenix, az 85048, usa",NA
@@ -156,15 +155,15 @@ La Madeleine,(480) 436-8152,45 W Jefferson St Ste M Phoenix AZ 85003,incoherent,
 Los Altos Ranch Market,(602) 253-6874,1602 E Roosevelt St Phoenix AZ 85006,No,NA,-112.045958,33.4598194,"1602 e roosevelt st, phoenix, az 85006, usa",NA
 Copper Star Coffee,(602) 266-2136,4220 N 7th Ave Phoenix AZ 85013,NA,NA,-112.0838957,33.4974705,"4220 n 7th ave, phoenix, az 85013, usa",NA
 Cardenas Ranch Markets,(602) 268-7166,5833 S Central Ave Phoenix AZ 85040,NA,NA,-112.0717629,33.3931661,"5833 s central ave, phoenix, az 85040, usa",NA
-Wildflower Bread,(602) 275-6000,3400 E Sky Harbor Blvd Phoenix AZ 85034,NA,NA,-112.0087061,33.4341358,"west economy park and walk, 3400 sky hbr blvd, phoenix, az 85034, usa",NA
+Wildflower Bread,(602) 275-6000,3400 E Sky Harbor Blvd Phoenix AZ 85034,NA,NA,-112.035749,33.4413046,"3400 e sky harbor cir n, phoenix, az 85034, usa",NA
 Nika's Confectionery,(602) 888-2814,1241 e alta vista rd Phoenix AZ 85042,NA,NA,-112.0543206,33.3884364,"1241 e alta vista rd, phoenix, az 85042, usa",NA
 Los Altos Ranch Market,(602) 264-8002,3223 W Indian School Rd Phoenix AZ 85017,NA,NA,-112.1292667,33.4945502,"3223 w indian school rd, phoenix, az 85017, usa",NA
 Wildflower,(602) 883-4768,5813 N 7th St Ste 130 Phoenix AZ 85014,NA,NA,-112.0645588,33.522359,"5813 n 7th st suite 130, phoenix, az 85014, usa",NA
 The Market Restaurant+Bar,(602) 626-5050,3603 E Indian School Rd Suite A Phoenix AZ 85018,NA,NA,-112.0036064,33.4946342,"3603 e indian school rd a, phoenix, az 85018, usa",NA
 Crumbl Cookies - Arcadia,(602) 661-3777,3736 E Indian School Rd Phoenix AZ 85018,NA,NA,-112.0005722,33.4957241,"3736 e indian school rd, phoenix, az 85018, usa",NA
-Crumbl Cookies - South Mountain,(623) 289-2660,2160 E Baseline Rd Ste 124 Phoenix AZ 85042,yes,gb model,-112.0330587,33.3793504,"2160 e baseline rd ste 124, phoenix, az 85042, usa",blue
+Crumbl Cookies - South Mountain,(623) 289-2660,2160 E Baseline Rd Ste 124 Phoenix AZ 85042,yes,gb model,-112.0330587,33.3793504,"2160 e baseline rd ste 124, phoenix, az 85042, usa",pink
 Hunny Sweet Treats,(602) 290-7174,2214 W Palo Verde Dr Phoenix AZ 85015,NA,NA,-112.1059021,33.5232099,"2214 w palo verde dr, phoenix, az 85015, usa",NA
-Fry's Pharmacy,(602) 335-2273,1815 W Glendale Ave Phoenix AZ 85021,no,yes,-112.0980852,33.5371824,"1815 w glendale ave, phoenix, az 85021, usa",darkblue
+Fry's Pharmacy,(602) 335-2273,1815 W Glendale Ave Phoenix AZ 85021,no,yes,-112.0980852,33.5371824,"1815 w glendale ave, phoenix, az 85021, usa",red
 AJ's Fine Foods,(602) 522-0956,4430 E Camelback Rd Phoenix AZ 85018,NA,NA,-111.9854269,33.5105741,"4430 e camelback rd, phoenix, az 85018, usa",NA
 Los Altos Ranch Market,(623) 873-0189,5802 W Thomas Rd Phoenix AZ 85031,NA,NA,-112.1851632,33.4818949,"5802 w thomas rd, phoenix, az 85031, usa",NA
 Los Altos Ranch Market,(602) 841-0346,3415 W Glendale Ave Phoenix AZ 85051,NA,NA,-112.1328541,33.5371384,"3415 w glendale ave, phoenix, az 85017, usa",NA
@@ -183,13 +182,12 @@ Los Altos Ranch Market,(602) 253-6874,1602 E Roosevelt St Phoenix AZ 85006,NA,NA
 Rainbow Donuts,(602) 256-7404,1347 E Mcdowell Rd Phoenix AZ 85006,no,NA,-112.0523644,33.4654757,"1347 e mcdowell rd, phoenix, az 85006, usa",NA
 Urban Cookies Bake Shop,(602) 451-4335,2325 N 7th St Phoenix AZ 85006,NA,NA,-112.0648134,33.4741738,"2325 n 7th st, phoenix, az 85006, usa",NA
 Los Altos Ranch Market,(602) 268-7166,5833 S Central Ave Phoenix AZ 85040,NA,NA,-112.0717629,33.3931661,"5833 s central ave, phoenix, az 85040, usa",NA
-La Madeleine,(602) 275-6582,3400 E Sky Harbor Blvd Phoenix AZ 85034,NA,NA,-112.0087061,33.4341358,"west economy park and walk, 3400 sky hbr blvd, phoenix, az 85034, usa",NA
+La Madeleine,(602) 275-6582,3400 E Sky Harbor Blvd Phoenix AZ 85034,NA,NA,-112.035749,33.4413046,"3400 e sky harbor cir n, phoenix, az 85034, usa",NA
 La Madeleine,(602) 952-0349,3400 E Sky Harbor Blvd Terminal 4 Gate B20 Phoenix AZ 85034,NA,NA,-111.9945424,33.4370687,"gate b20, phoenix, az 85034, usa",NA
 Variations Bakery,(480) 967-5541,2947 W Fairmount Ave Phoenix AZ 85017,NA,NA,-112.123243,33.493133,"2947 w fairmount ave, phoenix, az 85017, usa",NA
 The Velvet Buttercream,(602) 734-1408,702 W Camelback Rd Phoenix AZ 85013,NA,NA,-112.0831272,33.509785,"702 w camelback rd, phoenix, az 85013, usa",NA
 Los Altos Ranch Market,(602) 264-8002,3223 W Indian School Rd Phoenix AZ 85017,Yes,Ish,-112.1292667,33.4945502,"3223 w indian school rd, phoenix, az 85017, usa",NA
-Dunkin',(602) 840-0154,2131 E Camelback Rd Ste 100 Phoenix AZ 85016,NA,NA,-112.0356438,33.509009,"2131 e camelback rd suite 100, phoenix, az 85016, usa",NA
-Jewel's Bakery & Cafe,(602) 714-5243,4041 E Thomas Rd Phoenix AZ 85018,yes,no,-111.9937022,33.4799938,"4041 e thomas rd, phoenix, az 85018, usa",red
+Jewel's Bakery & Cafe,(602) 714-5243,4041 E Thomas Rd Phoenix AZ 85018,yes,no,-111.9937022,33.4799938,"4041 e thomas rd, phoenix, az 85018, usa",blue
 D-Marie Sweets Boutique Bakery,(602) 323-6517,6108 S 33rd Dr Phoenix AZ 85041,NA,NA,-112.130237,33.3913147,"6108 s 33rd dr, phoenix, az 85041, usa",NA
 Uncle Biff's California Killer Cookies,(602) 888-8990,6239 N 7th St Phoenix AZ 85014,NA,NA,-112.0646137,33.5286979,"parson place, 6239 n 7th st, phoenix, az 85014, usa",NA
 Imperial Market & Deli,(602) 285-6999,737 E Glendale Ave Phoenix AZ 85020,NA,NA,-112.063568,33.5379728,"737 e glendale ave, phoenix, az 85020, usa",NA
@@ -203,7 +201,6 @@ Arrivederci Trattoria,(480) 759-9292,4221 E Chandler Blvd Ste 102 Phoenix AZ 850
 My Gal Sal Bakery and Catering,(602) 978-2479,15820 N 35th Ave Phoenix AZ 85053,yes,ish,-112.1344054,33.6294516,"15820 n 35th ave, phoenix, az 85053, usa",purple
 The Sodamix,(801) 362-6221,748 E Bell Rd Phoenix AZ 85022,NA,NA,-112.0636123,33.6407132,"748 e bell rd, phoenix, az 85022, usa",NA
 Cafe Margarita,(602) 283-5600,16816 N Cave Creek Rd Phoenix AZ 85032,NA,NA,-112.0312657,33.6390042,"16816 n cave creek rd, phoenix, az 85032, usa",NA
-Dunkin',(602) 482-2278,3739 E Bell Rd Phoenix AZ 85032,No,NA,-112.0007352,33.6398969,"3739 e bell rd, phoenix, az 85032, usa",NA
 William's Coffee Co,(480) 981-7227,3170 W Carefree Hwy Phoenix AZ 85086,Yes,No…,-112.128933,33.8002787,"3170 w carefree hwy, phoenix, az 85086, usa",NA
 Bamboo Bakery,(602) 246-8061,1619 E Monte Vista Rd Phoenix AZ 85006,NA,NA,-112.0466622,33.4707709,"1619 e monte vista rd, phoenix, az 85006, usa",NA
 Albertsons,(623) 582-4985,3130 W Carefree Hwy Phoenix AZ 85086,NA,NA,-112.126907,33.8000167,"3130 w carefree hwy, phoenix, az 85086, usa",NA
@@ -212,82 +209,75 @@ Dessert-a-Licious,(602) 315-1318,15419 S 36th PL Phoenix AZ 85044,NA,NA,-112.006
 Vinovio's Gourmet Cheesecakes LLC.,(602) 718-4128,3301 E Jefferson St Phoenix AZ 85034,NA,NA,-112.0098874,33.4467317,"3301 e jefferson st, phoenix, az 85034, usa",NA
 The Bagel Man,(480) 705-9999,5035 E Elliot Rd Phoenix AZ 85044,NA,NA,-111.976632,33.3479307,"5035 e elliot rd, phoenix, az 85044, usa",NA
 Albertsons,(480) 443-3098,10665 N Tatum Blvd Phoenix AZ 85028,NA,NA,-111.9743265,33.5839771,"10665 n tatum blvd, phoenix, az 85028, usa",NA
-Bruegger's,(602) 274-0889,6819 N 16th St Phoenix AZ 85016,NA,NA,-112.0471314,33.5369445,"6819 n 16th st, phoenix, az 85016, usa",NA
 Albertsons,(602) 788-0558,4747 E Greenway Rd Phoenix AZ 85032,yes,ish,-111.978891,33.6244667,"4747 e greenway rd, phoenix, az 85032, usa",purple
 Aj's Fine Foods,(602) 863-3500,13226 N 7th St Phoenix AZ 85022,yes,ish,-112.0664768,33.6063245,"13226 n 7th st, phoenix, az 85022, usa",purple
-Dunkin',(623) 936-6317,1615 N 99th Ave Phoenix AZ 85037,NA,NA,-112.2718818,33.465305,"1615 n 99th ave, phoenix, az 85037, usa",NA
 TerraBites Bakery,(602) 799-8372,3619 E Indian School Rd Phoenix AZ 85018,NA,NA,-112.0034367,33.4945461,"3619 e indian school rd, phoenix, az 85018, usa",NA
 Fairytale Brownies,(800) 531-5209,4610 E Cotton Center Blvd Phoenix AZ 85040,NA,NA,-111.9819833,33.4035409,"4610 e cotton center blvd, phoenix, az 85040, usa",NA
 Middle Eastern Bakery & Deli,(602) 277-4927,3052 N 16th St Phoenix AZ 85016,NA,NA,-112.0479863,33.4835676,"3052 n 16th st, phoenix, az 85016, usa",NA
 Bosa Donuts,(602) 795-0763,3519 W Glendale Ave Phoenix AZ 85051,NA,NA,-112.1354998,33.5381956,"3519 w glendale ave, phoenix, az 85017, usa",NA
-Dunkin',(602) 954-8464,2322 E Thomas Rd Phoenix AZ 85016,NA,NA,-112.0315685,33.4807355,"2322 e thomas rd, phoenix, az 85016, usa",NA
-Dunkin',(623) 877-9025,9140 W Thomas Rd Ste B Phoenix AZ 85037,NA,NA,-112.2575424,33.4801128,"9140 w thomas rd b, phoenix, az 85037, usa",NA
-Dunkin',(480) 705-2376,4923 E Chandler Blvd Phoenix AZ 85048,NA,NA,-111.9776582,33.3048384,"4923 e chandler blvd, phoenix, az 85048, usa",NA
-Bimbo Bakeries USA,(602) 252-6881,738 W Van Buren St Phoenix AZ 85007,NA,NA,-112.084345,33.451864,"738 w van buren st, phoenix, az 85007, usa",NA
 Bruegger's,(602) 955-4955,2375 E Camelback Rd Phoenix AZ 85016,NA,NA,-112.030637,33.508714,"2375 e camelback rd, phoenix, az 85016, usa",NA
-Karl's Quality Bakery,(602) 997-7849,111 E Dunlap Ave Phoenix AZ 85020,NA,NA,-112.0726013,33.5669083,"111 e dunlap ave, phoenix, az 85020, usa",NA
+Karl's Quality Bakery,(602) 997-7849,111 E Dunlap Ave Phoenix AZ 85020,yes,yes,-112.0726013,33.5669083,"111 e dunlap ave, phoenix, az 85020, usa",red
 Hava Java,(602) 954-9080,3166 E Camelback Rd Phoenix AZ 85016,NA,NA,-112.0134999,33.510927,"3166 e camelback rd, phoenix, az 85016, usa",NA
 A Triple Delight Bakery,(602) 923-1362,14848 N Cave Creek Rd Phoenix AZ 85032,NA,NA,-112.0314753,33.6218605,"14848 n cave creek rd, phoenix, az 85032, usa",NA
 Wildflower Bread,(602) 850-8585,4290 E Indian School Rd Phoenix AZ 85018,NA,NA,-111.988998,33.4957316,"4290 e indian school rd, phoenix, az 85018, usa",NA
-Nothing Bundt Cakes Phoenix Biltmore,(602) 954-4041,4290 E Indian School Rd Phoenix AZ 85018,NA,NA,-111.988998,33.4957316,"4290 e indian school rd, phoenix, az 85018, usa",NA
 Barb's Bakery,(602) 957-4422,2929 N 24th St Phoenix AZ 85016,NA,NA,-112.0297986,33.4814813,"2929 n 24th st, phoenix, az 85016, usa",NA
-Eva's Bakery,(801) 355-3942,"155 S Main St Salt Lake City, UT 84111",yes,gb model,-111.8905576,40.7657442,"155 s main st, salt lake city, ut 84111, usa",blue
+Eva's Bakery,(801) 355-3942,"155 S Main St Salt Lake City, UT 84111",yes,gb model,-111.8905576,40.7657442,"155 s main st, salt lake city, ut 84111, usa",pink
 Gourmandise,(801) 328-3330,"250 S 300th E Salt Lake City, UT 84111",NA,NA,-111.8831052,40.7638286,"250 s 300 e, salt lake city, ut 84111, usa",NA
 Fillings and Emulsions,(385) 229-4228,"1475 S Main St Salt Lake City, UT 84115",NA,NA,-111.890592,40.7374786,"1475 s main st, salt lake city, ut 84115, usa",NA
-Vosen's Bread Paradise,(801) 322-2424,"328 W 200th S Salt Lake City, UT 84101",yes,yes,-111.9007813,40.765429,"328 w 200 s, salt lake city, ut 84101, usa",darkblue
-Mrs. Backer's Pastry Shop,(801) 532-2022,"434 E South Temple Salt Lake City, UT 84111",yes,no,-111.8783262,40.7690331,"434 e s temple st, salt lake city, ut 84111, usa",red
-Delice Bakery & Cafe,(801) 953-1910,"2747 S State St Salt Lake City, UT 84115",yes,no,-111.8876635,40.7117577,"2747 s state st, south salt lake, ut 84115, usa",red
+Vosen's Bread Paradise,(801) 322-2424,"328 W 200th S Salt Lake City, UT 84101",yes,yes,-111.9007813,40.765429,"328 w 200 s, salt lake city, ut 84101, usa",red
+Mrs. Backer's Pastry Shop,(801) 532-2022,"434 E South Temple Salt Lake City, UT 84111",yes,no,-111.8783262,40.7690331,"434 e s temple st, salt lake city, ut 84111, usa",blue
+Delice Bakery & Cafe,(801) 953-1910,"2747 S State St Salt Lake City, UT 84115",yes,no,-111.8876635,40.7117577,"2747 s state st, south salt lake, ut 84115, usa",blue
 Lone Pine Bakery,(385) 237-3556,"834 E 9400th S Ste 58 Salt Lake City, UT 84094",NA,NA,-111.8683298,40.579137,"834 e 9400 s #58, sandy, ut 84094, usa",NA
 85 Bakery Cafe,(385) 355-9991,"3390 S State St South Salt Lake, UT 84115",no,NA,-111.8890937,40.6980345,"3390 s state st, south salt lake, ut 84115, usa",NA
-Beaumont Bakery & Cafe,(801) 676-9340,"3979 Wasatch Blvd Salt Lake City, UT 84124",yes,no,-111.7944692,40.6862004,"3979 wasatch blvd, salt lake city, ut 84124, usa",red
-Carlucci's Bakery,(801) 366-4484,"314 W Broadway Salt Lake City, UT 84101",yes,yes,-111.9003106,40.7630687,"314 w broadway, salt lake city, ut 84101, usa",darkblue
-Kyung's Bakery,(801) 904-3849,"153 E 4370th S Ste 18 Salt Lake City, UT 84107",yes,no,-111.8862292,40.6759903,"153 e 4370 s #18, murray, ut 84107, usa",red
+Beaumont Bakery & Cafe,(801) 676-9340,"3979 Wasatch Blvd Salt Lake City, UT 84124",yes,no,-111.7944692,40.6862004,"3979 wasatch blvd, salt lake city, ut 84124, usa",blue
+Carlucci's Bakery,(801) 366-4484,"314 W Broadway Salt Lake City, UT 84101",yes,yes,-111.9003106,40.7630687,"314 w broadway, salt lake city, ut 84101, usa",red
+Kyung's Bakery,(801) 904-3849,"153 E 4370th S Ste 18 Salt Lake City, UT 84107",yes,no,-111.8862292,40.6759903,"153 e 4370 s #18, murray, ut 84107, usa",blue
 Carol's Cakes and Pastry Shops,(801) 484-3442,"1991 Lincoln St Salt Lake City, UT 84105",no,NA,-111.8636884,40.7269096,"1991 lincoln st, salt lake city, ut 84105, usa",NA
 RubySnap Fresh Cookies,(801) 834-6111,"770 S 300 W Salt Lake City, UT 84101",yes,not 100%,-111.9001991,40.7523934,"770 s 300 w, salt lake city, ut 84101, usa",NA
-Moon Bakery,(801) 263-0404,"3390 S State St Ste 20 South Salt Lake City, UT 84115",yes,no,-111.8890937,40.6980345,"3390 s state st #20, south salt lake, ut 84115, usa",red
-Tulie Bakery,(801) 883-9741,"863 E 700th S Salt Lake City, UT 84102",yes,no,-111.866069,40.7543878,"863 e 700 s, salt lake city, ut 84102, usa",red
-The Dough Miner,(385) 334-3389,"945 S 300th W Ste 101 Salt Lake City, UT 84101",yes,no,-111.8994695,40.7485074,"945 s 300 w #101, salt lake city, ut 84101, usa",red
-Beardall's Bakery,(801) 250-0096,"8963 W Magna Main St Magna, UT 84044",yes,yes,-112.1055062,40.7108062,"8963 w magna main st, magna, ut 84044, usa",darkblue
-Passion Flour,(385) 242-7040,"165 E 900 S Salt Lake City, UT 84111",yes,no,-111.8859818,40.7500907,"165 e 900 s, salt lake city, ut 84111, usa",red
-Granary Bakehouse,(385) 212-4298,"1059 E 900th S Ste 102 Salt Lake City, UT 84105",yes,no,-111.860468,40.7500222,"1059 e 900 s unit 102, salt lake city, ut 84105, usa",red
-Hruska's Kolaches,(385) 309-4379,"2030 S 900th E Salt Lake City, UT 84105",yes,no,-111.8657782,40.72593190000001,"2030 s 900 e, salt lake city, ut 84105, usa",red
-City Cakes and Cafe,(801) 359-2239,"1860 S 300th W Ste D Salt Lake City, UT 84115",yes,yes,-111.9006494,40.7295698,"1860 s 300 w d, salt lake city, ut 84115, usa",darkblue
-Doki Doki,(385) 229-4339,"249 E 400th S Salt Lake City, UT 84111",yes,gb model,-111.8836641,40.7609628,"249 e 400 s, salt lake city, ut 84111, usa",blue
+Moon Bakery,(801) 263-0404,"3390 S State St Ste 20 South Salt Lake City, UT 84115",yes,no,-111.8890937,40.6980345,"3390 s state st #20, south salt lake, ut 84115, usa",blue
+Tulie Bakery,(801) 883-9741,"863 E 700th S Salt Lake City, UT 84102",yes,no,-111.866069,40.7543878,"863 e 700 s, salt lake city, ut 84102, usa",blue
+The Dough Miner,(385) 334-3389,"945 S 300th W Ste 101 Salt Lake City, UT 84101",yes,no,-111.8994695,40.7485074,"945 s 300 w #101, salt lake city, ut 84101, usa",blue
+Beardall's Bakery,(801) 250-0096,"8963 W Magna Main St Magna, UT 84044",yes,yes,-112.1055062,40.7108062,"8963 w magna main st, magna, ut 84044, usa",red
+Passion Flour,(385) 242-7040,"165 E 900 S Salt Lake City, UT 84111",yes,no,-111.8859818,40.7500907,"165 e 900 s, salt lake city, ut 84111, usa",blue
+Granary Bakehouse,(385) 212-4298,"1059 E 900th S Ste 102 Salt Lake City, UT 84105",yes,no,-111.860468,40.7500222,"1059 e 900 s unit 102, salt lake city, ut 84105, usa",blue
+Hruska's Kolaches,(385) 309-4379,"2030 S 900th E Salt Lake City, UT 84105",yes,no,-111.8657782,40.72593190000001,"2030 s 900 e, salt lake city, ut 84105, usa",blue
+City Cakes and Cafe,(801) 359-2239,"1860 S 300th W Ste D Salt Lake City, UT 84115",yes,yes,-111.9006494,40.7295698,"1860 s 300 w d, salt lake city, ut 84115, usa",red
+Doki Doki,(385) 229-4339,"249 E 400th S Salt Lake City, UT 84111",yes,gb model,-111.8836641,40.7609628,"249 e 400 s, salt lake city, ut 84111, usa",pink
 Bonne Vie,(801) 258-6554,"555 Main St Salt Lake City, UT 84111",NA,NA,-111.8902974,40.7574622,"555 main st, salt lake city, ut 84101, usa",NA
-JJ Donuts,(385) 399-7399,"15 US-89 North Salt Lake, UT 84054",yes,yes,-111.9099105,40.8413658,"15 us-89, north salt lake, ut 84054, usa",darkblue
+JJ Donuts,(385) 399-7399,"15 US-89 North Salt Lake, UT 84054",yes,yes,-111.9099105,40.8413658,"15 us-89, north salt lake, ut 84054, usa",red
 Vitality Bowls,(801) 883-9065,"51 South Main St Space 140 Salt Lake City, UT 84101",NA,NA,-111.8903528,40.7683659,"51 s main st #140, salt lake city, ut 84111, usa",NA
 Canela Bakery and Cafe,(385) 371-5342,"775 S 900th W Salt Lake City, UT 84104",yes,NA,-111.9165245,40.75218470000001,"775 s 900 w, salt lake city, ut 84104, usa",NA
 Schmidt's Pastry Cottage,(801) 967-9766,"5664 S Redwood Rd Salt Lake City, UT 84123",yes,NA,-111.9389969,40.6485704,"5664 s redwood rd, salt lake city, ut 84123, usa",NA
 Pie Fight,(385) 222-5373,"937 E 900 S Salt Lake City, UT 84105",NA,NA,-111.8639153,40.74982989999999,"937 e 900 s, salt lake city, ut 84105, usa",NA
-Leslie's French Pastries,(801) 278-3341,"4658 S Holladay Blvd Holladay, UT 84117",no,no,-111.825284,40.6693552,"4658 s holladay blvd, holladay, ut 84117, usa",red
-Aconcagua,(385) 209-2978,"715 N Main St Layton, UT 84041",yes,no,-111.9773772,41.0703119,"715 n main st, layton, ut 84041, usa",red
+Leslie's French Pastries,(801) 278-3341,"4658 S Holladay Blvd Holladay, UT 84117",no,no,-111.825284,40.6693552,"4658 s holladay blvd, holladay, ut 84117, usa",blue
+Aconcagua,(385) 209-2978,"715 N Main St Layton, UT 84041",yes,no,-111.9773772,41.0703119,"715 n main st, layton, ut 84041, usa",blue
 Karim Bakery,(801) 645-4533,"2575 S State St South Salt Lake, UT 84115",NA,NA,-111.8879096,40.7146179,"2575 s state st, south salt lake, ut 84115, usa",NA
-Parson's Bakery,(801) 298-3059,"535 W 2600th S Bountiful, UT 84010",yes,yes,-111.8930495,40.8601673,"535 w 2600 s, bountiful, ut 84010, usa",darkblue
-Sweet Cake Bake Shop,(801) 683-8396,"96 S Main St Bountiful, UT 84010",yes,gb model,-111.8815571,40.8887841,"96 s main st, bountiful, ut 84010, usa",blue
+Parson's Bakery,(801) 298-3059,"535 W 2600th S Bountiful, UT 84010",yes,yes,-111.8930495,40.8601673,"535 w 2600 s, bountiful, ut 84010, usa",red
+Sweet Cake Bake Shop,(801) 683-8396,"96 S Main St Bountiful, UT 84010",yes,gb model,-111.8815571,40.8887841,"96 s main st, bountiful, ut 84010, usa",pink
 Deliciously Sweet Bakery,(801) 718-2836,"5786 W Gold Stone Dr South Jordan, UT 84009",NA,NA,-112.0288904,40.5433475,"5786 gold stone dr, south jordan, ut 84009, usa",NA
 Sagato Bakery & Cafe,(385) 557-1728,"44 W 7200th S Midvale, UT 84047",NA,NA,-111.8924905,40.6211707,"44 w 7200 s, midvale, ut 84047, usa",NA
-Bix Bakery & Cafe,(385) 259-0359,"479 E 2100th S Ste B Salt Lake City, UT 84115",yes,no,-111.8770353,40.7256073,"479 e 2100 s b, salt lake city, ut 84115, usa",red
-Momo's Gourmet Cheesecake,(801) 900-8283,"29 East 400 S Salt Lake City, UT 84111",yes,no,-111.889987,40.7609236,"29 e 400 s, salt lake city, ut 84111, usa",red
+Bix Bakery & Cafe,(385) 259-0359,"479 E 2100th S Ste B Salt Lake City, UT 84115",yes,no,-111.8770353,40.7256073,"479 e 2100 s b, salt lake city, ut 84115, usa",blue
+Momo's Gourmet Cheesecake,(801) 900-8283,"29 East 400 S Salt Lake City, UT 84111",yes,no,-111.889987,40.7609236,"29 e 400 s, salt lake city, ut 84111, usa",blue
 Frankie & Essls,(385) 300-8320,"490 E 1300 S Ste 102 Salt Lake City, UT 84105",NA,NA,-111.876985,40.7414532,"490 e 1300 s suite 102, salt lake city, ut 84105, usa",NA
 Fresh Donut & Deli,(801) 467-8322,"2699 S State St Salt Lake City, UT 84115",yes,ish,-111.8881788,40.71265349999999,"2699 s state st, south salt lake, ut 84115, usa",purple
 Banbury Cross,(385) 715-4220,"705 S 700th E Salt Lake City, UT 84102",NA,NA,-111.8707057,40.75383739999999,"705 s 700 e, salt lake city, ut 84102, usa",NA
-Donut Boy,(385) 528-0782,"2194 W 3500th S Salt Lake City, UT 84119",yes,no,-111.9462565,40.697266,"2194 w 3500 s, west valley city, ut 84119, usa",red
-Darla's Donuts,(801) 975-6381,"2278 S Redwood Rd Salt Lake City, UT 84119",yes,yes,-111.9395064,40.7214698,"2278 s redwood rd, west valley city, ut 84119, usa",darkblue
+Donut Boy,(385) 528-0782,"2194 W 3500th S Salt Lake City, UT 84119",yes,no,-111.9462565,40.697266,"2194 w 3500 s, west valley city, ut 84119, usa",blue
+Darla's Donuts,(801) 975-6381,"2278 S Redwood Rd Salt Lake City, UT 84119",yes,yes,-111.9395064,40.7214698,"2278 s redwood rd, west valley city, ut 84119, usa",red
 Panderia las Canastas,(801) 699-6876,"950 W 1000th N Salt Lake City, UT 84116",NA,NA,-111.9188919,40.7913749,"950 w 1000 n, salt lake city, ut 84116, usa",NA
 Mochinut,(385) 300-8360,"2142 S Highland Dr Salt Lake City, UT 84106",yes,NA,-111.8595289,40.7241982,"2142 s highland dr, salt lake city, ut 84106, usa",NA
 Donut Star,(801) 787-7978,"10522 South Redwood Rd South Jordan, UT 84095",NA,NA,-111.9393125,40.560408,"10522 s redwood rd, south jordan, ut 84095, usa",NA
-Bowman's,(801) 544-4215,"326 N Main St Kaysville, UT 84037",yes,yes,-111.9414866,41.0406371,"326 n main st, kaysville, ut 84037, usa",darkblue
-9th St Coffee and Donuts,(801) 577-3006,"248 W 900th S Salt Lake City, UT 84101",yes,no,-111.8984725,40.7500213,"248 w 900 s, salt lake city, ut 84101, usa",red
-Nigh-Time Donuts,(435) 882-8503,"299 N Main St Tooele, UT 84074",yes,yes,-112.2995952,40.535922,"299 n main st, tooele, ut 84074, usa",darkblue
-Dolly's Donuts Bar and Grill,(385) 355-9904,"3245 S State St Salt Lake City, UT 84115",yes,no,-111.887878,40.7009191,"3245 s state st, south salt lake, ut 84115, usa",red
-Dunford Bakers,(801) 304-0400,"8556 S 2940 W West Jordan, UT 84088",yes,yes,-111.9633307,40.5962292,"8556 s 2940 w, west jordan, ut 84088, usa",darkblue
-Stone Ground Bakery,801-886-2336,"1025 S 700 W Salt Lake City, UT 84104",yes,yes,-111.9102366,40.7469064,"1025 s 700 w, salt lake city, ut 84104, usa",darkblue
+Bowman's,(801) 544-4215,"326 N Main St Kaysville, UT 84037",yes,yes,-111.9414866,41.0406371,"326 n main st, kaysville, ut 84037, usa",red
+9th St Coffee and Donuts,(801) 577-3006,"248 W 900th S Salt Lake City, UT 84101",yes,no,-111.8984725,40.7500213,"248 w 900 s, salt lake city, ut 84101, usa",blue
+Nigh-Time Donuts,(435) 882-8503,"299 N Main St Tooele, UT 84074",yes,yes,-112.2995952,40.535922,"299 n main st, tooele, ut 84074, usa",red
+Dolly's Donuts Bar and Grill,(385) 355-9904,"3245 S State St Salt Lake City, UT 84115",yes,no,-111.887878,40.7009191,"3245 s state st, south salt lake, ut 84115, usa",blue
+Dunford Bakers,(801) 304-0400,"8556 S 2940 W West Jordan, UT 84088",yes,yes,-111.9633307,40.5962292,"8556 s 2940 w, west jordan, ut 84088, usa",red
+Stone Ground Bakery,801-886-2336,"1025 S 700 W Salt Lake City, UT 84104",yes,yes,-111.9102366,40.7469064,"1025 s 700 w, salt lake city, ut 84104, usa",red
 Victor's Pizza,(801) 996-3485,"545 W 3900 S Salt Lake City, UT 84123",NA,NA,-111.906989,40.686769,"545 w 3900 s, salt lake city, ut 84123, usa",NA
-The Pie Pizzeria,(801) 582-5700,"1320 E 200 S Salt Lake City, UT 84102",yes,no,-111.8529926,40.7647297,"1320 e 200 s, salt lake city, ut 84102, usa",red
+The Pie Pizzeria,(801) 582-5700,"1320 E 200 S Salt Lake City, UT 84102",yes,no,-111.8529926,40.7647297,"1320 e 200 s, salt lake city, ut 84102, usa",blue
 Pie Hole,(801) 359-4653,"344 S State St Salt Lake City, UT 84111",NA,NA,-111.888648,40.7616445,"344 s state st, salt lake city, ut 84111, usa",NA
-Villaggio Pizzeria,(801) 410-4355,"3144 S State St Ste 1 South Salt Lake, UT 84115",yes,no,-111.8889007,40.7025527,"3144 s state st suite 1, south salt lake, ut 84115, usa",red
+Villaggio Pizzeria,(801) 410-4355,"3144 S State St Ste 1 South Salt Lake, UT 84115",yes,no,-111.8889007,40.7025527,"3144 s state st suite 1, south salt lake, ut 84115, usa",blue
 Free Wheeler Pizza,(801) 322-3733,"150 S 400th E Salt Lake City, UT 84111",no,NA,-111.8800776,40.7659017,"150 s 400 e, salt lake city, ut 84111, usa",NA
-Rusted Sun Pizzeria,(801) 483-2120,"2010 S State St Salt Lake City, UT 84115",yes,no,-111.888526,40.7264118,"2010 s state st, salt lake city, ut 84115, usa",red
+Rusted Sun Pizzeria,(801) 483-2120,"2010 S State St Salt Lake City, UT 84115",yes,no,-111.888526,40.7264118,"2010 s state st, salt lake city, ut 84115, usa",blue
 City Creek Pizza,(801) 433-2825,"1306 W N Temple Salt Lake City, UT 84116",NA,NA,-111.9287976,40.7718336,"1306 w north temple st, salt lake city, ut 84116, usa",NA
 Supremo Pizza,(385) 461-4909,"7355 S 900th E Midvale, UT 84047",NA,NA,-111.8657666,40.6170636,"7355 s 900 e, midvale, ut 84047, usa",NA
 Sicilia Pizza and Kitchen,(801) 961-7077,"35 W Broadway 300 S Salt Lake City, UT 84101",no,NA,-111.892488,40.762511,"35 w broadway, salt lake city, ut 84101, usa",NA
@@ -301,23 +291,23 @@ Louies Pizzeria,(801) 784-8781,"1095 N Main St Layton, UT 84041",NA,NA,-111.9825
 Big Daddy's Pizza,(801) 746-7499,"170 E 800th S Salt Lake City, UT 84111",NA,NA,-111.8859464,40.7516779,"170 e 800 s, salt lake city, ut 84111, usa",NA
 Snowmobile Pizza,(801) 317-8877,"877 S 200 W, Salt Lake City, UT 84101",NA,NA,-111.896584,40.7500616,"877 s 200 w, salt lake city, ut 84101, usa",NA
 R&R BBQ,(801) 364-0443,"307 W 600th S Salt Lake City, UT 84101",NA,NA,-111.9000594,40.75578,"307 w 600 s, salt lake city, ut 84101, usa",NA
-Blatch's Backyward BBQ,(385) 210-5029,"186 I St Salt Lake City, UT 84103",yes,no,-111.8712262,40.7737499,"186 i st, salt lake city, ut 84103, usa",red
+Blatch's Backyward BBQ,(385) 210-5029,"186 I St Salt Lake City, UT 84103",yes,no,-111.8712262,40.7737499,"186 i st, salt lake city, ut 84103, usa",blue
 Charlotte-Rose's Carolina BBQ,(801) 834-3066,"792 E 3300 S Millcreek, UT 84106",NA,NA,-111.868633,40.699519,"792 e 3300 s, millcreek, ut 84106, usa",NA
 Smokin Bones BBQ,(801) 298-1687,"364 S 200th W Bountiful, UT 84010",no,NA,-111.8859697,40.8856052,"364 s 200 w, bountiful, ut 84010, usa",NA
 Kaiser's Bar-B-Q,(801) 355-0499,"962 S 300th W Salt Lake City, UT 84101",no,NA,-111.8999812,40.7481838,"962 s 300 w, salt lake city, ut 84101, usa",NA
-Miss Essie's Southern BBQ,(801) 262-3616,"6064 S 300th W Ste 11 Murray, UT 84107",yes,yes,-111.8989096,40.6391584,"6064 300 w #11, murray, ut 84107, usa",darkblue
+Miss Essie's Southern BBQ,(801) 262-3616,"6064 S 300th W Ste 11 Murray, UT 84107",yes,yes,-111.8989096,40.6391584,"6064 300 w #11, murray, ut 84107, usa",red
 Sauce Boss Southern Kitchen,(385) 434-2433,"877 E 12300th S Draper, UT 84020",NA,NA,-111.866966,40.5271953,"877 e 12300 s, draper, ut 84020, usa",NA
-Snider Bros Meats,(801) 272-6469,"6245 Highland Dr Salt Lake City, UT 84121",yes,yes,-111.8330572,40.6376463,"6245 highland dr., salt lake city, ut 84121, usa",darkblue
+Snider Bros Meats,(801) 272-6469,"6245 Highland Dr Salt Lake City, UT 84121",yes,yes,-111.8330572,40.6376463,"6245 highland dr., salt lake city, ut 84121, usa",red
 Pat's BBQ,(801) 484-5963,"155 W Commonwealth Ave Salt Lake City, UT 84115",NA,NA,-111.8955303,40.7243187,"155 w commonwealth ave, south salt lake, ut 84115, usa",NA
 Sugar House BBQ,(801) 463-4800,"880 E 2100th S Salt Lake City, UT 84106",no,NA,-111.8656771,40.7252181,"880 e 2100 s, salt lake city, ut 84106, usa",NA
 Matchstick Bar & Grill,(385) 227-8376,"2000 W 3500 S West Valley, UT 84119",NA,NA,-111.9446831,40.6968799,"2000 w 3500 s, west valley city, ut 84119, usa",NA
 Over the Coles BBQ at Block Party,(801) 987-8406,"4044 S 2700th E Holladay, UT 84124",NA,NA,-111.8156029,40.6839637,"4044 s 2700 e, holladay, ut 84124, usa",NA
 Bumblebees BBQ & Grill,(801) 561-0608,"7962 S State St Midvale, UT 84047",NA,NA,-111.891227,40.6066108,"7962 s state st, midvale, ut 84047, usa",NA
-Aggies Bakery and Cakeshop,(414) 482-1288,"7328 W Greenfield Ave West Allis, WI 53214",yes,yes,-88.00431209999999,43.01695730000001,"7328 w greenfield ave, west allis, wi 53214, usa",darkblue
+Aggies Bakery and Cakeshop,(414) 482-1288,"7328 W Greenfield Ave West Allis, WI 53214",yes,yes,-88.00431209999999,43.01695730000001,"7328 w greenfield ave, west allis, wi 53214, usa",red
 Simma's Bakery,(414) 257-0998,"817 N 68th St Wauwatosa, WI 53213",NA,NA,-87.99767419999999,43.0401228,"817 n 68th st, wauwatosa, wi 53213, usa",NA
 Mid-Way Bakery,na,"275 W Wisconsin Ave Milwaukee, WI 53203",NA,NA,-87.91362880000001,43.0386646,"275 w wisconsin ave, milwaukee, wi 53203, usa",NA
-Peter Sciortino's Bakery,(414) 209-7393,"1101 E Brady St Milwaukee, WI 53202",yes,yes,-87.89780979999999,43.0527878,"1101 e brady st, milwaukee, wi 53202, usa",darkblue
-Boulangerie La Monde,(262) 375-1050,"W62 N588 Washington Ave Cedarburg, WI 53012",yes,yes,-87.9875124,43.2969765,"w62 n588 washington ave, cedarburg, wi 53012, usa",darkblue
+Peter Sciortino's Bakery,(414) 209-7393,"1101 E Brady St Milwaukee, WI 53202",yes,yes,-87.89780979999999,43.0527878,"1101 e brady st, milwaukee, wi 53202, usa",red
+Boulangerie La Monde,(262) 375-1050,"W62 N588 Washington Ave Cedarburg, WI 53012",yes,yes,-87.9875124,43.2969765,"w62 n588 washington ave, cedarburg, wi 53012, usa",red
 2 girls bakery,(414) 325-5711,4920 S 74th St Milwaukee WI 53220,NA,NA,-88.0047791,42.9552616,"4920 s 74th st, greenfield, wi 53220, usa",NA
 Canfora Bakery,(414) 486-7747,1100 E Oklahoma Ave Milwaukee WI 53207,NA,NA,-87.89536149999999,42.9885642,"1100 e oklahoma ave, milwaukee, wi 53207, usa",NA
 Papas Bakery,(414) 483-9003,6055 S Howell Ave Milwaukee WI 53207,no,NA,-87.9107291,42.93418,"6055 s howell ave, milwaukee, wi 53207, usa",NA
@@ -327,41 +317,41 @@ Mr. Dye's Pies,(414) 759-4992,275 W Wisconsin Ave Milwaukee WI 53203,NA,NA,-87.9
 Roundy's Inc,(414) 383-2222,1818 W National Ave Milwaukee WI 53204,NA,NA,-87.9354718,43.0235481,"1818 w national ave, milwaukee, wi 53204, usa",NA
 The Pastry Piper,(414) 552-7627,5072 N 60th St Milwaukee WI 53218,NA,NA,-87.9858204,43.1100101,"5072 n 60th st, milwaukee, wi 53218, usa",NA
 Breadsmith,(414) 962-6203,420 E Silver Spring Dr Milwaukee WI 53217,NA,NA,-87.90479789999999,43.1186501,"420 e silver spring dr, whitefish bay, wi 53217, usa",NA
-La Tarte,(414) 456-0995,6742 W Wells St Milwaukee WI 53213,yes,no,-87.9970908,43.0398716,"6742 w wells st, wauwatosa, wi 53213, usa",red
-Rocket Baby Bakery,(414) 502-7323,"6822 W North Ave Wauwatosa, WI 53213",yes,yes,-87.9982832,43.06099,"6822 w north ave, wauwatosa, wi 53213, usa",darkblue
-Scordato Bakery Inc,(414) 327-8555,"5011 W Howard Ave Milwaukee, WI 53220",yes,yes,-87.97733,42.9733756,"5011 w howard ave, milwaukee, wi 53220, usa",darkblue
-Blooming Lotus Bakery,(414) 212-8010,"2215 East North Ave Milwaukee, WI 53202",yes,gb model,-87.8831148,43.0599669,"2215 e north ave, milwaukee, wi 53202, usa",blue
+La Tarte,(414) 456-0995,6742 W Wells St Milwaukee WI 53213,yes,no,-87.9970908,43.0398716,"6742 w wells st, wauwatosa, wi 53213, usa",blue
+Rocket Baby Bakery,(414) 502-7323,"6822 W North Ave Wauwatosa, WI 53213",yes,yes,-87.9982832,43.06099,"6822 w north ave, wauwatosa, wi 53213, usa",red
+Scordato Bakery Inc,(414) 327-8555,"5011 W Howard Ave Milwaukee, WI 53220",yes,yes,-87.97733,42.9733756,"5011 w howard ave, milwaukee, wi 53220, usa",red
+Blooming Lotus Bakery,(414) 212-8010,"2215 East North Ave Milwaukee, WI 53202",yes,gb model,-87.8831148,43.0599669,"2215 e north ave, milwaukee, wi 53202, usa",pink
 Amaranth Bakery & Cafe,(414) 934-0587,"3329 W Lisbon Ave Milwaukee, WI 53208",NA,NA,-87.9561064,43.0543798,"3329 w lisbon ave, milwaukee, wi 53208, usa",NA
 The Cake Lady,(414) 294-4220,"3561 S Kinnickinnic Ave Milwaukee, WI 53235",NA,NA,-87.8790437,42.9795383,"3561 s kinnickinnic ave, st francis, wi 53235, usa",NA
 Kelly's Pot Pies and More,262-592-1900,"3785 S 108th St Greenfield, WI 53228",no,NA,-88.0484006,42.9755168,"3785 s 108th st, greenfield, wi 53228, usa",NA
-Grebe's Bakery,(414) 543-7000,"5132 W Lincoln Ave Milwaukee, WI 53219",yes,yes,-87.97857929999999,43.0036048,"5132 w lincoln ave, west allis, wi 53219, usa",darkblue
-Adam's Bakery,(414) 271-1871,"400 N Water St Milwaukee, WI 53202",yes,yes,-87.90831550000001,43.0352526,"400 n water st, milwaukee, wi 53202, usa",darkblue
-Arcoiris Bakery,(414) 210-3376,"1414 S 6th St Milwaukee, WI 53204",yes,yes,-87.9181773,43.0166534,"1414 s 6th st, milwaukee, wi 53204, usa",darkblue
-O&H Danish Bakery,262-504-7000,"9540 S 27th St Oak Creek, WI 53154",yes,yes,-87.9506237,42.87166149999999,"9540 s 27th st, oak creek, wi 53154, usa",darkblue
+Grebe's Bakery,(414) 543-7000,"5132 W Lincoln Ave Milwaukee, WI 53219",yes,yes,-87.97857929999999,43.0036048,"5132 w lincoln ave, west allis, wi 53219, usa",red
+Adam's Bakery,(414) 271-1871,"400 N Water St Milwaukee, WI 53202",yes,yes,-87.90831550000001,43.0352526,"400 n water st, milwaukee, wi 53202, usa",red
+Arcoiris Bakery,(414) 210-3376,"1414 S 6th St Milwaukee, WI 53204",yes,yes,-87.9181773,43.0166534,"1414 s 6th st, milwaukee, wi 53204, usa",red
+O&H Danish Bakery,262-504-7000,"9540 S 27th St Oak Creek, WI 53154",yes,yes,-87.9506237,42.87166149999999,"9540 s 27th st, oak creek, wi 53154, usa",red
 Sugar & Flour Bakery Cafe,(414) 421-5565,"5721 Broad St Greendale, WI 53129",no,NA,-87.9968389,42.9398709,"5721 broad st, greendale, wi 53129, usa",NA
-Greige Patisserie,(414) 252-0143,"408 W Florida St Ste 104 Milwaukee, WI 53204",yes,no,-87.9162659,43.0275193,"408 w florida st #104, milwaukee, wi 53204, usa",red
+Greige Patisserie,(414) 252-0143,"408 W Florida St Ste 104 Milwaukee, WI 53204",yes,no,-87.9162659,43.0275193,"408 w florida st #104, milwaukee, wi 53204, usa",blue
 Matilda Bakehouse,(414) 213-4019,"217 N Broadway Bavette Milwaukee, WI 53202",NA,NA,-87.90738789999999,43.0331463,"217 n broadway, milwaukee, wi 53202, usa",NA
 Bougie Berries Dessert Boutique,(414) 585-0234,"7157 W Burleigh St Milwaukee, WI 53210",NA,NA,-88.0018997,43.0751133,"7157 w burleigh st, milwaukee, wi 53210, usa",NA
 The Bake Sale,(414) 543-4230,"6923 W Becher St West Allis, WI 53219",NA,NA,-87.99985559999999,43.00627009999999,"6923 w becher st, west allis, wi 53219, usa",NA
-Glorioso's Italian Market,(414) 272-0540,"011 E Brady St Milwaukee, WI 53202",yes,no,-87.8981201,43.052955,"e brady st, milwaukee, wi 53202, usa",red
+Glorioso's Italian Market,(414) 272-0540,"011 E Brady St Milwaukee, WI 53202",yes,no,-87.8981201,43.052955,"e brady st, milwaukee, wi 53202, usa",blue
 Black Twig Bakery,(414) 231-3327,"1455 Underwood Ave Wauwatosa, WI 53213",NA,NA,-88.00871599999999,43.0506975,"1455 underwood ave, wauwatosa, wi 53213, usa",NA
-Jen's Sweet Treats,(414) 940-0725,"4745 S Packard Ave Cudahy, WI 53110",yes,yes,-87.86030799999999,42.9580568,"4745 s packard ave, cudahy, wi 53110, usa",darkblue
+Jen's Sweet Treats,(414) 940-0725,"4745 S Packard Ave Cudahy, WI 53110",yes,yes,-87.86030799999999,42.9580568,"4745 s packard ave, cudahy, wi 53110, usa",red
 Lakeside Bakery,(414) 486-7747,"1100 E Oklahoma Ave Milwaukee, WI 53207",yes,ish,-87.89536149999999,42.9885642,"1100 e oklahoma ave, milwaukee, wi 53207, usa",purple
 The Bread Pedalers,(414) 509-5198,"1436 S 92nd St West Allis, WI 53214",no,NA,-88.02696329999999,43.0155044,"1436 s 92nd st, west allis, wi 53214, usa",NA
 Canary Coffee Bar,(414) 426-8389,"720 N Old World 3rd St Milwaukee, WI 53203",NA,NA,-87.9141969,43.0392954,"720 n old world 3rd st, milwaukee, wi 53203, usa",NA
 Arty's Sweet Talk Cupcakes,(414) 520-4056,"5900 W North Ave Milwaukee, WI 53208",NA,NA,-87.9866389,43.06090529999999,"5900 w north ave, milwaukee, wi 53208, usa",NA
 Lucky Bakery & BBQ,(414) 329-2688,"11078 W National Ave West Allis, WI 53227",NA,NA,-88.05131469999999,42.9919463,"11078 w national ave, milwaukee, wi 53227, usa",NA
 Cranky's Al,(414) 258-5282,"6901 W North Ave Wauwatosa, WI 53213",yes,NA,-87.9987893,43.06056359999999,"6901 w north ave, wauwatosa, wi 53213, usa",NA
-Miss Molly's Cafe and Pastry Shop,(414) 249-5665,"9201 W Center St Milwaukee, WI 53222",yes,no,-88.02781949999999,43.067535,"9201 w center st, milwaukee, wi 53222, usa",red
+Miss Molly's Cafe and Pastry Shop,(414) 249-5665,"9201 W Center St Milwaukee, WI 53222",yes,no,-88.02781949999999,43.067535,"9201 w center st, milwaukee, wi 53222, usa",blue
 DW Coffee,(262) 514-2020,"201 W Main St Rochester, WI 53167",no,NA,-88.2254566,42.7410494,"201 w main st, burlington, wi 53105, usa",NA
 Busias XOXO,(262) 214-8160,"W182 S8686 Racine Ave Muskego, WI 53150",NA,NA,-88.1425312,42.8870271,"w182s8686 racine ave, muskego, wi 53150, usa",NA
-National Bakery and Deli,(414) 672-1620,"3200 S 16th St Milwaukee, WI 53215",yes,yes,-87.933442,42.986434,"3200 s 16th st, milwaukee, wi 53215, usa",darkblue
-North Shore Boulangerie,(414) 963-2153,"4401 N Oakland Ave Shorewood, WI 53211",yes,no,-87.8876731,43.0957137,"4401 n oakland ave, shorewood, wi 53211, usa",red
+National Bakery and Deli,(414) 672-1620,"3200 S 16th St Milwaukee, WI 53215",yes,yes,-87.9335377,42.98641670000001,"3200 s 16th st, milwaukee, wi 53215, usa",red
+North Shore Boulangerie,(414) 963-2153,"4401 N Oakland Ave Shorewood, WI 53211",yes,no,-87.8876731,43.0957137,"4401 n oakland ave, shorewood, wi 53211, usa",blue
 Donut Monster Third Ward,(262) 933-9686,"316 N Milwaukee St Milwaukee, WI 53202",NA,NA,-87.9056667,43.0344638,"316 n milwaukee st, milwaukee, wi 53202, usa",NA
 Gigi's Cupcakes of Wauwatosa,(414) 777-7465,"2751 N Mayfair Rd Ste G Wauwatosa, WI 53222",yes,ish,-88.0482878,43.0687431,"2751 n mayfair rd g, wauwatosa, wi 53226, usa",purple
 Johanna's Cafe,(414) 210-2702,"1239 S 11th St Milwaukee, WI 53204",no,NA,-87.9256698,43.0182159,"1239 s 11th st, milwaukee, wi 53204, usa",NA
-O&H Danish Bakery,(262) 637-8895,"4917 Douglas Avenue Racine, WI 53402",yes,yes,-87.8079142,42.7836809,"4917 douglas ave, racine, wi 53402, usa",darkblue
-National Bakery and Deli,(262) 827-4097,"13820 W Greenfield Ave Brookfield, WI 53005",yes,yes,-88.08492369999999,43.0173739,"13820 w greenfield ave, brookfield, wi 53005, usa",darkblue
+O&H Danish Bakery,(262) 637-8895,"4917 Douglas Avenue Racine, WI 53402",yes,yes,-87.8079142,42.7836809,"4917 douglas ave, racine, wi 53402, usa",red
+National Bakery and Deli,(262) 827-4097,"13820 W Greenfield Ave Brookfield, WI 53005",yes,yes,-88.08492369999999,43.0173739,"13820 w greenfield ave, brookfield, wi 53005, usa",red
 Simply Cinnamon Bakery,(262) 691-4022,"115 Oakton Ave Pewaukee, WI 53072",NA,NA,-88.26210630000001,43.08285550000001,"115 oakton ave, pewaukee, wi 53072, usa",NA
 Panaderia Azteca,(414) 744-8900,"123 W Oklahoma Ave Milwaukee, WI 53207",NA,NA,-87.9104915,42.9861771,"123 w oklahoma ave, milwaukee, wi 53207, usa",NA
 Edible Impressions,(414) 313-5281,"4415 W Laverna Ave Mequon, WI 53092",NA,NA,-87.9655823,43.228889,"4415 w laverna ave, mequon, wi 53092, usa",NA
@@ -377,10 +367,10 @@ Zaffiro's Pizza,(414) 289-8776,"1724 N Farwell Ave Milwaukee, WI 53202",no,NA,-8
 Ian's Pizza Milwaukee,(414) 727-9200,"146 E Juneau Ave Milwaukee, WI 53202",yes,NA,-87.911569,43.0458916,"146 e juneau ave, milwaukee, wi 53202, usa",NA
 Zayna's Pizza,(262) 320-4020,"714 E Brady St Milwaukee, WI 53202",no,NA,-87.9027924,43.0532581,"714 e brady st, milwaukee, wi 53202, usa",NA
 Alphonso's The Original,(414) 755-0341,"9130 W Greenfield Ave West Allis, WI 53214",no,NA,-88.0267951,43.0167777,"9130 w greenfield ave, west allis, wi 53214, usa",NA
-Sorella,(414) 301-6255,"2535 S Kinnickinnic Ave Milwaukee, WI 53207",no,NA,-87.9010294,42.99860049999999,"2535 s kinnickinnic ave, milwaukee, wi 53207, usa",NA
+Sorella,(414) 301-6255,"2535 S Kinnickinnic Ave Milwaukee, WI 53207",no,NA,-87.9012594,42.9986047,"2535 s kinnickinnic ave, milwaukee, wi 53207, usa",NA
 Vinchi's Pizza,(414) 384-8040,"3158 S Howell Ave Milwaukee, WI 53207",NA,NA,-87.9044978,42.9869914,"3158 s howell ave, milwaukee, wi 53207, usa",NA
 Transfer Pizzeria Cafe,(414) 763-0438,"101 W Mitchell St Milwaukee, WI 53204",NA,NA,-87.911299,43.0121236,"101 w mitchell st, milwaukee, wi 53204, usa",NA
-Pizzeria Scotty,(414) 543-1300,"9022 W Oklahoma Ave West Allis, WI 53227",yes,no,-88.0252938,42.9885227,"9022 w oklahoma ave, west allis, wi 53227, usa",red
+Pizzeria Scotty,(414) 543-1300,"9022 W Oklahoma Ave West Allis, WI 53227",yes,no,-88.0252938,42.9885227,"9022 w oklahoma ave, west allis, wi 53227, usa",blue
 Lisa's Pizzeria,(414) 332-6360,"2961 N Oakland Ave Milwaukee, WI 53211",no,NA,-87.88816899999999,43.0723793,"2961 n oakland ave, milwaukee, wi 53211, usa",NA
 State Street Pizza Pub,(414) 249-5386,"322 W State St Milwaukee, WI 53203",no,NA,-87.915289,43.0431964,"322 w state st, milwaukee, wi 53203, usa",NA
 Wy'east Pizza,(414) 943-3278,"5601 W Vliet St Milwaukee, WI 53208",NA,NA,-87.9834826,43.0493112,"5601 w vliet st, milwaukee, wi 53208, usa",NA
@@ -402,10 +392,10 @@ Miller Baking Company,414-347-2300,"1415 N Fifth St Milwaukee, WI 53212",NA,NA,-
 Green Baked Goods,608-712-4385,"1100 S Fifth St Milwaukee, WI 53204",NA,NA,-87.91666389999999,43.0199078,"1100 s 5th st, milwaukee, wi 53204, usa",NA
 Sweet Fix,414-645-5390,"807 W Historic Mitchell St Milwaukee, WI 53204",NA,NA,-87.9217318,43.0120917,"807 w historic mitchell st, milwaukee, wi 53204, usa",NA
 Happy Dough Lucky,414-248-5899,"2691 S Kinnickinnic Ave Milwaukee, WI 53207",closed,NA,-87.8971608,42.9960111,"2691 s kinnickinnic ave, milwaukee, wi 53207, usa",NA
-MOR Bakery & Cafe,414-249-3316,"2018 S First St Milwaukee, WI 53207",yes,no,-87.9106494,43.0070194,"2018 s 1st st, milwaukee, wi 53207, usa",red
-Lopez Bakery & Restaurant,414-672-1830,"1100 W Historic Mitchell St Milwaukee, WI 53204",yes,yes,-87.92568519999999,43.01255889999999,"1100 w historic mitchell st, milwaukee, wi 53204, usa",darkblue
-Treats by Bernadette,414-610-1369,"7934 W Burleigh St Milwaukee, WI 53222",yes,yes,-88.0121236,43.07550699999999,"7934 w burleigh st, milwaukee, wi 53222, usa",darkblue
-City Market Cafe & Bakehouse,414-479-0479,"8700 W Watertown Plank Rd Wauwatosa, WI 53226",yes,no,-88.0214805,43.0466059,"8700 w watertown plank rd, wauwatosa, wi 53226, usa",red
+MOR Bakery & Cafe,414-249-3316,"2018 S First St Milwaukee, WI 53207",yes,no,-87.9106494,43.0070194,"2018 s 1st st, milwaukee, wi 53207, usa",blue
+Lopez Bakery & Restaurant,414-672-1830,"1100 W Historic Mitchell St Milwaukee, WI 53204",yes,yes,-87.92568519999999,43.01255889999999,"1100 w historic mitchell st, milwaukee, wi 53204, usa",red
+Treats by Bernadette,414-610-1369,"7934 W Burleigh St Milwaukee, WI 53222",yes,yes,-88.0121236,43.07550699999999,"7934 w burleigh st, milwaukee, wi 53222, usa",red
+City Market Cafe & Bakehouse,414-479-0479,"8700 W Watertown Plank Rd Wauwatosa, WI 53226",yes,no,-88.0214805,43.0466059,"8700 w watertown plank rd, wauwatosa, wi 53226, usa",blue
 Fresh Baked Cafe,262-879-8002,"8900 W Bluemound Rd Milwaukee, WI 53226",yes,NA,-88.0236615,43.0362075,"8900 w bluemound rd, milwaukee, wi 53226, usa",NA
 Big Daddy's BBQ & Soul Food,262-202-7726,"2730 N Humboldt Blvd Milwaukee, WI 53212",NA,NA,-87.8970816,43.068279,"2730 n humboldt blvd, milwaukee, wi 53212, usa",NA
 Ashley's Bar-B-Q,414-372-7666,"1501 W Center St Milwaukee, WI 53206",NA,NA,-87.93158439999999,43.0674845,"1501 w center st, milwaukee, wi 53206, usa",NA
@@ -413,300 +403,153 @@ Fannie Jackson,414-403-7930,"2576 N Tenth St Milwaukee, WI 53206",NA,NA,-87.9237
 Q,414-810-4096,"2730 N Dr Martin Luther King Jr Dr Milwaukee, WI 53212",NA,NA,-87.9137903,43.0685839,"2730 n doctor m.l.k. jr dr, milwaukee, wi 53212, usa",NA
 Heavens Table Catering and BBQ,414-732-7109,"2238 N Farwell Ave Milwaukee, WI 53202",no,NA,-87.88538129999999,43.0599521,"2238 n farwell ave, milwaukee, wi 53202, usa",NA
 Pats Ribs Place,262-544-4099,"400 N Water St Milwaukee, WI 53202",NA,NA,-87.90831550000001,43.0352526,"400 n water st, milwaukee, wi 53202, usa",NA
-Smokin' Jacks,262-420-4269,"275 W Wisconsin Ave Milwaukee, WI 53203",yes,no,-87.91362880000001,43.0386646,"275 w wisconsin ave, milwaukee, wi 53203, usa",red
+Smokin' Jacks,262-420-4269,"275 W Wisconsin Ave Milwaukee, WI 53203",yes,no,-87.91362880000001,43.0386646,"275 w wisconsin ave, milwaukee, wi 53203, usa",blue
 Brother's Backyard Barbeque,414-488-8492,3530 W National Ave Milwaukee WI 53215,NA,NA,-87.9587312,43.0217446,"3530 w national ave, milwaukee, wi 53215, usa",NA
 Richmond's,414-539-1883,"2721 N Blaine Pl Milwaukee, WI 53210",NA,NA,-87.989751,43.068555,"2721 n blaine pl, milwaukee, wi 53210, usa",NA
 DOC's Smokehouse,414-935-2029,"754 N Vel R. Phillips Ave Milwaukee, Wisconsin 53203",NA,NA,-87.9158162,43.0399901,"754 vel r. phillips ave, milwaukee, wi 53203, usa",NA
 Mac Shack,414-837-4534,"1701 N Humboldt Ave Milwaukee, WI 53202",NA,NA,-87.89832729999999,43.0531196,"1701 n humboldt ave, milwaukee, wi 53202, usa",NA
-Jake's Delicatessen,414 562 1272,"1634 W North Ave, Milwaukee, WI 53205-1252",yes,no,-87.9337101,43.0606049,"1634 w north ave, milwaukee, wi 53205, usa",red
-Muddys Bake Shop,(901) 683-8844,5101 Sanderlin Ave Memphis TN 38117,Yes,No,-89.8916567,35.1160851,"5101 sanderlin ave, memphis, tn 38137, usa",NA
-Kay Bakery,(901) 767-0780,667 Avon Rd Memphis TN 38122,No,NA,-89.9024318,35.1494844,"667 avon rd, memphis, tn 38122, usa",NA
-Creative Cakes Boutique,(901) 389-0683,2910 Overton Crossing St Memphis TN 38127,NA,NA,-89.99673960000001,35.204736,"2910 overton crossing st, memphis, tn 38127, usa",NA
-Twinique Cakes,(901) 386-0779,6880 Hillshire Dr Ste 14 Memphis TN 38133,NA,NA,-89.833871,35.186698,"6880 hillshire dr #14, memphis, tn 38133, usa",NA
-Cupcake Cutie Inc,(901) 729-6514,7140 Stage Rd Memphis TN 38133,NA,NA,-89.8248268,35.2048575,"7140 stage rd, bartlett, tn 38133, usa",NA
-Butcher & Baker,(901) 682-7441,5041 Summer Ave Memphis TN 38122,NA,NA,-89.89224120000002,35.1489172,"5041 summer ave, memphis, tn 38122, usa",NA
-Pink Diva Cupcakery,(901) 946-0056,936 Florida St Memphis TN 38106,NA,NA,-90.0617765,35.1220274,"936 florida st, memphis, tn 38106, usa",NA
-Mom's Kitchen,(901) 614-9606,669 S Highland St Memphis TN 38111,NA,NA,-89.9459825,35.1133605,"669 s highland st, memphis, tn 38111, usa",NA
-Nacho Average Bakery,(901) 522-4455,150 Jefferson Ave Memphis TN 38103,NA,NA,-90.05017319999999,35.1468749,"150 jefferson ave, memphis, tn 38103, usa",NA
-The Cake Gallery,(901) 654-3425,164 Madison Ave Memphis TN 38103,NA,NA,-90.0505725,35.1447053,"164 madison ave, memphis, tn 38103, usa",NA
-Grandma's Desserts Etc,(901) 458-2197,3108 Park Ave Memphis TN 38111,NA,NA,-89.9590115,35.1079995,"3108 park ave, memphis, tn 38111, usa",NA
-Crumbl Cookies - East Memphis,(901) 410-1950,705 S Mendenhall Rd Memphis TN 38117,Yes,No,-89.8965913,35.1116985,"705 s mendenhall rd, memphis, tn 38117, usa",NA
-Nothing Bundt Cakes,(901) 208-8984,681 S White Station Rd Ste 101 Memphis TN 38117,Yes,Yes,-89.8885554,35.1124636,"681 s white station rd suite 101, memphis, tn 38117, usa",NA
-Milk Dessert Bar,(901) 730-0893,1789 Kirby Pkwy Ste 10 Memphis TN 38138,No,NA,-89.840133,35.1003025,"1789 kirby pkwy # 10, germantown, tn 38138, usa",NA
-Cinnabon,(901) 381-2769,2760 N Germantown Pkwy Memphis TN 38133,Yes,No,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",NA
-Kandy Apple Hill,(901) 453-6829,210 N 4th St Memphis TN 38105,NA,NA,-90.0452065,35.1493344,"210 n 4th st, memphis, tn 38105, usa",NA
-Cupcake Cutie Etc,(901) 249-6996,109 S Court Ave Memphis TN 38103,NA,NA,-90.05221949999999,35.1455659,"109 s ct ave, memphis, tn 38103, usa",NA
-The Big Ono Bake Shop,(901) 590-4910,116 S Front St Memphis TN 38103,NA,NA,-90.0552153,35.1424182,"116 s front st, memphis, tn 38103, usa",NA
-Interstate Brands,(901) 251-1060,490 Monroe Ave Memphis TN 38103,NA,NA,-90.0417339,35.1414153,"490 monroe ave, memphis, tn 38103, usa",NA
-Cupcake Cutie Etc.,(901) 443-5664,300 S Main St Memphis TN 38103,Yes,No,-90.05626749999999,35.1378448,"300 s main st, memphis, tn 38103, usa",NA
-Dee'lightful Bliss Bakery,(901) 244-8768,409 S Main St Memphis TN 38103,NA,NA,-90.05865709999999,35.1355017,"409 s main st, memphis, tn 38103, usa",NA
-Cakes & Catering by Nea,(901) 254-2800,853 Faxon Ave Memphis TN 38105,NA,NA,-90.0304513,35.1560633,"853 faxon ave, memphis, tn 38105, usa",NA
-Bake Pro Plus,(901) 729-7247,281 Bickford Ave Memphis TN 38107,NA,NA,-90.03902560000002,35.1644358,"281 bickford ave, memphis, tn 38107, usa",NA
-Primas Bakery and Boutique,(901) 746-8563,523 S Main St Memphis TN 38103,NA,NA,-90.05925909999999,35.1331594,"523 s main st, memphis, tn 38103, usa",NA
-Baptist Health Science University,(901) 524-1117,20 Dudley St Memphis TN 38103,NA,NA,-90.0292896,35.13946680000001,"20 dudley st, memphis, tn 38103, usa",NA
-Kel's Cookie Corner,(731) 676-2542,1325 Autumn Ave Memphis TN 38104,NA,NA,-90.01552129999999,35.15068249999999,"1325 autumn ave, memphis, tn 38104, usa",NA
-The Gingers Bread & Co,(901) 870-3927,1613 Union Ave Memphis TN 38104,NA,NA,-90.007851,35.135623,"1613 union ave, memphis, tn 38104, usa",NA
-Lallemand Baking Solutions,(901) 357-6847,251 Stiles Dr Memphis TN 38127,NA,NA,-90.05380319999999,35.1906252,"251 stiles dr, memphis, tn 38127, usa",NA
-Lady Bugg Bakery,(901) 343-0438,6 S Cooper St Memphis TN 38104,NA,NA,-89.9898238,35.1362677,"6 cooper st, memphis, tn 38104, usa",NA
-Frost Bake Shop,(901) 682-4545,1094 Channel Ave Memphis TN 38106,Yes,Yes,-90.0903379,35.1055686,"1094 channel ave, memphis, tn 38106, usa",NA
-Carol's Cheesecakes & More,(901) 323-2217,482 N Hollywood St Memphis TN 38112,NA,NA,-89.9768804,35.1485417,"482 n hollywood st, memphis, tn 38112, usa",NA
-La Baguette,(901) 458-0900,3088 Poplar Ave Memphis TN 38111,Yes,Yes,-89.9589501,35.1323398,"3088 poplar ave, memphis, tn 38111, usa",NA
-Bread-Hostess Cake,(816) 701-4600,570 Rivergate Rd Memphis TN 38109,NA,NA,-90.0830663,35.0805119,"570 n rivergate rd, memphis, tn 38109, usa",NA
-La Espiga Panaderia,(901) 454-9220,3967 Summer Ave Memphis TN 38122,NA,NA,-89.9287064,35.1487031,"3967 summer ave, memphis, tn 38122, usa",NA
-Panaderia San Juan,(901) 249-3233,3979 Jackson Ave Memphis TN 38128,NA,NA,-89.9311079,35.1839759,"3979 jackson ave, memphis, tn 38128, usa",NA
-Weaver's Slice of Heaven Bakery,(901) 552-4232,4287 Summer Ave Memphis TN 38122,NA,NA,-89.9177673,35.1485505,"4287 summer ave, memphis, tn 38122, usa",NA
-Cookie Cake Company,(901) 623-3722,4465 Poplar Ave Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave, memphis, tn 38117, usa",NA
-And Cookies Apples,(901) 789-3130,3654 Boxtown Rd Memphis TN 38109,NA,NA,-90.1248181,35.0490321,"3654 boxtown rd, memphis, tn 38109, usa",NA
-Gigi's Cupcakes,(901) 888-2255,4709 Poplar Ave Memphis TN 38117,NA,NA,-89.9049764,35.1150584,"4709 poplar ave, memphis, tn 38117, usa",NA
-The Flour Garden,(901) 417-7600,4730 Poplar Ave Ste 3 Memphis TN 38117,NA,NA,-89.904039,35.115709,"4730 poplar ave #3, memphis, tn 38117, usa",NA
-City Bread,(901) 683-7350,575 S Mendenhall Rd Memphis TN 38117,NA,NA,-89.8963259,35.1155061,"575 s mendenhall rd, memphis, tn 38117, usa",NA
-Bimbo Bakeries USA,(901) 348-1825,1253 E Shelby Dr Memphis TN 38116,NA,NA,-90.0224585,35.0208813,"1253 e shelby dr, memphis, tn 38116, usa",NA
-Haute Monde Dessert Bar,(901) 290-2099,4590 Plato Ave Memphis TN 38128,NA,NA,-89.9101913,35.2162427,"4590 plato ave, memphis, tn 38128, usa",NA
-Panaderia La Ideal,(901) 779-7925,3993 Lamar Ave Memphis TN 38118,NA,NA,-89.9308387,35.0551146,"3993 lamar ave, memphis, tn 38118, usa",NA
-Panaderia Bakery La Idal,(901) 779-7925,3993 Lamar Ave Memphis TN 38118,NA,NA,-89.9308387,35.0551146,"3993 lamar ave, memphis, tn 38118, usa",NA
-Ms. Chocolate Drop Bakeries & Treat,(901) 255-4128,5276 Kimbark Woods Dr Memphis TN 38134,NA,NA,-89.88741309999999,35.1930852,"5276 kimbark woods dr, memphis, tn 38134, usa",NA
-Walmart - Bakery,(901) 346-4994,5255 Elvis Presley Blvd Memphis TN 38116,NA,NA,-90.0275238,35.0044996,"5255 elvis presley blvd, memphis, tn 38116, usa",NA
-Panaderia La Ilusion 4,(901) 729-7820,5717 Raleigh Lagrange Rd Memphis TN 38134,No,NA,-89.87276570000002,35.18244720000001,"5717 raleigh lagrange rd, bartlett, tn 38134, usa",NA
-Bishop Tammy,(901) 207-5829,1314 Channel Ave Memphis TN 37501,NA,NA,-90.0973771,35.1034812,"1314 channel ave, memphis, tn 38113, usa",NA
-Jostens Jostens,(901) 425-2913,5681 Quince Rd Memphis TN 38119,NA,NA,-89.87406570000002,35.0886127,"5681 quince rd, memphis, tn 38119, usa",NA
-Panaderia,(901) 249-7248,3127 S Mendenhall Rd Memphis TN 38115,NA,NA,-89.88727279999999,35.0632829,"3127 s mendenhall rd, memphis, tn 38115, usa",NA
-Jose Bakery,(901) 249-3933,5365 Knight Arnold Rd Memphis TN 38115,NA,NA,-89.8846514,35.0615008,"5365 knight arnold rd, memphis, tn 38115, usa",NA
-Kutie Pies Company,(901) 779-6902,6488 Gallan Dr Memphis TN 38134,NA,NA,-89.8467151,35.1682157,"6488 gallan dr, memphis, tn 38134, usa",NA
-Sprinkle Me Silly,(901) 729-7758,6860 Hillshire Dr Ste 8 Memphis TN 38133,NA,NA,-89.8349755,35.1865439,"6860 hillshire dr #8, memphis, tn 38134, usa",NA
-Old School Cookies,(901) 846-6046,4210 Altruria Rd Ste 110 Memphis TN 38135,NA,NA,-89.8438516,35.2400782,"4210 altruria rd #110, bartlett, tn 38135, usa",NA
-AppleHeadz SweetzBoutique,(901) 235-3940,7140 Stage Blvd  STE 112 Memphis TN 38133,NA,NA,-89.7989767,35.2091855,"bartlett, tn 38133, usa",NA
-Le Gourmet French Pastry,(901) 384-3900,7395 Us Highway 64 Ste 103 Memphis TN 38133,NA,NA,-89.8180229,35.2038555,"7395 us-64 #103, memphis, tn 38133, usa",NA
-La Espiga Bakery,(901) 207-2732,6661 Winchester Rd Memphis TN 38115,NA,NA,-89.84133940000001,35.0490161,"6661 winchester rd, memphis, tn 38115, usa",NA
-Thecheesecakeguru,(901) 361-6248,6891 Somerset Cv Memphis TN 38119,NA,NA,-89.83276359999999,35.0623229,"6891 somerset cove, memphis, tn 38119, usa",NA
-Ty's Gourmet Cupcakes,(901) 207-7741,6415 Fawn Hollow Cir S Memphis TN 38141,NA,NA,-89.8494474,35.0242212,"6415 s fawn hollow cir, memphis, tn 38141, usa",NA
-Sprinkle Me Silly,(901) 729-7758,6860 Hillshire Dr Ste 8 Memphis TN 38133,NA,NA,-89.8349755,35.1865439,"6860 hillshire dr #8, memphis, tn 38134, usa",NA
-Old School Cookies,(901) 846-6046,4210 Altruria Rd Ste 110 Memphis TN 38135,NA,NA,-89.8438516,35.2400782,"4210 altruria rd #110, bartlett, tn 38135, usa",NA
-AppleHeadz SweetzBoutique,(901) 235-3940,7140 Stage Blvd  STE 112 Memphis TN 38133,NA,NA,-89.7989767,35.2091855,"bartlett, tn 38133, usa",NA
-Le Gourmet French Pastry,(901) 384-3900,7395 Us Highway 64 Ste 103 Memphis TN 38133,NA,NA,-89.8180229,35.2038555,"7395 us-64 #103, memphis, tn 38133, usa",NA
-La Espiga Bakery,(901) 207-2732,6661 Winchester Rd Memphis TN 38115,NA,NA,-89.84133940000001,35.0490161,"6661 winchester rd, memphis, tn 38115, usa",NA
-Thecheesecakeguru,(901) 361-6248,6891 Somerset Cv Memphis TN 38119,NA,NA,-89.83276359999999,35.0623229,"6891 somerset cove, memphis, tn 38119, usa",NA
-Ty's Gourmet Cupcakes,(901) 207-7741,6415 Fawn Hollow Cir S Memphis TN 38141,NA,NA,-89.8494474,35.0242212,"6415 s fawn hollow cir, memphis, tn 38141, usa",NA
-Carousel Sweets Bakery,(901) 352-5567,8034 Giacosa Pl Ste 103 Memphis TN 38133,NA,NA,-89.7958865,35.1991964,"8034 giacosa pl suite 103, memphis, tn 38133, usa",NA
-Walmart - Bakery,(901) 757-1442,7525 Winchester Rd Memphis TN 38125,NA,NA,-89.811162,35.047802,"7525 winchester rd, memphis, tn 38125, usa",NA
-Walmart - Bakery,(901) 309-7876,6990 E Shelby Dr Memphis TN 38125,NA,NA,-89.8303826,35.0220905,"6990 e shelby dr, memphis, tn 38141, usa",NA
-Gigi's Cupcakes,(901) 888-2253,1680 Union Ave Memphis TN 38104,NA,NA,-90.0058653,35.1362032,"1680 union ave, memphis, tn 38104, usa",NA
-Tempting Berries Bakery,(901) 363-6300,6765 Winchester Rd Memphis TN 38115,NA,NA,-89.83769579999999,35.0483392,"6765 winchester rd, memphis, tn 38115, usa",NA
-Baker Corp,(901) 332-0259,1451 Corporate Ave Memphis TN 38132,NA,NA,-90.01439390000002,35.071543,"1451 corporate ave, memphis, tn 38132, usa",NA
-Bimbo Bakeries USA,(901) 348-1825,3053 Fleetbrook Dr Memphis TN 38116,NA,NA,-90.0332085,35.0656053,"3053 fleetbrook dr, memphis, tn 38116, usa",NA
-Draper's Bakery & Banquets,(901) 385-7788,6110 Macon Rd Memphis TN 38134,Yes,Yes,-89.8595026,35.1646471,"6110 macon rd, memphis, tn 38134, usa",NA
-La Ilucion,(901) 761-0160,4312 Macon Rd Memphis TN 38122,No,NA,-89.9167451,35.1622974,"4312 macon rd, memphis, tn 38122, usa",NA
-D & R Bakery,(901) 377-9991,2740 Whitten Rd Memphis TN 38133,NA,NA,-89.83609,35.2002246,"2740 whitten rd, memphis, tn 38133, usa",NA
-Southern Gourmet Designer Cakes & Baskets,(901) 218-4618,4529 Atoll Ln Memphis TN 38118,NA,NA,-89.9592704,35.024762,"4529 atoll ln, memphis, tn 38118, usa",NA
-La Ilucion,(901) 369-0212,4273 American Way Memphis TN 38118,NA,NA,-89.9211725,35.0750106,"4273 american way, memphis, tn 38118, usa",NA
-Sweet Expressions Now,(901) 290-2121,1671 Euclid Ave Memphis TN 38114,NA,NA,-90.00609960000001,35.12096289999999,"1671 euclid ave, memphis, tn 38114, usa",NA
-Middle East Bakery & Grill,(901) 552-5296,4514 Summer Ave Ste 9 Memphis TN 38122,No,NA,-89.9105246,35.150147,"4514 summer ave #9, memphis, tn 38122, usa",NA
-L J J's Custom Cakes,(901) 377-2305,5647 Falling Bark Dr Memphis TN 38134,NA,NA,-89.87450170000001,35.1800654,"5647 falling bark dr, memphis, tn 38134, usa",NA
-Sweet Thangs Custom Creations,(901) 336-8899,5499 Oak Bark Dr Memphis TN 38116,NA,NA,-90.02417439999999,34.998287,"5499 oak bark dr, memphis, tn 38116, usa",NA
-River Oaks Restaurant,(901) 683-9305,5871 Poplar Ave Memphis TN 38119,NA,NA,-89.8668275,35.1031052,"5871 poplar ave, memphis, tn 38119, usa",NA
-Mi Pueblo,(901) 751-8896,3750 Hacks Cross Rd Memphis TN 38125,NA,NA,-89.7947041,35.0463838,"3750 hacks cross rd, memphis, tn 38125, usa",NA
-Muddy's Grind House,(901) 443-4144,585 S Cooper St Memphis TN 38104,NA,NA,-89.99083569999999,35.1299544,"585 cooper st, memphis, tn 38104, usa",NA
-Dunkin',(901) 272-0172,1540 Union Ave Memphis TN 38104,NA,NA,-90.00983889999999,35.1365966,"1540 union ave, memphis, tn 38104, usa",NA
-Phillip Ashley Chocolates,(901) 572-1011,1200 Madison Ave Memphis TN 38104,NA,NA,-90.0211621,35.1396229,"1200 madison ave, memphis, tn 38104, usa",NA
-Caf√© Eclectic,(901) 725-1718,603 N Mclean Blvd Memphis TN 38107,NA,NA,-89.99752269999999,35.1541408,"603 n mclean blvd, memphis, tn 38107, usa",NA
-Hustle & Dough,(901) 701-7577,477 S Main St Memphis TN 38103,NA,NA,-90.0593363,35.134393,"477 s main st, memphis, tn 38103, usa",NA
-Byrds Soulfood Andesserts,(901) 830-2204,1583 N Merton St Memphis TN 38108,NA,NA,-89.9731176,35.1793006,"1583 n merton st, memphis, tn 38108, usa",NA
-Perkins Restaurant & Bakery,(901) 341-6824,3455 Poplar Ave Memphis TN 38111,yes,no,-89.9467056,35.12764,"3455 poplar ave, memphis, tn 38111, usa",red
-Jeremiah's Italian Ice,(901) 660-2092,3717 Summer Ave Memphis TN 38122,NA,NA,-89.9369646,35.1489916,"3717 summer ave, memphis, tn 38122, usa",NA
-Sweet Potato Baby,(901) 401-0379,4728 Spottswood Ave Ste 161 Memphis TN 38117,NA,NA,-89.90552679999999,35.1133135,"4728 spottswood ave #161, memphis, tn 38117, usa",NA
-Butteriffic Bakery & Cafe,(901) 207-4618,488 S 2nd St Memphis TN 38103,yes,ish,-90.05621,35.1338382,"488 s 2nd st, memphis, tn 38103, usa",purple
-Lucy J's Bakery,(901) 257-9206,1350 Concourse Ave Ste 151 Memphis TN 38104,yes,yes,-90.0143805,35.1518486,"crosstown concourse, 1350 concourse ave suite 151, memphis, tn 38104, usa",darkblue
-K3 Studio Cafe,(901) 281-7762,1130 S 3rd St Memphis TN 38106,NA,NA,-90.054941,35.116588,"1130 s 3rd st, memphis, tn 38106, usa",NA
-Choice Cheesecakes,(901) 730-6082,111 S Highland St # 630 Memphis TN 38111,NA,NA,-89.9457123,35.128918,"111 s highland st #630, memphis, tn 38111, usa",NA
-Cafe Eclectic,(901) 410-0765,510 S Highland St Memphis TN 38111,NA,NA,-89.94536839999999,35.1176059,"510 s highland st, memphis, tn 38111, usa",NA
-Whimsy Cookie Company Franchising,(901) 343-0709,4704 Poplar Ave Memphis TN 38117,NA,NA,-89.9049699,35.1159458,"4704 poplar ave, memphis, tn 38117, usa",NA
-Mi Pueblo,(901) 244-7913,5007 Black Rd Memphis TN 38117,NA,NA,-89.89505249999999,35.1142461,"5007 black rd, memphis, tn 38117, usa",NA
-Blanca Cakes,(901) 207-7452,5070 Raleigh Lagrange Rd Ste 18 Memphis TN 38134,NA,NA,-89.8939505,35.1936299,"5070 raleigh lagrange rd #18, memphis, tn 38134, usa",NA
-Kellogg's Snacks,(901) 373-6115,1751 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.8559239,35.1733686,"1751 n shelby oaks dr, memphis, tn 38134, usa",NA
-Marie Callender's,(901) 766-6400,6075 Poplar Ave Ste 800 Memphis TN 38119,NA,NA,-89.86105040000001,35.1014489,"6075 poplar ave # 800, memphis, tn 38119, usa",NA
-Sweet Lala's Bakery,(901) 654-3646,6150 Poplar Ave Ste 118 Memphis TN 38119,NA,NA,-89.8575741,35.1027656,"6150 poplar ave suite 118, memphis, tn 38119, usa",NA
-The Donut Box,(901) 385-1867,3051 Kirby Whitten Rd Ste 1 Memphis TN 38134,NA,NA,-89.841065,35.2089901,"3051 kirby whitten rd #1, bartlett, tn 38134, usa",NA
-Schnucks Markets,(901) 754-3451,5270 Riverdale Rd Memphis TN 38141,NA,NA,-89.830664,35.0037656,"5270 riverdale rd, memphis, tn 38125, usa",NA
-Schnucks Markets,(901) 754-8947,5274 Riverdale Rd Memphis TN 38141,NA,NA,-89.8284113,35.004454,"5274 riverdale rd, memphis, tn 38141, usa",NA
-Makeda's Homemade Cookies,(901) 745-2667,2370 Airways Blvd Memphis TN 38114,yes,gb model,-89.9847155,35.0807294,"2370 airways blvd, memphis, tn 38114, usa",blue
-Great American Cookies,(901) 683-8803,4465 Poplar Ave Ste 1132 Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave #1132, memphis, tn 38117, usa",NA
-La Baguette French Bread Shop,(901) 458-0900,3088 Poplar Ave Memphis TN 38111,NA,NA,-89.9589501,35.1323398,"3088 poplar ave, memphis, tn 38111, usa",NA
-Ricki's Cookie Corner,(901) 866-2447,5068 Park Ave Memphis TN 38117,NA,NA,-89.89377669999999,35.1078566,"5068 park ave, memphis, tn 38117, usa",NA
-Bunny Bread Co,(901) 388-3803,4699 Austin Peay Hwy Memphis TN 38135,NA,NA,-89.8767593,35.2540848,"4699 austin peay hwy, memphis, tn 38135, usa",NA
-Flowers Baking Company,(901) 566-1220,4521 Malone Rd Memphis TN 38118,NA,NA,-89.9211257,35.025066,"4521 malone rd, memphis, tn 38118, usa",NA
-Makeda's Homemade Butter Cookies,(901) 367-8799,6075 Winchester Rd Memphis TN 38115,NA,NA,-89.861052,35.0481711,"6075 winchester rd, memphis, tn 38115, usa",NA
-Great American Cookies,(901) 386-7871,2760 N Germantown Pkwy Memphis TN 38133,NA,NA,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",NA
-MJ Donuts & Coffee,(901) 367-6675,4608 Winchester Rd Memphis TN 38118,NA,NA,-89.9097534,35.0515809,"4608 winchester rd, memphis, tn 38118, usa",NA
-Marie Callender's,(901) 766-6492,1687 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.85662219999999,35.1710632,"1687 shelby oaks dr, memphis, tn 38134, usa",NA
-Cookie Florist The,(901) 377-7034,6860 Hillshire Dr Memphis TN 38133,NA,NA,-89.83460430000001,35.1867083,"6860 hillshire dr, memphis, tn 38133, usa",NA
-the sweet tooth of Memphis,(901) 581-3312,2264 meadow glade ln memphis TN 38134,no,NA,-89.8779893,35.1858901,"2264 meadow glade ln, memphis, tn 38134, usa",NA
-Muddy's Bake Shop,(901) 683-8844,2497 Broad Ave Memphis TN 38112,NA,NA,-89.9758408,35.1478025,"2497 broad ave, memphis, tn 38112, usa",NA
-Flowers Baking Company,(901) 946-7808,1029 Florida St Memphis TN 38106,NA,NA,-90.0623904,35.1195057,"1029 florida st, memphis, tn 38106, usa",NA
-The Cheesecake Corner,(901) 525-2253,113 E Ge Patterson Ave Memphis TN 38103,no,NA,-90.05849289999999,35.13264410000001,"113 ge patterson ave, memphis, tn 38103, usa",NA
-Original Donut Man,(901) 388-9500,3224 Austin Peay Hwy Memphis TN 38128,yes,ish,-89.9166082,35.2129615,"3224 austin peay hwy, memphis, tn 38128, usa",purple
-Daylight Donuts,(901) 266-5152,5735 Raleigh Lagrange Rd Memphis TN 38134,NA,NA,-89.87227229999999,35.1824681,"5735 raleigh lagrange rd, memphis, tn 38134, usa",NA
-Bartlett Donuts,(901) 217-3938,2731 Bartlett Blvd Memphis TN 38134,no,NA,-89.8676789,35.2006681,"2731 bartlett blvd, bartlett, tn 38134, usa",NA
-Big Daddy Donuts,(901) 308-0972,8 S Main St Memphis TN 38103,NA,NA,-90.05261999999999,35.144872,"8 s main st, memphis, tn 38103, usa",NA
-Midtown Donut,(901) 347-2020,1776 Union Ave Memphis TN 38104,yes,ish,-90.0024589,35.1356662,"1776 union ave, memphis, tn 38104, usa",purple
-Community Donuts Inc,(901) 305-6311,2782 S Perkins Rd Memphis TN 38118,NA,NA,-89.9051068,35.07294230000001,"2782 s perkins rd, memphis, tn 38118, usa",NA
-Sam's Donuts,(901) 385-1152,2235 Whitten Rd Ste 102 Memphis TN 38133,NA,NA,-89.8365438,35.186661,"2235 whitten rd #102, memphis, tn 38133, usa",NA
-MJ Donuts & Coffee,(901) 367-6675,4608 Winchester Rd Memphis TN 38118,NA,NA,-89.9097534,35.0515809,"4608 winchester rd, memphis, tn 38118, usa",NA
-Donald's Donuts,(901) 725-5595,1776 Union Ave Memphis TN 38104,NA,NA,-90.0024589,35.1356662,"1776 union ave, memphis, tn 38104, usa",NA
-Kay Bakery,(901) 767-0780,667 Avon Rd Memphis TN 38122,yes,gb model,-89.9024318,35.1494844,"667 avon rd, memphis, tn 38122, usa",blue
-River Oaks Restaurant,(901) 683-9305,5871 Poplar Ave Memphis TN 38119,NA,NA,-89.8668275,35.1031052,"5871 poplar ave, memphis, tn 38119, usa",NA
-Muddy's Grind House,(901) 443-4144,585 S Cooper St Memphis TN 38104,NA,NA,-89.99083569999999,35.1299544,"585 cooper st, memphis, tn 38104, usa",NA
-Pink Diva Cupcakery,(901) 946-0056,936 Florida St Memphis TN 38106,NA,NA,-90.0617765,35.1220274,"936 florida st, memphis, tn 38106, usa",NA
-Twinique Cakes,(901) 386-0779,6880 Hillshire Dr Ste 14 Memphis TN 38133,NA,NA,-89.833871,35.186698,"6880 hillshire dr #14, memphis, tn 38133, usa",NA
-Muddy's Bake Shop,(901) 683-8844,2497 Broad Ave Memphis TN 38112,Yes,No,-89.9758408,35.1478025,"2497 broad ave, memphis, tn 38112, usa",NA
-Mom's Kitchen,(901) 614-9606,669 S Highland St Memphis TN 38111,NA,NA,-89.9459825,35.1133605,"669 s highland st, memphis, tn 38111, usa",NA
-La Ilucion,(901) 369-0212,4273 American Way Memphis TN 38118,NA,NA,-89.9211725,35.0750106,"4273 american way, memphis, tn 38118, usa",NA
-Nacho Average Bakery,(901) 522-4455,150 Jefferson Ave Memphis TN 38103,NA,NA,-90.05017319999999,35.1468749,"150 jefferson ave, memphis, tn 38103, usa",NA
-Phillip Ashley Chocolates,(901) 572-1011,1200 Madison Ave Memphis TN 38104,NA,NA,-90.0211621,35.1396229,"1200 madison ave, memphis, tn 38104, usa",NA
-Caf√© Eclectic,(901) 725-1718,603 N Mclean Blvd Memphis TN 38107,NA,NA,-89.99752269999999,35.1541408,"603 n mclean blvd, memphis, tn 38107, usa",NA
-Einstein Bros Bagels,(901) 800-2806,4631 Poplar Ave Memphis TN 38117,NA,NA,-89.90778159999999,35.1160769,"4631 poplar ave, memphis, tn 38117, usa",NA
-The Cake Gallery,(901) 654-3425,164 Madison Ave Memphis TN 38103,NA,NA,-90.0505725,35.1447053,"164 madison ave, memphis, tn 38103, usa",NA
-Hustle & Dough,(901) 701-7577,477 S Main St Memphis TN 38103,NA,NA,-90.0593363,35.134393,"477 s main st, memphis, tn 38103, usa",NA
-Byrds Soulfood Andesserts,(901) 830-2204,1583 N Merton St Memphis TN 38108,NA,NA,-89.9731176,35.1793006,"1583 n merton st, memphis, tn 38108, usa",NA
-Grandma's Desserts Etc,(901) 458-2197,3108 Park Ave Memphis TN 38111,NA,NA,-89.9590115,35.1079995,"3108 park ave, memphis, tn 38111, usa",NA
-Perkins Restaurant & Bakery,(901) 341-6824,3455 Poplar Ave Memphis TN 38111,Yes,No,-89.9467056,35.12764,"3455 poplar ave, memphis, tn 38111, usa",NA
-Jeremiah's Italian Ice,(901) 660-2092,3717 Summer Ave Memphis TN 38122,NO,DOESNT GO BAD,-89.9369646,35.1489916,"3717 summer ave, memphis, tn 38122, usa",NA
-Sweet Potato Baby,(901) 401-0379,4728 Spottswood Ave Ste 161 Memphis TN 38117,NA,NA,-89.90552679999999,35.1133135,"4728 spottswood ave #161, memphis, tn 38117, usa",NA
-Crumbl Cookies - East Memphis,(901) 410-1950,705 S Mendenhall Rd Memphis TN 38117,yes,No,-89.8965913,35.1116985,"705 s mendenhall rd, memphis, tn 38117, usa",NA
-Crumbl Cookies - East Memphis,(901) 410-1950,711 S Mendenhall Rd Memphis TN 38117,NA,NA,-89.8965654,35.1116475,"711 s mendenhall rd, memphis, tn 38117, usa",NA
-Ricki's Cookie Corner,(901) 866-2447,5068 Park Ave Memphis TN 38117,NA,NA,-89.89377669999999,35.1078566,"5068 park ave, memphis, tn 38117, usa",NA
-Nothing Bundt Cakes,(901) 208-8984,681 S White Station Rd Ste 101 Memphis TN 38117,Yes,yes,-89.8885554,35.1124636,"681 s white station rd suite 101, memphis, tn 38117, usa",darkblue
-the sweet tooth of Memphis,(901) 581-3312,2264 meadow glade ln memphis TN 38134,No,NA,-89.8779893,35.1858901,"2264 meadow glade ln, memphis, tn 38134, usa",NA
-Sweet Thangs Custom Creations,(901) 336-8899,5499 Oak Bark Dr Memphis TN 38116,NA,NA,-90.02417439999999,34.998287,"5499 oak bark dr, memphis, tn 38116, usa",NA
-Milk Dessert Bar,(901) 730-0893,1789 Kirby Pkwy Ste 10 Memphis TN 38138,Yes,No,-89.840133,35.1003025,"1789 kirby pkwy # 10, germantown, tn 38138, usa",NA
-Cinnabon,(901) 381-2769,2760 N Germantown Pkwy Memphis TN 38133,Yes,No,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",NA
-Dave's Bagels,(206) 658-7280,694 Madison Ave Memphis TN 38103,NA,NA,-90.03787609999999,35.1413216,"694 madison ave, memphis, tn 38103, usa",NA
-The Hive,(901) 421-6924,276 S Front St Memphis TN 38103,NA,NA,-90.057031,35.13876,"276 s front st, memphis, tn 38103, usa",NA
-Kandy Apple Hill,(901) 453-6829,210 N 4th St Memphis TN 38105,NA,NA,-90.0452065,35.1493344,"210 n 4th st, memphis, tn 38105, usa",NA
-Cupcake Cutie Etc,(901) 249-6996,109 S Court Ave Memphis TN 38103,NA,NA,-90.05221949999999,35.1455659,"109 s ct ave, memphis, tn 38103, usa",NA
-The Big Ono Bake Shop,(901) 590-4910,116 S Front St Memphis TN 38103,NA,NA,-90.0552153,35.1424182,"116 s front st, memphis, tn 38103, usa",NA
-Interstate Brands,(901) 251-1060,490 Monroe Ave Memphis TN 38103,NA,NA,-90.0417339,35.1414153,"490 monroe ave, memphis, tn 38103, usa",NA
-Goodness Gracious Cookies,(901) 830-8756,694 Madison Ave Memphis TN 38103,NA,NA,-90.03787609999999,35.1413216,"694 madison ave, memphis, tn 38103, usa",NA
-Cupcake Cutie Etc.,(901) 443-5664,300 S Main St Memphis TN 38103,NA,NA,-90.05626749999999,35.1378448,"300 s main st, memphis, tn 38103, usa",NA
-Dee'lightful Bliss Bakery,(901) 244-8768,409 S Main St Memphis TN 38103,NA,NA,-90.05865709999999,35.1355017,"409 s main st, memphis, tn 38103, usa",NA
-Cakes & Catering by Nea,(901) 254-2800,853 Faxon Ave Memphis TN 38105,NA,NA,-90.0304513,35.1560633,"853 faxon ave, memphis, tn 38105, usa",NA
-Butteriffic Bakery & Cafe,(901) 207-4618,488 S 2nd St Memphis TN 38103,Yes,Yes,-90.05621,35.1338382,"488 s 2nd st, memphis, tn 38103, usa",NA
-Bake Pro Plus,(901) 729-7247,281 Bickford Ave Memphis TN 38107,NA,NA,-90.03902560000002,35.1644358,"281 bickford ave, memphis, tn 38107, usa",NA
-Primas Bakery and Boutique,(901) 746-8563,523 S Main St Memphis TN 38103,NA,NA,-90.05925909999999,35.1331594,"523 s main st, memphis, tn 38103, usa",NA
-Baptist Health Science University,(901) 524-1117,20 Dudley St Memphis TN 38103,NA,NA,-90.0292896,35.13946680000001,"20 dudley st, memphis, tn 38103, usa",NA
-Kel's Cookie Corner,(731) 676-2542,1325 Autumn Ave Memphis TN 38104,NA,NA,-90.01552129999999,35.15068249999999,"1325 autumn ave, memphis, tn 38104, usa",NA
-Einstein Bros Bagels,(901) 208-8196,7780 Us Highway 64 Memphis TN 38133,NA,NA,-89.80352409999999,35.2052858,"7780 us-64, memphis, tn 38133, usa",NA
-Kandy Apple Hill,(901) 453-6829,210 N 4th St Memphis TN 38105,NA,NA,-90.0452065,35.1493344,"210 n 4th st, memphis, tn 38105, usa",NA
-Cupcake Cutie Etc,(901) 249-6996,109 S Court Ave Memphis TN 38103,NA,NA,-90.05221949999999,35.1455659,"109 s ct ave, memphis, tn 38103, usa",NA
-The Big Ono Bake Shop,(901) 590-4910,116 S Front St Memphis TN 38103,NA,NA,-90.0552153,35.1424182,"116 s front st, memphis, tn 38103, usa",NA
-Interstate Brands,(901) 251-1060,490 Monroe Ave Memphis TN 38103,NA,NA,-90.0417339,35.1414153,"490 monroe ave, memphis, tn 38103, usa",NA
-Goodness Gracious Cookies,(901) 830-8756,694 Madison Ave Memphis TN 38103,NA,NA,-90.03787609999999,35.1413216,"694 madison ave, memphis, tn 38103, usa",NA
-Cupcake Cutie Etc.,(901) 443-5664,300 S Main St Memphis TN 38103,NA,NA,-90.05626749999999,35.1378448,"300 s main st, memphis, tn 38103, usa",NA
-Dee'lightful Bliss Bakery,(901) 244-8768,409 S Main St Memphis TN 38103,NA,NA,-90.05865709999999,35.1355017,"409 s main st, memphis, tn 38103, usa",NA
-Cakes & Catering by Nea,(901) 254-2800,853 Faxon Ave Memphis TN 38105,NA,NA,-90.0304513,35.1560633,"853 faxon ave, memphis, tn 38105, usa",NA
-Butteriffic Bakery & Cafe,(901) 207-4618,488 S 2nd St Memphis TN 38103,NA,NA,-90.05621,35.1338382,"488 s 2nd st, memphis, tn 38103, usa",NA
-Bake Pro Plus,(901) 729-7247,281 Bickford Ave Memphis TN 38107,NA,NA,-90.03902560000002,35.1644358,"281 bickford ave, memphis, tn 38107, usa",NA
-Primas Bakery and Boutique,(901) 746-8563,523 S Main St Memphis TN 38103,NA,NA,-90.05925909999999,35.1331594,"523 s main st, memphis, tn 38103, usa",NA
-Baptist Health Science University,(901) 524-1117,20 Dudley St Memphis TN 38103,NA,NA,-90.0292896,35.13946680000001,"20 dudley st, memphis, tn 38103, usa",NA
-Kel's Cookie Corner,(731) 676-2542,1325 Autumn Ave Memphis TN 38104,NA,NA,-90.01552129999999,35.15068249999999,"1325 autumn ave, memphis, tn 38104, usa",NA
-Lucy J's Bakery,(901) 257-9206,1350 Concourse Ave Ste 151 Memphis TN 38104,Yes,No,-90.0143805,35.1518486,"crosstown concourse, 1350 concourse ave suite 151, memphis, tn 38104, usa",NA
-Flowers Baking Company,(901) 946-7808,1029 Florida St Memphis TN 38106,NA,NA,-90.0623904,35.1195057,"1029 florida st, memphis, tn 38106, usa",NA
-K3 Studio Cafe,(901) 281-7762,1130 S 3rd St Memphis TN 38106,Yes,No,-90.054941,35.116588,"1130 s 3rd st, memphis, tn 38106, usa",NA
-The Gingers Bread & Co,(901) 870-3927,1613 Union Ave Memphis TN 38104,No,NA,-90.007851,35.135623,"1613 union ave, memphis, tn 38104, usa",NA
-Gigi's Cupcakes,(901) 888-2253,1680 Union Ave Memphis TN 38104,NA,NA,-90.0058653,35.1362032,"1680 union ave, memphis, tn 38104, usa",NA
-Lallemand Baking Solutions,(901) 357-6847,251 Stiles Dr Memphis TN 38127,NA,NA,-90.05380319999999,35.1906252,"251 stiles dr, memphis, tn 38127, usa",NA
-Sweet Expressions Now,(901) 290-2121,1671 Euclid Ave Memphis TN 38114,NA,NA,-90.00609960000001,35.12096289999999,"1671 euclid ave, memphis, tn 38114, usa",NA
-Lady Bugg Bakery,(901) 343-0438,6 S Cooper St Memphis TN 38104,NA,NA,-89.9898238,35.1362677,"6 cooper st, memphis, tn 38104, usa",NA
-Frost Bake Shop,(901) 682-4545,1094 Channel Ave Memphis TN 38106,Yes,Yes,-90.0903379,35.1055686,"1094 channel ave, memphis, tn 38106, usa",NA
-Carol's Cheesecakes & More,(901) 323-2217,482 N Hollywood St Memphis TN 38112,NA,NA,-89.9768804,35.1485417,"482 n hollywood st, memphis, tn 38112, usa",NA
-Perkins Restaurant & Bakery,(901) 774-9443,2249 Perry Rd Memphis TN 38106,NA,NA,-90.0109116,35.0838688,"2249 perry rd, memphis, tn 38106, usa",NA
-La Baguette French Bread Shop,(901) 458-0900,3088 Poplar Ave Memphis TN 38111,NA,NA,-89.9589501,35.1323398,"3088 poplar ave, memphis, tn 38111, usa",NA
-Bread-Hostess Cake,(816) 701-4600,570 Rivergate Rd Memphis TN 38109,NA,NA,-90.0830663,35.0805119,"570 n rivergate rd, memphis, tn 38109, usa",NA
-Baker Corp,(901) 332-0259,1451 Corporate Ave Memphis TN 38132,NA,NA,-90.01439390000002,35.071543,"1451 corporate ave, memphis, tn 38132, usa",NA
-Bimbo Bakeries USA,(901) 348-1825,3053 Fleetbrook Dr Memphis TN 38116,NA,NA,-90.0332085,35.0656053,"3053 fleetbrook dr, memphis, tn 38116, usa",NA
-Choice Cheesecakes,(901) 730-6082,111 S Highland St # 630 Memphis TN 38111,NA,NA,-89.9457123,35.128918,"111 s highland st #630, memphis, tn 38111, usa",NA
-Cafe Eclectic,(901) 410-0765,510 S Highland St Memphis TN 38111,NA,NA,-89.94536839999999,35.1176059,"510 s highland st, memphis, tn 38111, usa",NA
-La Espiga Panaderia,(901) 454-9220,3967 Summer Ave Memphis TN 38122,NA,NA,-89.9287064,35.1487031,"3967 summer ave, memphis, tn 38122, usa",NA
-Panaderia San Juan,(901) 249-3233,3979 Jackson Ave Memphis TN 38128,NA,NA,-89.9311079,35.1839759,"3979 jackson ave, memphis, tn 38128, usa",NA
-Weaver's Slice of Heaven Bakery,(901) 552-4232,4287 Summer Ave Memphis TN 38122,NA,NA,-89.9177673,35.1485505,"4287 summer ave, memphis, tn 38122, usa",NA
-La Ilucion,(901) 761-0160,4312 Macon Rd Memphis TN 38122,NA,NA,-89.9167451,35.1622974,"4312 macon rd, memphis, tn 38122, usa",NA
-Perkins Restaurant & Bakery,(901) 779-6135,1443 Leslie Cv Memphis TN 38111,NA,NA,-89.9339543,35.0921926,"1443 leslie cove, memphis, tn 38111, usa",NA
-Cinnabon,(901) 922-8000,2491 Winchester Rd Memphis TN 38116,NA,NA,-89.9814413,35.0471162,"2491 winchester rd, memphis, tn 38116, usa",NA
-Middle East Bakery & Grill,(901) 552-5296,4514 Summer Ave Ste 9 Memphis TN 38122,NA,NA,-89.9105246,35.150147,"4514 summer ave #9, memphis, tn 38122, usa",NA
-Great American Cookies,(901) 683-8803,4465 Poplar Ave Ste 1132 Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave #1132, memphis, tn 38117, usa",NA
-Cookie Cake Company,(901) 623-3722,4465 Poplar Ave Memphis TN 38117,NA,NA,-89.9129117,35.1170478,"4465 poplar ave, memphis, tn 38117, usa",NA
-And Cookies Apples,(901) 789-3130,3654 Boxtown Rd Memphis TN 38109,NA,NA,-90.1248181,35.0490321,"3654 boxtown rd, memphis, tn 38109, usa",NA
-Perkins Restaurant & Bakery,(901) 818-5549,555 S Perkins Rd Memphis TN 38117,NA,NA,-89.9098886,35.1161402,"555 s perkins rd, memphis, tn 38117, usa",NA
-Whimsy Cookie Company Franchising,(901) 343-0709,4704 Poplar Ave Memphis TN 38117,NA,NA,-89.9049699,35.1159458,"4704 poplar ave, memphis, tn 38117, usa",NA
-Gigi's Cupcakes,(901) 888-2255,4709 Poplar Ave Memphis TN 38117,NA,NA,-89.9049764,35.1150584,"4709 poplar ave, memphis, tn 38117, usa",NA
-The Flour Garden,(901) 417-7600,4730 Poplar Ave Ste 3 Memphis TN 38117,NA,NA,-89.904039,35.115709,"4730 poplar ave #3, memphis, tn 38117, usa",NA
-Butcher & Baker,(901) 682-7441,5041 Summer Ave Memphis TN 38122,NA,NA,-89.89224120000002,35.1489172,"5041 summer ave, memphis, tn 38122, usa",NA
-City Bread,(901) 683-7350,575 S Mendenhall Rd Memphis TN 38117,NA,NA,-89.8963259,35.1155061,"575 s mendenhall rd, memphis, tn 38117, usa",NA
-Mi Pueblo,(901) 244-7913,5007 Black Rd Memphis TN 38117,NA,NA,-89.89505249999999,35.1142461,"5007 black rd, memphis, tn 38117, usa",NA
-Haute Monde Dessert Bar,(901) 290-2099,4590 Plato Ave Memphis TN 38128,NA,NA,-89.9101913,35.2162427,"4590 plato ave, memphis, tn 38128, usa",NA
-D's Butter Cookies,(901) 435-6083,1833 Gooch Rd Memphis TN 38109,NA,NA,-90.124843,35.032259,"1833 gooch rd, memphis, tn 38109, usa",NA
-Blanca Cakes,(901) 207-7452,5070 Raleigh Lagrange Rd Ste 18 Memphis TN 38134,NA,NA,-89.8939505,35.1936299,"5070 raleigh lagrange rd #18, memphis, tn 38134, usa",NA
-Panaderia La Ideal,(901) 779-7925,3993 Lamar Ave Memphis TN 38118,NA,NA,-89.9308387,35.0551146,"3993 lamar ave, memphis, tn 38118, usa",NA
-Ms. Chocolate Drop Bakeries & Treat,(901) 255-4128,5276 Kimbark Woods Dr Memphis TN 38134,NA,NA,-89.88741309999999,35.1930852,"5276 kimbark woods dr, memphis, tn 38134, usa",NA
-Southern Gourmet Designer Cakes & Baskets,(901) 218-4618,4529 Atoll Ln Memphis TN 38118,NA,NA,-89.9592704,35.024762,"4529 atoll ln, memphis, tn 38118, usa",NA
-L J J's Custom Cakes,(901) 377-2305,5647 Falling Bark Dr Memphis TN 38134,NA,NA,-89.87450170000001,35.1800654,"5647 falling bark dr, memphis, tn 38134, usa",NA
-Panaderia La Ilusion 4,(901) 729-7820,5717 Raleigh Lagrange Rd Memphis TN 38134,yes,no,-89.87276570000002,35.18244720000001,"5717 raleigh lagrange rd, bartlett, tn 38134, usa",red
-Jostens Jostens,(901) 425-2913,5681 Quince Rd Memphis TN 38119,NA,NA,-89.87406570000002,35.0886127,"5681 quince rd, memphis, tn 38119, usa",NA
-Draper's Bakery & Banquets,(901) 385-7788,6110 Macon Rd Memphis TN 38134,no,NA,-89.8595026,35.1646471,"6110 macon rd, memphis, tn 38134, usa",NA
-Panaderia,(901) 249-7248,3127 S Mendenhall Rd Memphis TN 38115,no,NA,-89.88727279999999,35.0632829,"3127 s mendenhall rd, memphis, tn 38115, usa",NA
-Kellogg's Snacks,(901) 373-6115,1751 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.8559239,35.1733686,"1751 n shelby oaks dr, memphis, tn 38134, usa",NA
-Jose Bakery,(901) 249-3933,5365 Knight Arnold Rd Memphis TN 38115,yes,ish,-89.8846514,35.0615008,"5365 knight arnold rd, memphis, tn 38115, usa",purple
-Marie Callender's,(901) 766-6400,6075 Poplar Ave Ste 800 Memphis TN 38119,NA,NA,-89.86105040000001,35.1014489,"6075 poplar ave # 800, memphis, tn 38119, usa",NA
-Marie Callender's,(901) 766-6492,1687 Shelby Oaks Dr N Memphis TN 38134,NA,NA,-89.85662219999999,35.1710632,"1687 shelby oaks dr, memphis, tn 38134, usa",NA
-Sweet Lala's Bakery,(901) 654-3646,6150 Poplar Ave Ste 118 Memphis TN 38119,yes,no,-89.8575741,35.1027656,"6150 poplar ave suite 118, memphis, tn 38119, usa",red
-Flowers Baking Company,(901) 566-1220,4521 Malone Rd Memphis TN 38118,NA,NA,-89.9211257,35.025066,"4521 malone rd, memphis, tn 38118, usa",NA
-Cinnabon,(901) 761-1818,6300 Poplar Ave Memphis TN 38119,NA,NA,-89.8530384,35.1020598,"6300 poplar ave, memphis, tn 38119, usa",NA
-Kutie Pies Company,(901) 779-6902,6488 Gallan Dr Memphis TN 38134,NA,NA,-89.8467151,35.1682157,"6488 gallan dr, memphis, tn 38134, usa",NA
-Walmart - Bakery,(901) 362-3622,2856 Hickory Hill Rd Memphis TN 38115,NA,NA,-89.8627032,35.0699717,"2856 hickory hill rd, memphis, tn 38115, usa",NA
-Walmart - Bakery,(901) 498-5340,6727 Raleigh Lagrange Rd Memphis TN 38134,NA,NA,-89.83965669999999,35.176975,"6727 raleigh lagrange rd, memphis, tn 38134, usa",NA
-Bunny Bread Co,(901) 388-3803,4699 Austin Peay Hwy Memphis TN 38135,NA,NA,-89.8767593,35.2540848,"4699 austin peay hwy, memphis, tn 38135, usa",NA
-Sprinkle Me Silly,(901) 729-7758,6860 Hillshire Dr Ste 8 Memphis TN 38133,NA,NA,-89.8349755,35.1865439,"6860 hillshire dr #8, memphis, tn 38134, usa",NA
-Cookie Florist The,(901) 377-7034,6860 Hillshire Dr Memphis TN 38133,NA,NA,-89.83460430000001,35.1867083,"6860 hillshire dr, memphis, tn 38133, usa",NA
-The Donut Box,(901) 385-1867,3051 Kirby Whitten Rd Ste 1 Memphis TN 38134,NA,NA,-89.841065,35.2089901,"3051 kirby whitten rd #1, bartlett, tn 38134, usa",NA
-D & R Bakery,(901) 377-9991,2740 Whitten Rd Memphis TN 38133,NA,NA,-89.83609,35.2002246,"2740 whitten rd, memphis, tn 38133, usa",NA
-Makeda's Homemade Butter Cookies,(901) 367-8799,6075 Winchester Rd Memphis TN 38115,NA,NA,-89.861052,35.0481711,"6075 winchester rd, memphis, tn 38115, usa",NA
-Old School Cookies,(901) 846-6046,4210 Altruria Rd Ste 110 Memphis TN 38135,NA,NA,-89.8438516,35.2400782,"4210 altruria rd #110, bartlett, tn 38135, usa",NA
-AppleHeadz SweetzBoutique,(901) 235-3940,7140 Stage Blvd  STE 112 Memphis TN 38133,NA,NA,-89.7989767,35.2091855,"bartlett, tn 38133, usa",NA
-Le Gourmet French Pastry,(901) 384-3900,7395 Us Highway 64 Ste 103 Memphis TN 38133,NA,NA,-89.8180229,35.2038555,"7395 us-64 #103, memphis, tn 38133, usa",NA
-La Espiga Bakery,(901) 207-2732,6661 Winchester Rd Memphis TN 38115,NA,NA,-89.84133940000001,35.0490161,"6661 winchester rd, memphis, tn 38115, usa",NA
-Thecheesecakeguru,(901) 361-6248,6891 Somerset Cv Memphis TN 38119,NA,NA,-89.83276359999999,35.0623229,"6891 somerset cove, memphis, tn 38119, usa",NA
-Tempting Berries Bakery,(901) 363-6300,6765 Winchester Rd Memphis TN 38115,NA,NA,-89.83769579999999,35.0483392,"6765 winchester rd, memphis, tn 38115, usa",NA
-Ty's Gourmet Cupcakes,(901) 207-7741,6415 Fawn Hollow Cir S Memphis TN 38141,NA,NA,-89.8494474,35.0242212,"6415 s fawn hollow cir, memphis, tn 38141, usa",NA
-Carousel Sweets Bakery,(901) 352-5567,8034 Giacosa Pl Ste 103 Memphis TN 38133,NA,NA,-89.7958865,35.1991964,"8034 giacosa pl suite 103, memphis, tn 38133, usa",NA
-Walmart - Bakery,(901) 757-1442,7525 Winchester Rd Memphis TN 38125,NA,NA,-89.811162,35.047802,"7525 winchester rd, memphis, tn 38125, usa",NA
-Walmart - Bakery,(901) 309-7876,6990 E Shelby Dr Memphis TN 38125,NA,NA,-89.8303826,35.0220905,"6990 e shelby dr, memphis, tn 38141, usa",NA
-Schnucks Markets,(901) 754-3451,5270 Riverdale Rd Memphis TN 38141,NA,NA,-89.830664,35.0037656,"5270 riverdale rd, memphis, tn 38125, usa",NA
-Schnucks Markets,(901) 754-8947,5274 Riverdale Rd Memphis TN 38141,NA,NA,-89.8284113,35.004454,"5274 riverdale rd, memphis, tn 38141, usa",NA
-Makeda's Homemade Cookies,(901) 745-2667,2370 Airways Blvd Memphis TN 38114,yes,yes,-89.9847155,35.0807294,"2370 airways blvd, memphis, tn 38114, usa",darkblue
-Great American Cookies,(901) 386-7871,2760 N Germantown Pkwy Memphis TN 38133,yes,no,-89.7877063,35.200892,"2760 n germantown pkwy, memphis, tn 38133, usa",red
-Muddys Bake Shop,(901) 683-8844,5101 Sanderlin Ave Memphis TN 38117,NA,NA,-89.8916567,35.1160851,"5101 sanderlin ave, memphis, tn 38137, usa",NA
-Creative Cakes Boutique,(901) 389-0683,2910 Overton Crossing St Memphis TN 38127,NA,NA,-89.99673960000001,35.204736,"2910 overton crossing st, memphis, tn 38127, usa",NA
-Cupcake Cutie Inc,(901) 729-6514,7140 Stage Rd Memphis TN 38133,NA,NA,-89.8248268,35.2048575,"7140 stage rd, bartlett, tn 38133, usa",NA
-Howard's Do-Nuts,(870) 735-2046,1711 N Missouri St West Memphis AR 72301,yes,no,-90.184274,35.1657733,"1711 n missouri st, west memphis, ar 72301, usa",red
-opera house,NA,"500 Walnut St, Kansas City, MO 64106-1209",not really,not really,-94.5818005,39.1083806,"500 walnut st, kansas city, mo 64106, usa",NA
-elvira's cakes,NA,"3838 Independence Ave, Kansas City, MO 64124-2704",yes,ish,-94.5359397,39.1061216,"3838 independence ave, kansas city, mo 64124, usa",purple
-Cupcake a la mode,NA,"4639 Wornall Rd, Kansas City, MO 64112",yes,no,-94.5898419,39.0426063,"4639 wornall rd, kansas city, mo 64112, usa",red
-Scola's Original Italian Cookies & Pastries,NA,"8002 N Oak Tfwy, Unit 105, Kansas City, MO 64118",yes,no,-94.5768711,39.2396141,"8002 n oak trafficway #105, kansas city, mo 64118, usa",red
-McLain's Bakery,NA,"201 E Gregory Blvd, Kansas City, MO 64114",yes,no,-94.5865863,38.9991104,"201 e gregory blvd, kansas city, mo 64114, usa",red
-Messenger Coffee Co. + Ibis Bakery,NA,"318 W 47th St, Kansas City, MO 64112",NA,NA,-94.5908235,39.042494,"318 w 47th st, kansas city, mo 64112, usa",NA
-Bloom Baking Company,NA,"15 E 3rd St, Kansas City, MO 64106-1004",yes,yes,-94.5826541,39.1098605,"15 e 3rd st, kansas city, mo 64106, usa",darkblue
-Bonito Michoacán Bakery,NA,"1150 Minnesota Ave, Kansas City, KS 66102",NA,NA,-94.640479,39.115844,"1150 minnesota ave, kansas city, ks 66102, usa",NA
-Ashleigh's Bakeshop,NA,"115 Westport Rd, Kansas City, MO 64111-2226",yes,no,-94.5878268,39.0543597,"115 westport rd, kansas city, mo 64111, usa",red
-cupcakin bakery,NA,"2450 Grand Blvd, Unit 126, Kansas City, MO 64108",NA,NA,-94.58244619999999,39.0826589,"2450 grand blvd #126, kansas city, mo 64108, usa",NA
-smallcakes 64th,NA,"6127 NW 63rd Ter, Kansas City, MO 64151",NA,NA,-94.6519026,39.209258,"6127 nw 63rd terrace, kansas city, mo 64151, usa",NA
-sweet petites kc,NA,"108 E Missouri Ave, Kansas City, MO 64106",yes,no,-94.58089199999999,39.1078502,"108 e missouri ave, kansas city, mo 64106, usa",red
-delicias bakery,NA,"1704 Central Ave Kansas City, KS 66102",no,no,-94.64851999999999,39.1058801,"1704 central ave, kansas city, ks 66102, usa",red
-The Muffin Top Bakery - Zona Rosa,NA,8671 NW Prairie View RD.,yes,no,-94.661726,39.2513007,"8671 nw prairie view rd, kansas city, mo 64153, usa",red
+Jake's Delicatessen,414 562 1272,"1634 W North Ave, Milwaukee, WI 53205-1252",yes,no,-87.9337101,43.0606049,"1634 w north ave, milwaukee, wi 53205, usa",blue
+Amélie's French Bakery & Café,704) 376-1781,"136 E 36th St, Charlotte, NC 28205",yes,no,-80.8078993,35.2515329,"136 e 36th st, charlotte, nc 28206, usa",blue
+Suárez Bakery,(704) 525-0145,"4245 Park Rd, Charlotte, NC 28209",yes,no,-80.8478769,35.1741669,"4245 park rd, charlotte, nc 28209, usa",blue
+Renaissance Pâtisserie,(980) 819-8771,"6401 Carnegie Blvd #4a, Charlotte, NC 28211",yes,no,-80.8309453,35.1561632,"6401 carnegie blvd #4a, charlotte, nc 28211, usa",blue
+Sunflour Baking Company,(704) 900-5268,"2001 E 7th St, Charlotte, NC 28204",yes,yes,-80.8171465,35.2123879,"2001 e 7th st, charlotte, nc 28204, usa",red
+New York Pastries & Pasteleria,(980) 435-2496,"221 E Exmore St G, Charlotte, NC 28217",yes,no,-80.8801385,35.1798905,"221 e exmore st g, charlotte, nc 28217, usa",blue
+Manolo's Bakery,(704) 568-2120,"4405 Central Ave, Charlotte, NC 28205",yes,no,-80.7701524,35.2141629,"4405 central ave, charlotte, nc 28205, usa",blue
+Sunflour Baking Company: Dilworth Bakery,(704) 332-5222,"220 East Blvd, Charlotte, NC 28203",NA,NA,-80.85712819999999,35.2109574,"220 east blvd, charlotte, nc 28203, usa",NA
+Amélie's French Bakery & Café | Park Road,(704) 405-0570,"4321 Park Rd, Charlotte, NC 28209",NA,NA,-80.851134,35.1731064,"4321 park rd, charlotte, nc 28209, usa",NA
+Nothing Bundt Cakes,(704) 909-4577,"601 S Kings Dr, Charlotte, NC 28204",yes,no,-80.83561639999999,35.2098341,"601 s kings dr, charlotte, nc 28204, usa",blue
+O'Dalys Bakery,(704) 643-2577,"6407 South Blvd, Charlotte, NC 28217",yes,yes,-80.8756992,35.1474137,"6407 south blvd, charlotte, nc 28217, usa",red
+Golden Bakery,(704) 537-4857,"3145 N Sharon Amity Rd, Charlotte, NC 28205",NA,NA,-80.7605609,35.2037349,"3145 n sharon amity rd, charlotte, nc 28205, usa",NA
+Cosmic Cookie Bakery,(704) 910-6549,"8535 Hankins Rd suite f, Charlotte, NC 28269",NA,NA,-80.8340418,35.3397622,"8535 hankins rd f, charlotte, nc 28269, usa",NA
+Hong kong Bakery,(980) 321-7283,"7323 E Independence Blvd, Charlotte, NC 28227",no,NA,-80.73755190000001,35.1629146,"7323 e independence blvd, charlotte, nc 28227, usa",NA
+Estrella's Bakery,(980) 219-9753,"9030 Albemarle Rd suite b, Charlotte, NC 28215",no,NA,-80.6898616,35.2112238,"9030 albemarle rd b, charlotte, nc 28227, usa",NA
+Sunflour Baking Company: Ballantyne Bakery,(980) 237-8881,"14021 Conlan Cir B-9, Charlotte, NC 28277",yes,no,-80.85364969999999,35.0557995,"14021 conlan cir b 9, charlotte, nc 28277, usa",blue
+Tous les Jours,(980) 939-1247,"4625 Piedmont Row Dr #105, Charlotte, NC 28210",yes,no,-80.839111,35.152307,"4625 piedmont row dr #105, charlotte, nc 28210, usa",blue
+Juanita's Bakery,(704) 523-0020,"4724 Old Pineville Rd, Charlotte, NC 28217",yes,no,-80.88063389999999,35.1770141,"4724 old pineville rd, charlotte, nc 28217, usa",blue
+Suárez Bakery & Barra,(980) 273-1788,"1115 N Brevard St Ste 4, Charlotte, NC 28206",NA,NA,-80.8272722,35.23441529999999,"1115 n brevard st stall #4, charlotte, nc 28206, usa",NA
+Amélie’s French Bakery & Café | Carmel Commons,(704) 376-1782,"7715 Pineville-Matthews Rd Unit 34B, Charlotte, NC 28226",yes,no,-80.850639,35.086284,"7715 pineville-matthews rd #34b, charlotte, nc 28226, usa",blue
+La Dolcekca Bakery Cafe,(980) 938-5143,"1607 Montford Dr Suite C, Charlotte, NC 28209",yes,yes,-80.84940189999999,35.17093759999999,"1607 montford dr suite c, charlotte, nc 28209, usa",red
+Copain Bakery & Provisions,NA,"6601 Carnegie Blvd, Charlotte, NC 28211",NA,NA,-80.827831,35.1538818,"6601 carnegie blvd, charlotte, nc 28211, usa",NA
+Panaderia Odalys,(704) 509-2300,"6301 N Tryon St #118, Charlotte, NC 28213",NA,NA,-80.76764179999999,35.2734533,"6301 n tryon st #118, charlotte, nc 28213, usa",NA
+Smallcakes Utopia,(704) 588-6742,"6925 University City Blvd #415, Charlotte, NC 28262",yes,no,-80.7654242,35.2905082,"6925 university city blvd #415, charlotte, nc 28262, usa",blue
+Smallcakes Steele Creek,(980) 237-1897,"4847 Shopton Rd E, Charlotte, NC 28278",yes,no,-80.96349099999999,35.1710608,"4847 shopton rd, charlotte, nc 28278, usa",blue
+Sweet Magic - Pastries and Cafe,(704) 233-3549,"15025 Lancaster Hwy D2, Charlotte, NC 28277",NA,NA,-80.862417,35.041851,"15025 lancaster hwy d2, charlotte, nc 28277, usa",NA
+Posh Ganache Bakery,NA,"5725 Carnegie Blvd, Charlotte, NC 28209",NA,NA,-80.8410657,35.1534386,"5725 carnegie blvd, charlotte, nc 28209, usa",NA
+In the Mix Bakery,(804) 616-6017,"4102 Cemkey Way, Charlotte, NC 28269",NA,NA,-80.7929506,35.3517642,"4102 cemkey way, charlotte, nc 28269, usa",NA
+Jewell Treats,(980) 202-2530,"214 N Tryon St, Charlotte, NC 28202",yes,make it into cake pops,-80.8407876,35.2277389,"214 n tryon st, charlotte, nc 28202, usa",NA
+Panaderia La Princesa,(704) 493-7148,"4404 E Independence Blvd, Charlotte, NC 28205",yes,no,-80.7691318,35.1965988,"4404 e independence blvd, charlotte, nc 28205, usa",blue
+Pizzeria Omaggio,(704) 370-0777,"1055 Metropolitan Ave #130, Charlotte, NC 28204",no,NA,-80.83465,35.2129199,"1055 metropolitan ave #130, charlotte, nc 28204, usa",NA
+Pizzeria Sapienza CLT,(980) 207-0354,"620 N Church St, Charlotte, NC 28202",yes,no,-80.8382546,35.23178559999999,"620 n church st, charlotte, nc 28202, usa",blue
+The Pizza Peel & Tap Room,(704) 790-7335,"1600 Central Ave, Charlotte, NC 28205",yes,no,-80.8118686,35.2200734,"1600 central ave, charlotte, nc 28205, usa",blue
+Bisonte Pizza Co.,(980) 242-4395,"710 W Trade St f, Charlotte, NC 28202",yes,no,-80.84875889999999,35.2323616,"710 w trade st f, charlotte, nc 28202, usa",blue
+Benny Pennello's,(980) 949-8398,"2909 N Davidson St STE 100, Charlotte, NC 28205",NA,NA,-80.8092971,35.2453434,"2909 n davidson st ste 100, charlotte, nc 28205, usa",NA
+Pure Pizza,(980) 430-1701,"1911 Central Ave, Charlotte, NC 28205",yes,no,-80.8079532,35.2203495,"1911 central ave, charlotte, nc 28205, usa",blue
+Sal's Pizza Factory,(980) 219-7108,"3723 Monroe Rd, Charlotte, NC 28205",yes,no,-80.7956605,35.199952,"3723 monroe rd, charlotte, nc 28205, usa",blue
+Tony's Pizza,(704) 688-6880,"1530 Overland Park Ln #1-104, Charlotte, NC 28262",yes,no,-80.7721435,35.317766,"1530 overland park ln #1-104, charlotte, nc 28262, usa",blue
+Beard Papa's,(704) 910-5703,"222 West Blvd S111 Charlotte, NC 28203",yes,no,-80.8611655,35.2139291,"222 west blvd s111, charlotte, nc 28203, usa",blue
+The Salty Donut,(704) 833-3613,"1515 S Tryon St Ste 105 Charlotte, NC 28203",yes,no,-80.8566669,35.2157046,"1515 s tryon st #105, charlotte, nc 28203, usa",blue
+Smallcakes Steele Creek,(980) 237-1897,"4847 Shopton Rd Ste E Charlotte, NC 28278",yes,ish,-80.963599,35.1711754,"4847 shopton rd e, charlotte, nc 28278, usa",purple
+Brazilian Eats and Treats,(980) 406-3654,"16049 Johnston Rd Ste K Charlotte, NC 28277",yes,ish,-80.85016,35.02933,"16049 johnston rd k, charlotte, nc 28277, usa",purple
+Mocco Bistro,(980) 207-0508,"4004 South Blvd Charlotte, NC 28209",yes,no,-80.87608829999999,35.1880369,"4004 south blvd, charlotte, nc 28209, usa",blue
+Burney's Sweets and More,(980) 819-9949,"1200 N Davidson St Charlotte, NC 28206",yes,ish,-80.8244385,35.2321219,"1200 n davidson st, charlotte, nc 28206, usa",purple
+Wentworth & Fenn,(704) 291-0388,"270 Camp Rd Ste 106 Charlotte, NC 28206",no,NA,-80.8332523,35.2463099,"270 camp rd #106, charlotte, nc 28206, usa",NA
+Astoria Pastry Shop,(313) 963-9603,"541 Monroe St, Detroit, MI 48226",no,NA,-83.0419483,42.3354201,"541 monroe st, detroit, mi 48226, usa",NA
+Mexicantown Bakery,(313) 554-0001,"4300 Vernor Hwy, Detroit, MI 48209",yes,gb model,-83.09519139999999,42.3207901,"4300 vernor hwy, detroit, mi 48209, usa",pink
+For the Love of Sugar,(313) 788-7111,"100 Erskine St, Detroit, MI 48201",yes,no,-83.0554923,42.3457602,"100 erskine st, detroit, mi 48201, usa",blue
+La Gloria Bakery,(313) 842-5722,"3345 Bagley St, Detroit, MI 48216",yes,gb model,-83.08436929999999,42.3232303,"3345 bagley st, detroit, mi 48216, usa",pink
+Le Choix,(248) 817-2329,"3730 Rochester Rd Troy, MI 48083",yes,no,-83.12725669999999,42.5729763,"3730 rochester rd, troy, mi 48083, usa",blue
+Sister Pie,(313) 447-5550,"8066 Kercheval St Detroit, MI 48214",yes,gb model,-82.9985976,42.3586606,"8066 kercheval ave, detroit, mi 48214, usa",pink
+New Palace Bakery,(313) 875-1334,"9833 Joseph Campau St Hamtramck, MI 48212",yes,gb  model,-83.0586012,42.3974913,"9833 joseph campau ave, hamtramck, mi 48212, usa",NA
+Sheila's Bakery,(313) 841-8480,"2142 Springwells St Detroit, MI 48209",no,NA,-83.1263859,42.3107661,"2142 springwells st, detroit, mi 48209, usa",NA
+Dearborn Sweets,(313) 581-5959,"6456 Greenfield Rd Dearborn, MI 48126",yes,no,-83.1955653,42.337567,"6456 greenfield rd, dearborn, mi 48126, usa",blue
+Zaatar W Zeit,(313) 945-1200,"10303 W Warren Ave Dearborn, MI 48126",NA,NA,-83.16040269999999,42.3442683,"10303 w warren ave, dearborn, mi 48126, usa",NA
+Chilango's Bakery,(313) 554-0133,"5427 W Vernor Hwy Detroit, MI 48218",yes,gb model,-83.101022,42.3178299,"5427 vernor hwy, detroit, mi 48209, usa",pink
+Tringali's Bakery,(586) 777-9010,"29100 Schoenherr Rd Warren, MI 48088",yes,ish,-82.98657949999999,42.5084433,"29100 schoenherr rd, warren, mi 48093, usa",purple
+Zeman's Bakery,(248) 967-3905,"25258 Greenfield Rd Oak Park, MI 48237",yes,ish,-83.20102399999999,42.475879,"25258 greenfield rd, oak park, mi 48237, usa",purple
+Tony Cannoli Sweets & Eats,(734) 672-6018,"16125 West Rd Trenton, MI 48183",yes,yes,-83.2169491,42.14025150000001,"16125 west rd, woodhaven, mi 48183, usa",red
+Crispelli's Bakery,(248) 591-3800,"931 N Main St Royal Oak, MI 48067",yes,yes,-83.1450187,42.4974929,"931 n main st, royal oak, mi 48067, usa",red
+Chez Pierre et Genevieve,(248) 731-7628,"6525 Telegraph Rd Bloomfield Hills, MI 48301",yes,ish,-83.28408859999999,42.5441991,"6525 telegraph rd, bloomfield hills, mi 48301, usa",purple
+Cannelle Patisserie,(248) 822-4072,"159 N Eton Rd Birmingham, MI 48009",yes,no,-83.1963871,42.5480395,"159 n eton st, birmingham, mi 48009, usa",blue
+La Michoacana Tortilla Bakery,(313) 554-4450,"3428 Bagley St Detroit, MI 48216",no,NA,-83.0853127,42.32338290000001,"3428 bagley st, detroit, mi 48216, usa",NA
+New Delray Baking Company,(313) 683-1406,"14702 Allen Rd Taylor, MI 48180",NA,NA,-83.2290398,42.1996177,"14702 allen rd, taylor, mi 48180, usa",NA
+Graf's Pastry,(248) 851-8181,"30010 W 12 Mile Rd Farmington Hills, MI 48334",NA,NA,-83.3469097,42.5000254,"30010 w 12 mile rd, farmington hills, mi 48334, usa",NA
+Zerilli's Bakery,(586) 286-4650,"42171 Garfield Rd Clinton Township, MI 48038",NA,NA,-82.95366349999999,42.6067447,"42171 garfield rd, clinton twp, mi 48038, usa",NA
+Mannino's Bakery,(586) 978-8166,"4062 17 Mile Rd Sterling Heights, MI 48310",yes,yes,-83.069397,42.5784586,"4062 17 mile rd, sterling heights, mi 48310, usa",red
+Vitos Bakery,(586) 791-0360,"36578 Moravian Dr Clinton Township, MI 48035",yes,no,-82.94893739999999,42.5649125,"36578 moravian dr, clinton twp, mi 48035, usa",blue
+Italia Bakery,(313) 846-4600,"5717 Schaefer Rd Dearborn, MI 48126",NA,NA,-83.1765608,42.3306931,"5717 schaefer rd, dearborn, mi 48126, usa",NA
+New Yasmeen Bakery,(313) 582-6035,"13900 W Warren Ave Dearborn, MI 48126",yes,gb model,-83.1807682,42.3442098,"13900 w warren ave, dearborn, mi 48126, usa",pink
+Boule Artisan Bakery,(734) 354-6980,"880 W Ann Arbor Trl Plymouth, MI 48170",NA,NA,-83.470096,42.370033,"880 w ann arbor trail, plymouth, mi 48170, usa",NA
+Bakehouse 46,(313) 924-8451,"17118 Kercheval Grosse Pointe, MI 48230",yes,no,-82.9150978,42.3903826,"17118 kercheval ave, grosse pointe, mi 48230, usa",blue
+Josef's European Pastry Shop,(313) 881-5710,"21150 Mack Ave Grosse Pointe, MI 48236",yes,ish,-82.9048949,42.449191,"21150 mack ave, grosse pointe woods, mi 48236, usa",purple
+Detroit Cookie Company,(248) 246-8060,"23421 Woodward Ave Ferndale, MI 48220",yes,ish,-83.1389961,42.4662681,"23421 woodward ave, ferndale, mi 48220, usa",purple
+QQ Bakery,(248) 588-9899,"30941 Dequindre Rd Madison Heights, MI 48071",yes,no,-83.08717829999999,42.5193557,"30941 dequindre rd, madison heights, mi 48071, usa",blue
+East Detroit Bakery and Deli,(586) 776-6450,"17530 E 9 Mile Rd Eastpointe, MI 48021",NA,NA,-82.9411229,42.4647961,"17530 e 9 mile rd, eastpointe, mi 48021, usa",NA
+Gateaux Patisserie,(313) 930-1113,"1006 S Military St Dearborn, MI 48124",NA,NA,-83.25143899999999,42.304095,"1006 s military st, dearborn, mi 48124, usa",NA
+Sweetie Marie's,(866) 888-8152,"23055 Gratiot Ave Eastpointe, MI 48021",no,NA,-82.9566881,42.4676449,"23055 gratiot ave, eastpointe, mi 48021, usa",NA
+Atko Market & Bakery,(734) 655-0011,"31245 Eight Mile Rd Livonia, MI 48152",yes,gb model,-83.35516969999999,42.4405644,"31245 eight mile rd, livonia, mi 48152, usa",pink
+Bartz Bakery,(313) 562-0986,"1532 N Telegraph Rd Dearborn, MI 48128",yes,yes,-83.2717156,42.3220178,"1532 n telegraph rd, dearborn, mi 48128, usa",red
+Dearborn Bakery,(313) 849-0004,"10012 Dix Dearborn, MI 48120",no,NA,-83.14486749999999,42.3052396,"10012 dix ave, dearborn, mi 48120, usa",NA
+On the Rise Bakery,(313) 922-8510,"1780 Mt Elliott St Detroit, MI 48207",yes,yes,-83.0149045,42.3517817,"1780 mt elliott st, detroit, mi 48207, usa",red
+Al Nour Bakery,(313) 945-5598,"13738 W Warren Ave Dearborn, MI 48126",NA,NA,-83.17887390000001,42.3441832,"13738 w warren ave, dearborn, mi 48126, usa",NA
+Livonia Italian Bakery & Cafe,(248) 474-0444,"33615 7 Mile Rd Livonia, MI 48152",yes,gb model,-83.3796643,42.4255319,"33615 w seven mile rd, livonia, mi 48152, usa",pink
+Heritage Bakery,(734) 464-1855,"37458 5 Mile Rd Livonia, MI 48154",NA,NA,-83.4137156,42.3967781,"37458 five mile rd, livonia, mi 48154, usa",NA
+Peteet's Famous Cheesecakes,(248) 545-2253,"13835 W9 Mile Rd Oak Park, MI 48237",NA,NA,-83.18270509999999,42.4594803,"oak park, mi 48237, usa",NA
+Dearborn Italian Bakery,(313) 274-2350,"24545 Ford Rd Dearborn, MI 48128",yes,gb model,-83.2781517,42.3266833,"24545 ford rd, dearborn, mi 48128, usa",pink
+Beirut Bakery,(313) 533-4422,"25706 Schoolcraft Redford, MI 48239",NA,NA,-83.29438259999999,42.3856453,"25706 schoolcraft rd, redford charter twp, mi 48239, usa",NA
+The Cheesecake Shop,(586) 773-2090,"23411 Greater Mack Ave Saint Clair Shores, MI 48080",yes,no,-82.8983575,42.4658349,"23411 greater mack ave, st clair shores, mi 48080, usa",blue
+Donutville USA,(313) 582-0350,"14829 Ford Rd Dearborn, MI 48126",yes,gb model,-83.1887576,42.3289643,"14829 ford rd, dearborn, mi 48126, usa",pink
+Roma Bakery and Pizza,(313) 581-5000,"6412 Schaefer Rd Dearborn, MI 48126",yes,no,-83.1761422,42.3370624,"6412 schaefer rd, dearborn, mi 48126, usa",blue
+Delight Bakery and Cafe,(313) 469-0124,"21211 Mack Ave Grosse Pointe Woods, MI 48236",NA,NA,-82.9055465,42.4497469,"21211 mack ave, grosse pointe, mi 48236, usa",NA
+Patisserie by Matt Knio,(313) 418-0131,"Eastern Market Shed 2 East End Detroit, MI 48207",yes,no,-83.03987169999999,42.3464986,"shed #2, 2518 market st, detroit, mi 48207, usa",blue
+Roberto's Bakery,(313) 292-6621,"23807 Van Born Rd Taylor, MI 48180",yes,ish,-83.2677009,42.2688891,"23807 van born rd, taylor, mi 48180, usa",purple
+Liberati's Italian Deli and Bakery,(313) 928-8000,"7607 Allen Rd Allen Park, MI 48101",yes,no,-83.2154219,42.2531627,"7607 allen rd, allen park, mi 48101, usa",blue
+opera house,NA,"500 Walnut St, Kansas City, MO 64106",not really,not really,-94.5818005,39.1083806,"500 walnut st, kansas city, mo 64106, usa",NA
+elvira's cakes,NA,"3838 Independence Ave, Kansas City, MO 64124",yes,ish,-94.5359397,39.1061216,"3838 independence ave, kansas city, mo 64124, usa",purple
+Cupcake a la mode,NA,"4639 Wornall Rd, Kansas City, MO 64112",yes,no,-94.5898419,39.0426063,"4639 wornall rd, kansas city, mo 64112, usa",blue
+Scola's Original Italian Cookies & Pastries,NA,"8002 N Oak Trafficway, Kansas City, MO 64118",yes,no,-94.5768711,39.2396141,"8002 n oak trafficway, kansas city, mo 64118, usa",blue
+McLain's Bakery,NA,"201 E Gregory Blvd, Kansas City, MO 64114",yes,no,-94.5865863,38.9991104,"201 e gregory blvd, kansas city, mo 64114, usa",blue
+Messenger Coffee Co. + Ibis Bakery,NA,"1624 Grand Blvd, Kansas City, MO 64108",NA,NA,-94.5815181,39.0934939,"1624 grand blvd, kansas city, mo 64108, usa",NA
+Bloom Baking Company,NA,"15 E 3rd St, Kansas City, MO 64106",yes,yes,-94.5826541,39.1098605,"15 e 3rd st, kansas city, mo 64106, usa",red
+Bonito Michoacán Bakery,NA,"1200 Minnesota Ave, Kansas City, KS 66102",NA,NA,-94.64098949999999,39.1158916,"1200 minnesota ave, kansas city, ks 66102, usa",NA
+Ashleigh's Bakeshop,NA,"115 Westport Rd, Kansas City, MO 64111",yes,no,-94.5878268,39.0543597,"115 westport rd, kansas city, mo 64111, usa",blue
+cupcakin bakery,(816) 503-6499,"2450 Grand Blvd, Kansas City, MO 64108",NA,NA,-94.582324,39.08269,"2450 grand blvd, kansas city, mo 64108, usa",NA
+smallcakes 64th,NA,"6127 NW 63rd Terrace, Kansas City, MO 64151",NA,NA,-94.6519026,39.209258,"6127 nw 63rd terrace, kansas city, mo 64151, usa",NA
+sweet petites kc,NA,"108 E Missouri Ave, Kansas City, MO 64106",yes,no,-94.58089199999999,39.1078502,"108 e missouri ave, kansas city, mo 64106, usa",blue
+delicias bakery,NA,"1704 Central Ave, Kansas City, KS 66102",no,no,-94.64851999999999,39.1058801,"1704 central ave, kansas city, ks 66102, usa",blue
+The Muffin Top Bakery - Zona Rosa,NA,"8671 NW Prairie View Rd, Kansas City, MO 64153",yes,no,-94.661726,39.2513007,"8671 nw prairie view rd, kansas city, mo 64153, usa",blue
 donut king,NA,"2320 Armour Rd, North Kansas City, MO 64116",NA,NA,-94.5549276,39.1466534,"2320 armour rd, north kansas city, mo 64116, usa",NA
-donutology,NA,"1009 Westport Rd, Kansas City, MO 64111",yes,no,-94.59866210000001,39.0495807,"1009 westport rd, kansas city, mo 64111, usa",red
+donutology,NA,"1009 Westport Rd, Kansas City, MO 64111",yes,no,-94.59866210000001,39.0495807,"1009 westport rd, kansas city, mo 64111, usa",blue
 johnnys donuts,NA,"4424 Prospect Ave, Kansas City, MO 64130",NA,NA,-94.5543716,39.0455111,"4424 prospect ave, kansas city, mo 64130, usa",NA
-yummys donut palace,NA,"3120 Stadium Dr, Kansas City, MO 64128",yes,yes,-94.52024730000001,39.0684014,"3120 n stadium dr, kansas city, mo 64129, usa",darkblue
-Providence By The Slice,NA,"415 Westport Rd, Kansas City, MO 64111",yes,no,-94.5906784,39.0529821,"415 westport rd, kansas city, mo 64111, usa",red
-SPIN! Pizza,NA,"4950 Main St, Kansas City, MO 64112",NA,NA,-94.5874934,39.0371806,"4950 main st, kansas city, mo 64112, usa",NA
+yummys donut palace,NA,"3120 N Stadium Dr, Kansas City, MO 64128",yes,yes,-94.52024730000001,39.0684014,"3120 n stadium dr, kansas city, mo 64129, usa",red
+Providence By The Slice,NA,"415 Westport Rd, Kansas City, MO 64111",yes,no,-94.5906784,39.0529821,"415 westport rd, kansas city, mo 64111, usa",blue
+SPIN! Pizza,NA,"9474 Renner Blvd, Lenexa, Kansas 66219",NA,NA,-94.7806073,38.9570138,"9474 renner blvd, lenexa, ks 66219, usa",NA
 Leo's Pizza,NA,"408 NW Englewood Rd, Kansas City, MO 64118",NA,NA,-94.5871618,39.19720119999999,"408 nw englewood rd, kansas city, mo 64118, usa",NA
-Buffalo State Pizza Co. & Bar,NA,"1815 Wyandotte St, Kansas City, MO 64108",yes,no,-94.58575739999999,39.091383,"1815 wyandotte st, kansas city, mo 64108, usa",red
+Buffalo State Pizza Co. & Bar,NA,"1815 Wyandotte St, Kansas City, MO 64108",yes,no,-94.58575739999999,39.091383,"1815 wyandotte st, kansas city, mo 64108, usa",blue
 Mud Pie Bakery & Coffee,NA,"7319 W 95th St, Overland Park, KS 66212",NA,NA,-94.6704709,38.9562713,"7319 w 95th st, overland park, ks 66212, usa",NA
-Bo Lings,NA,"4701 Jefferson St, Kansas City, MO 64112",yes,no,-94.5944584,39.0420877,"4701 jefferson st, kansas city, mo 64112, usa",red
+Bo Lings,NA,"4701 Jefferson St Kansas City, MO 64112",yes,no,-94.5944584,39.0420877,"4701 jefferson st, kansas city, mo 64112, usa",blue
+Blackhole Bakery,(816) 885-6836,"5531 Troost Ave Kansas City, MO 64110",NA,NA,-94.5735054,39.0259439,"5531 troost ave, kansas city, mo 64110, usa",NA
+Enchante,(816) 381-6055,"3934 Main St Kansas City, MO 64111",NA,NA,-94.586525,39.05556199999999,"3934 main st, kansas city, mo 64111, usa",NA
+Banksia,(816) 474-9935,"105 W 9th St Kansas City, MO 64105",NA,NA,-94.58443869999999,39.1035283,"105 w 9th st, kansas city, mo 64105, usa",NA
+Joelles Baked with Love,(816) 222-4499,"11111 N Oak Trafficway Kansas City, MO 64155",yes,yes,-94.5752583,39.2955145,"11111 n oak trafficway, kansas city, mo 64155, usa",red
+Upper Crust Pie Bakery,(913) 642-2999,"7943 Santa Fe Dr Overland Park, KS 66204",yes,yes,-94.6715907,38.9843665,"7943 santa fe dr, overland park, ks 66204, usa",red
+Heirloom Bakery and Hearth,(816) 492-7259,"401 E 63rd St Kansas City, MO 64110",yes,yes,-94.5833676,39.0133106,"401 e 63rd st, kansas city, mo 64110, usa",red
+Billie's Grocery,(816) 683-4400,"3216 Gillham Plaza Kansas City, MO 64109",no,NA,-94.57932989999999,39.067827,"3216 gillham plaza, kansas city, mo 64109, usa",NA
+Panaderia de las Americas,(816) 832-8378,"826 Sw Blvd Kansas City, MO 64108",NA,NA,-94.5943961,39.0846283,"826 southwest blvd, kansas city, mo 64108, usa",NA
+Yellow Brick Bakery,(913) 210-9485,"16581 E 151st St Olathe, KS 66062",yes,ish,-94.7771078,38.8544262,"16581 e 151st st, olathe, ks 66062, usa",purple
+Two Sugars,(913) 210-9485,"16581 E 151st St Olathe, KS 66062",NA,NA,-94.7771078,38.8544262,"16581 e 151st st, olathe, ks 66062, usa",NA
+Cafe Corazon,(816) 301-7480,"1721 Westport Rd Kansas City, MO 64111",NA,NA,-94.6063799,39.0500183,"1721 westport rd, kansas city, mo 64111, usa",NA
+Parisi Cafe - Union Station,(816) 569-2399,"30 W Pershing Rd Ste 100 Union Station Kansas City, MO 64108",yes,ish,-94.58557839999999,39.0853282,"30 w pershing rd #100, kansas city, mo 64108, usa",purple
+Suvee Sweats Cakery,(816) 800-4200,"6045 NE Antioch Rd Gladstone, MO 64119",yes,no,-94.54771579999999,39.2038224,"6045 ne antioch rd, gladstone, mo 64119, usa",blue
+Vested Garment District Coffee,(816) 490-7898,"310 W 8th St Kansas City, MO 64105",NA,NA,-94.5868907,39.1047788,"310 w 8th st, kansas city, mo 64105, usa",NA
+Meshuggah Bagels,(816) 330-6016,"1208 W 39th St Kansas City, MO 64111",yes,ish,-94.6009629,39.0573596,"1208 w 39th st, kansas city, mo 64111, usa",purple
+Filling Station Midtown,(816) 931-4335,"2980 McGee Trafficway Kansas City, MO 64108",yes,yes,-94.5783001,39.0726745,"2980 mcgee trafficway, kansas city, mo 64108, usa",red
+Donut King,(816) 472-1412,"2320 Armour Rd North Kansas City, MO 64116",yes,ish,-94.5549276,39.1466534,"2320 armour rd, north kansas city, mo 64116, usa",purple
+City Market Coffee House,(816) 718-3005,"305 Main St Kansas City, MO 64105",no,NA,-94.58301449999999,39.1095725,"305 main st, kansas city, mo 64106, usa",NA
+Mother Earth Coffee,(816) 453-8255,"3504 Gillham Rd Kansas City, MO 64111",yes,ish,-94.581323,39.06323,"3504 gillham rd, kansas city, mo 64111, usa",purple
+Threebearsbakerybbq,(913) 405-5008,"13723 W 108th St Lenexa, KS 66215",no,NA,-94.7453628,38.9324782,"13723 w 108th st, lenexa, ks 66215, usa",NA
+The Roasterie Cafe,(816) 333-9700,"6223 Brookside Blvd Kansas City, MO 64113",yes,ish,-94.59079940000001,39.0146575,"6223 brookside blvd, kansas city, mo 64113, usa",purple
+Jazzman's Cafe and Bakery,(928) 523-2372,"5115 Oak St Kansas City, MO 64112",NA,NA,-94.58219199999999,39.0341175,"administrative center, 5115 oak st, kansas city, mo 64112, usa",NA
+Pasteleria Osuna,(913) 279-0430,"749 Central Ave, Kansas City, KS 66101",yes,ish,-94.62820789999999,39.101794100000014,"749 central ave, kansas city, ks 66101, usa",purple
+Dolce Bakery,(913) 236-4411,"3930 W 69th Terrace, Prairie Village, KS 66208",NA,NA,-94.6313358,39.0023247,"3930 w 69th terrace, prairie village, ks 66208, usa",NA
+Hy-Vee Bakery,(913) 383-8303,"7620 State Line Rd, Prairie Village, KS 66208",yes,yes,-94.6097437,38.989934,"7620 state line rd, prairie village, ks 66208, usa",red
+Connie's Cookies Kansas City,(913) 649-6700,"9224 Metcalf Ave, Overland Park, KS 66212",no,NA,-94.6688956,38.9614304,"9224 metcalf ave, overland park, ks 66212, usa",NA
