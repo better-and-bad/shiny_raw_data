@@ -1,0 +1,337 @@
+Name,Status,Last PoC Date,Shop category,# of locations,Ownership,Address,POC,"Last Poc Type (in-person, call, email)",Touchpoint #,"Phone (store, cell)",Name of who you talked to,Their position,Decision Maker Name,Decision Maker Email,Notes,lon,lat,address,status_Color
+Clean Eatz,L1,2023-11-28T00:00:00Z,ready made,multiple,NA,"1800 Camden Rd #108, Charlotte, NC 28203",sem,A2,2,NA,NA,NA,Sarah Conrad,conrad@cleaneatz.com,they freeze their food giving it a longer shelf life,-80.8593264,35.2126304,"1800 camden rd #108, charlotte, nc 28203, usa",grey
+Emmy Squared Pizza,L2,2023-11-28T00:00:00Z,pizza mto,2.0,NA,"1932 Hawkins St, Charlotte, NC 28203",sem,B2,2,NA,NA,NA,Sean Smith,ssmith@emmysquaredpizza.com,NA,-80.861454,35.211698,"1932 hawkins st, charlotte, nc 28203, usa",lightblue
+Flower Child,L1,2023-11-28T00:00:00Z,mto,NA,NA,"1537 Camden Rd, Charlotte, NC 28203",sem,B2,2,NA,NA,NA,Johan Carcamo,jcarcamo@foxrc.com,NA,-80.8565151,35.2150612,"1537 camden rd, charlotte, nc 28203, usa",grey
+Bitty and Beau,L1,2023-11-28T00:00:00Z,cafe,NA,NA,"1930 Camden Rd Ste 236, Charlotte, NC 28203",sem,A2,2,NA,NA,NA,Rachel Janson,rjanson@bittyandbeauscoffee.com,NA,-80.8610495,35.2110872,"1930 camden rd ste 236, charlotte, nc 28203, usa",grey
+Hawkers,L1,2023-11-28T00:00:00Z,ready made,NA,corporate,"1930 Camden Rd #260, Charlotte, NC 28203",sem,B2,2,NA,NA,NA,Nino Razon,nrazon@eathawkers.com,NA,-80.8605395,35.2109283,"1930 camden rd #260, charlotte, nc 28203, usa",grey
+Brown Bag Seafood,L1,2023-11-28T00:00:00Z,mto,2.0,corporate,601 S. Tryon St Charlotte NC 28202,sem,B1,2,NA,NA,NA,idk,chatterbox@brownbagseafood.com,NA,-80.84835249999999,35.2230823,"601 s tryon st, charlotte, nc 28202, usa",grey
+Pepperbox Donuts,L1,2024-01-08T00:00:00Z,donut,2.0,NA,"2810 N. DAVIDSON STREET, CHARLOTTE, NC 28205",sem,A1,3,NA,NA,NA,Kaleb Killough,kaleb@pepperbox.co,they have a ton of surplus they toss out / NoDa & South End/EEs are about it/emailed candice @ candice@,-80.8095973,35.2446049,"2810 n davidson st, charlotte, nc 28205, usa",grey
+Salted Melon,L1,2023-11-28T00:00:00Z,ready made,4.0,thomas,"100 W Worthington Ave Suite 107, Charlotte, NC 28203",sem,B1,2,NA,NA,NA,Thomas Coker,thomas@reids.com,Thomas owns this w his family/he thinks Reids would be a better potential partner/there are 5 Reids/Reids has more premade food,-80.8598109,35.2120177,"100 w worthington ave #107, charlotte, nc 28203, usa",grey
+The Salty Donut,L2,2024-01-05T00:00:00Z,market,NA,NA,"1515 S Tryon St #105, Charlotte, NC 28203",txt,A1,3,NA,NA,NA,NA,NA,Apparently they don't use ANY 3rd parties,-80.8569759,35.2149116,"1515 s tryon st #105, charlotte, nc 28203, usa",lightblue
+The Co-Op,L2,2024-11-29T00:00:00Z,ready made,NA,NA,"340 W Tremont Ave Suite 110, Charlotte, NC 28203",lvm w emma,A2,2,NA,NA,NA,NA,NA,emma loves the idea of gb and needs something like us,-80.8656354,35.2113656,"340 w tremont ave suite 110, charlotte, nc 28203, usa",lightblue
+The Good Wurst Co,L1,2024-11-29T00:00:00Z,ready made,NA,NA,"1222 S Tryon St, Charlotte, NC 28203",lvm w mngr,A2,1,NA,NA,NA,NA,NA,NA,-80.85403720000001,35.218803,"1222 s tryon st, charlotte, nc 28203, usa",grey
+Famous Toastery,NA,NA,NA,NA,NA,330 S. TryonCharlotte NC 28202,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8465147,35.2253051,"330 s tryon st, charlotte, nc 28202, usa",NA
+Amelie's French Bakery,L1,2024-11-29T00:00:00Z,bakery,2.0,corporate,"136 E. 36th St. Charlotte, NC 28205",lvm w mngr,A1,3,NA,NA,NA,NA,NA,Corporate/haven't been able to grab email or in person meeting w corporate,-80.8078993,35.2515329,"136 e 36th st, charlotte, nc 28206, usa",grey
+Morelia,NA,NA,NA,NA,NA,"1425 Winnifred St #104, Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.85641,35.21784,"1425 winnifred st #104, charlotte, nc 28203, usa",NA
+Crunch Bistro,L1,2024-11-29T00:00:00Z,ready made,NA,NA,"401 N Tryon St, Charlotte, NC 28202",lvm w manager,B1,2,NA,NA,NA,Sophia,NA,SW Gabriel/his daughter Sophia will make the decision,-80.8394321,35.2300802,"401 n tryon st, charlotte, nc 28202, usa",grey
+Queen City Grounds,L1,2024-11-29T00:00:00Z,cafe,NA,NA,"644 N Church St, Charlotte, NC 28202",lvm w manager,A2,2,NA,NA,NA,NA,NA,SW olivia who loved the idea,-80.8375808,35.2325241,"644 n church st, charlotte, nc 28202, usa",grey
+Coco and the Director,L1,2024-01-05T00:00:00Z,bakery,NA,marriott,"100 W Trade St, Charlotte, NC 28202",sem,A1,2,NA,NA,NA,NA,Timesha.Smith@marriott.com,NA,-80.8436043,35.2279697,"100 w trade st, charlotte, nc 28202, usa",grey
+Bella Ciao,L1,2024-11-29T00:00:00Z,ready made,NA,NA,"201 S Tryon St Suite 101, Charlotte, NC 28202",lvm w mngr,A2,2,NA,oscar,NA,NA,NA,oscar told they have no shows sometimes/GM is in wednesdayss 8-6 pm,-80.84432,35.2261494,"201 s tryon st suite 101, charlotte, nc 28202, usa",grey
+The Smelly Cat,L1,2024-11-29T00:00:00Z,cafe,NA,NA,"514 E 36th St, Charlotte, NC 28205",lvm w mngr,A2,1,NA,NA,NA,NA,NA,they like the idea a lot,-80.80431890000001,35.2471809,"514 e 36th st, charlotte, nc 28205, usa",grey
+Zambies,L1,2024-11-29T00:00:00Z,pizza,NA,NA,"3204 N Davidson St, Charlotte, NC 28205",lvm w mngr,A1,1,NA,NA,NA,Jack,NA,big need for gb/new to town and routinely gives away surplus pizza,-80.80546749999999,35.2469962,"3204 n davidson st, charlotte, nc 28205, usa",grey
+Reigning Doughnuts,L1,2024-11-29T00:00:00Z,bakery,NA,NA,"3120 N Davidson St STE 100, Charlotte, NC 28205",lvm w mngr,A1,1,NA,NA,NA,NA,NA,NA,-80.8057846,35.2466881,"3120 n davidson st ste 100, charlotte, nc 28205, usa",grey
+Oh My Soul,C1,2024-11-29T00:00:00Z,bakery,NA,NA,"3046 N Davidson St, Charlotte, NC 28205",sem,A1,2,NA,telulah,NA,telulah,NA,we can reach out over instagram,-80.8066997,35.2462939,"3046 n davidson st, charlotte, nc 28205, usa",darkblue
+Rhino Market and Deli,C1,2024-01-02T00:00:00Z,ready made,5.0,NA,"1500 W Morehead St E, Charlotte, NC 28208",sem,B1,2,NA,hannah,NA,NA,hannahraedeese1990@gmail.com,verbal commit,-80.8657128,35.2296555,"1500 w morehead st, charlotte, nc 28208, usa",darkblue
+Urban District Market,L1,2024-01-02T00:00:00Z,market,NA,NA,"2315 N Davidson St #300, Charlotte, NC 28205",sem,B1,2,NA,Jason,NA,NA,udmmilldistrict@gmail.com,NA,-80.8144179,35.2407326,"2315 n davidson st #300, charlotte, nc 28205, usa",grey
+Sunflour Baking Company,L1,2024-11-29T00:00:00Z,bakery,NA,NA,"515 Jordan Pl, Charlotte, NC 28205",sem,A1,2,NA,NA,NA,NA,NA,NA,-80.8121256,35.2428825,"515 jordan pl, charlotte, nc 28205, usa",grey
+Village Juice & Kitchen,L1,2024-01-05T00:00:00Z,mto,NA,NA,optimist food hall,sem,B1,2,NA,Siennah,EE,Franchesca,franchesca@queenbeejuice.com,optimist food hall,-80.8276035,35.2342197,"1115 n brevard st, charlotte, nc 28206, usa",grey
+Moo & Brew,L1,2024-01-05T00:00:00Z,mto,NA,NA,"1300 Central Ave, Charlotte, NC 28205",sem,B2,2,NA,NA,NA,James,james@mooandbrew.com,NA,-80.8169518,35.2207373,"1300 central ave, charlotte, nc 28205, usa",grey
+Midwood Smokehouse,L1,2024-01-05T00:00:00Z,bbq,3.0,NA,"1401 Central Ave. Charlotte, NC",sem,B1,2,NA,Dustin,owner,Dustin,dmoore@midwoodsmokehouse.com,he was hesitant for food quality & rep concerns,-80.8148686,35.2210285,"1401 central ave, charlotte, nc 28205, usa",grey
+Suárez Bakery,L1,2024-01-05T00:00:00Z,bakery,2.0,NA,"4245 Park Rd, Charlotte, NC 28209",sem,A1,2,NA,Brandon,EE,Carlos & Hannah,carlos@suarezbakery.com,owners are typically at park rd location,-80.8478769,35.1741669,"4245 park rd, charlotte, nc 28209, usa",grey
+Common Market,L1,2024-01-05T00:00:00Z,market,2.0,NA,"2007 Commonwealth Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.81171719999999,35.2189339,"2007 commonwealth ave, charlotte, nc 28205, usa",grey
+Undercurrent Coffee,L1,2024-01-04T00:00:00Z,cafe,NA,NA,"2012 Commonwealth Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8117238,35.2183478,"2012 commonwealth ave, charlotte, nc 28205, usa",grey
+The Giddy Goat,L1,2024-01-04T00:00:00Z,cafe,NA,NA,"1217 The Plaza, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8110682,35.2188844,"1217 the plaza, charlotte, nc 28205, usa",grey
+Calle Sol,L1,2024-01-04T00:00:00Z,mto,NA,corporate,"1205 Thomas Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8124497,35.2190755,"1205 thomas ave, charlotte, nc 28205, usa",grey
+Felix Empanadas,L1,2024-01-05T00:00:00Z,mto,2.0,NA,"320 S Tryon St, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8461543,35.225397,"320 s tryon st, charlotte, nc 28202, usa",grey
+Mezeh,L1,NA,NA,NA,NA,"340 E 16th St, Charlotte, NC 28206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.827686,35.2337936,"340 e 16th st, charlotte, nc 28206, usa",grey
+Benny's,L1,2024-01-05T00:00:00Z,pizza,2.0,NA,"2909 N Davidson St STE 100, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8092971,35.2453434,"2909 n davidson st ste 100, charlotte, nc 28205, usa",grey
+Beard Papa,partner,2024-01-05T00:00:00Z,bakery,1.0,NA,"222 West Blvd, Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.86115939999999,35.2139263,"222 west blvd, charlotte, nc 28203, usa",purple
+Mert's Heart & Soul,L1,2024-01-05T00:00:00Z,mto,NA,NA,"214 N College St, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8403986,35.22724180000001,"214 n college st, charlotte, nc 28202, usa",grey
+Clean Juice,L1,2024-01-05T00:00:00Z,juice,NA,NA,"201 S Tryon St Suite 120-B, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8442027,35.22625379999999,"201 s tryon st 120 b, charlotte, nc 28202, usa",grey
+Mellow Mushroom,L1,2024-01-05T00:00:00Z,pizza,NA,NA,"255 W Martin Luther King Jr Blvd, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8480282,35.2259734,"255 w martin luther king jr blvd, charlotte, nc 28202, usa",grey
+Manolo's Bakery,L0,NA,bakery,NA,NA,"4405 Central Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7701524,35.2141629,"4405 central ave, charlotte, nc 28205, usa",black
+Nothing Bundt Cakes,L0,NA,bakery,NA,NA,"601 S Kings Dr, Charlotte, NC 28204",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.83561639999999,35.2098341,"601 s kings dr, charlotte, nc 28204, usa",black
+Tous les Jours,L1,2024-01-02T00:00:00Z,bakery,2.0,NA,"4625 Piedmont Row Dr #105, Charlotte, NC 28210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.839111,35.152307,"4625 piedmont row dr #105, charlotte, nc 28210, usa",grey
+Smallcakes Utopia,L0,NA,bakery,NA,NA,"6925 University City Blvd #415, Charlotte, NC 28262",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7654242,35.2905082,"6925 university city blvd #415, charlotte, nc 28262, usa",black
+Pizzeria Sapienza CLT,L1,NA,pizza,NA,NA,"620 N Church St, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8382546,35.23178559999999,"620 n church st, charlotte, nc 28202, usa",grey
+The Pizza Peel & Tap Room,L0,NA,pizza,NA,NA,"1600 Central Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8118686,35.2200734,"1600 central ave, charlotte, nc 28205, usa",black
+Bisonte Pizza Co.,L0,NA,pizza,NA,NA,"710 W Trade St f, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.84875889999999,35.2323616,"710 w trade st f, charlotte, nc 28202, usa",black
+Pure Pizza,L1,2024-01-05T00:00:00Z,pizza,NA,NA,"1911 Central Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8079532,35.2203495,"1911 central ave, charlotte, nc 28205, usa",grey
+Sal's Pizza Factory,L0,NA,pizza,NA,NA,"3723 Monroe Rd, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7956605,35.199952,"3723 monroe rd, charlotte, nc 28205, usa",black
+Tony's Pizza,L0,NA,pizza,NA,NA,"1530 Overland Park Ln #1-104, Charlotte, NC 28262",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7721435,35.317766,"1530 overland park ln #1-104, charlotte, nc 28262, usa",black
+Mocco Bistro,L0,NA,cafe,NA,NA,"4004 South Blvd Charlotte, NC 28209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.87608829999999,35.1880369,"4004 south blvd, charlotte, nc 28209, usa",black
+Burney's Sweets and More,L0,NA,bakery,NA,NA,"1200 N Davidson St Charlotte, NC 28206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8244385,35.2321219,"1200 n davidson st, charlotte, nc 28206, usa",black
+Chopt,L1,NA,mto,NA,corporate,"212 S Tryon St Suite 100, Charlotte, NC 28281",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.84500109999999,35.2263394,"212 s tryon st suite 100, charlotte, nc 28281, usa",grey
+Spoons,L1,NA,mto,2.0,NA,"129 W Trade St, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8442913,35.2278471,"129 w trade st, charlotte, nc 28202, usa",grey
+Bar Cocoa,L1,NA,bakery,NA,ritz carlton,"201 E Trade St, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.84149099999999,35.2261749,"201 e trade st, charlotte, nc 28202, usa",grey
+Chex Grill & Wings,L1,NA,mto,NA,NA,"400 S Tryon St Suite R2, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8473796,35.2252005,"400 s tryon st suit r2, charlotte, nc 28202, usa",grey
+Fuel Pizza,L1,NA,pizza,NA,NA,"1501 Central Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.813372,35.2206029,"1501 central ave, charlotte, nc 28205, usa",grey
+Milk Bread,L1,2024-01-05T00:00:00Z,bakery,NA,NA,"1431 Central Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8137761,35.2206618,"1431 central ave, charlotte, nc 28205, usa",grey
+The Dumpling Lady,L2,2024-12-30T00:00:00Z,mto,NA,NA,"1115 N Brevard St, Charlotte, NC 28206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8277624,35.2337605,"1115 n brevard st, charlotte, nc 28206, usa",lightblue
+French Toastery,L0,NA,NA,NA,NA,330 S. Tryon Charlotte NC 28202,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8465147,35.2253051,"330 s tryon st, charlotte, nc 28202, usa",black
+Noble Smoke,L1,2024-01-06T00:00:00Z,bbq,NA,NA,"2216 Freedom Dr, Charlotte, NC 28208",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.87682649999999,35.2338651,"2216 freedom dr, charlotte, nc 28208, usa",grey
+Salud Cerveceria,L1,2024-01-06T00:00:00Z,cafe,NA,NA,"3306 N Davidson St, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8040509,35.2477999,"3306 n davidson st, charlotte, nc 28205, usa",grey
+Wentworth & Fenn,L0,NA,bakery,1.0,NA,"320 S Tryon St, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8461543,35.225397,"320 s tryon st, charlotte, nc 28202, usa",black
+Workman's Friend,L0,NA,NA,NA,NA,"1531 Central Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8123012,35.2206171,"1531 central ave, charlotte, nc 28205, usa",black
+Morelia,L0,NA,NA,NA,NA,"1425 Winnifred St #104, Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.85641,35.21784,"1425 winnifred st #104, charlotte, nc 28203, usa",black
+Vitality Bowls,L0,NA,NA,NA,NA,"1414 S Tryon St Store #150, Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8552911,35.2175106,"1414 s tryon st #150, charlotte, nc 28203, usa",black
+Viva Chicken,L1,2024-01-08T00:00:00Z,ready made,8.0,NA,"1617 Elizabeth Ave, Charlotte, NC, 28204, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.82586289999999,35.2135409,"1617 elizabeth ave, charlotte, nc 28204, usa",grey
+Pie in the Sky,L1,2024-01-08T00:00:00Z,pizza,NA,NA,"124 Brevard Court, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.84646699999999,35.22574,"124 brevard court, charlotte, nc 28202, usa",grey
+Waterbean Coffee,L1,2024-01-08T00:00:00Z,cafe,3.0,NA,"300 S Tryon St Ste 150, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8457504,35.2259045,"300 s tryon st ste 150, charlotte, nc 28202, usa",grey
+Hawthorne NY Pizza & Bar,L0,NA,NA,NA,NA,"1701 E 7th St, Charlotte, NC 28204",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.82162199999999,35.21582,"1701 e 7th st, charlotte, nc 28204, usa",black
+Poppy's Bagels,L0,NA,bagels,2.0,NA,"Providence Location: 2921 Providence Road, Charlotte, NC 28211
+South BLVD Location: 2201 South Boulevard, Charlotte, NC 28201",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.80730419999999,35.1708266,"2921 providence rd, charlotte, nc 28211, usa",black
+Mac's Speed Shop,L0,NA,bbq,8.0,NA,"223 Atherton St, Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8621979,35.2041999,"223 atherton st, charlotte, nc 28203, usa",black
+Fuel Pizza,L0,NA,pizza,NA,NA,"1501 Central Ave, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.813372,35.2206029,"1501 central ave, charlotte, nc 28205, usa",black
+Optimist Hall,NA,NA,NA,NA,NA,"1115 N. Brevard St.,
+Charlotte, NC 28206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8277624,35.2337605,"1115 n brevard st, charlotte, nc 28206, usa",NA
+Inizio Pizza,L0,NA,pizza,NA,NA,"Ballantyne location: 
+PROVIDENCE COMMONS
+10620 Providence Rd
+Charlotte, NC 28277
+
+Dilworth location: 
+2230 Park Rd
+Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7725396,35.0657497,"10612-10620 providence rd, charlotte, nc 28277, usa",black
+Laurel Market,L0,NA,deli and market,NA,NA,"114 Cherokee Rd
+Charlotte, NC 28207",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8242278,35.2021856,"114 cherokee rd, charlotte, nc 28207, usa",black
+Camp North End,NA,NA,NA,NA,NA,"300 Camp Road, Charlotte, NC",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8334412,35.2464282,"300 camp rd, charlotte, nc 28206, usa",NA
+Sol'Delish,NA,NA,"American, Soul and Seafood cuisine. Serve lunch, brunch, and dinner.",1.0,NA,"9211 North Tryon St. Suite #1 
+Charlotte, NC 28262",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7450999,35.31215,"9211 n tryon st #1, charlotte, nc 28262, usa",NA
+Vicente,L0,NA,bagels,NA,NA,"2520 South Blvd Suite 108-B, Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8651086,35.2032513,"2520 south blvd 108 b, charlotte, nc 28203, usa",black
+Devon & Blakely,L0,NA,bakery,NA,NA,"101 S Tryon St Unit 104, Charlotte, NC 28280",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8433209,35.2261875,"bank of america plaza, 101 s tryon st unit 104, charlotte, nc 28280, usa",black
+Local Loaf,L0,NA,NA,NA,NA,"800 E 35th St, Charlotte, NC 28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.80332539999999,35.2445543,"800 e 35th st, charlotte, nc 28205, usa",black
+Sweet Waffles,NA,NA,NA,NA,NA,"224 E 7th St, Charlotte, NC 28202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.83820999999999,35.2277594,"224 e 7th st, charlotte, nc 28202, usa",NA
+The Flying Biscuit,L0,NA,breakfast,NA,NA,"4241 Park Rd, Charlotte, NC 28209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8480715,35.1746715,"4241 park rd, charlotte, nc 28209, usa",black
+Joan's Bakery & Deli,L0,NA,bakery & deli,NA,NA,1100 Metropolitan Ave. Suite #190,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8358976,35.2132011,"1100 metropolitan ave #190, charlotte, nc 28204, usa",black
+Pizzeria Omaggio,L0,NA,pizza,NA,NA,1055 Metropolitan Ave. Suite 130,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.83465,35.2129199,"1055 metropolitan ave #130, charlotte, nc 28204, usa",black
+Beyond Amazing Donuts,L0,NA,bakery,NA,NA,"1730 Abbey Pl, Charlotte, NC 28209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.8464714,35.1705039,"1730 abbey pl, charlotte, nc 28209, usa",black
+Le's Sandwiches,L0,NA,sandwich shop,NA,NA,217 East Sugar Creek Road,NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7934365,35.2568803,"217 e sugar creek rd, charlotte, nc 28213, usa",black
+Fat Cat Burgers & Bakeshop,L0,NA,bakery,NA,NA,"2410 Park Rd, Charlotte, NC 28203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.85212400000002,35.197631,"2410 park rd, charlotte, nc 28203, usa",black
+OMG Donuts & Coffee,L0,NA,bakery,NA,NA,"6209 Old Post Rd #107, Charlotte, NC 28212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.7561267,35.1776683,"6209 old post rd #107, charlotte, nc 28212, usa",black
+Your Moms Donuts,L0,NA,bakery,NA,NA,"4205 Park Rd, Charlotte, NC 28209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-80.84863899999999,35.1742513,"4205 park rd, charlotte, nc 28209, usa",black
+Denver Milk Market,partner,NA,Grab & Go + MTO,5.0,NA,"1800 Wazee St 100 Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9970626,39.7531593,"1800 wazee st suite 100, denver, co 80202, usa",purple
+Post Oak BBQ,partner,2023-10-24T00:00:00Z,fast casual RM,1.0,NA,"4000 Tennyson St Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0437324,39.7717819,"4000 tennyson st, denver, co 80212, usa",purple
+Tony Ps,partner,2023-10-18T00:00:00Z,"Pizza, cute cafe",1.0,NA,"3000 Zuni St Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0156042,39.7598278,"3000 zuni st, denver, co 80211, usa",purple
+My Vision Nutrition,partner,2023-10-18T00:00:00Z,grab n' go,2.0,NA,"727 S University Blvd Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9597398,39.7031438,"727 s university blvd, denver, co 80209, usa",purple
+My Vision Nutrition 2,partner,NA,NA,NA,NA,"4001 Tejon St, Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0114996,39.7720227,"4001 tejon st, denver, co 80211, usa",purple
+Brooklyns Finest Pizza,partner,2023-10-26T00:00:00Z,Pizza,NA,NA,"825 16th St Mall Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9935147,39.7463664,"825 16th st mall, denver, co 80202, usa",purple
+Jimanos,partner,2023-11-02T00:00:00Z,pizza RM,1.0,NA,"2950 S Broadway, Englewood, CO 80113",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9870326,39.663372,"2950 s broadway, englewood, co 80113, usa",purple
+Pizza 3.14,partner,NA,Pizza MTO,1.0,NA,"225 E 20th Ave, Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9841798,39.7478492,"225 e 20th ave, denver, co 80205, usa",purple
+the Urban Cookie + Savageau Coffee,partner,2023-10-23T00:00:00Z,bakery,1.0,NA,"2260 E Colfax Ave Ste 101 Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9601367,39.7397943,"2260 e colfax ave suite 101, denver, co 80206, usa",purple
+Yours truly cupcake,partner,2023-11-02T00:00:00Z,Bakery,1.0,NA,"3563 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9736208,39.7679293,"3563 larimer st, denver, co 80205, usa",purple
+The Cake Bar,partner,NA,bakery,NA,NA,"214 E 13th Ave, Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.984358,39.736722,"214 e 13th ave, denver, co 80203, usa",purple
+Reem's Bakery,partner,NA,bakery,1.0,NA,"2418 S Colorado Blvd, Denver, CO 80222",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9402426,39.6727883,"2418 s colorado blvd, denver, co 80222, usa",purple
+Sonnys,partner,2023-10-24T00:00:00Z,Mediterranean,1.0,NA,"2622 W 32nd Ave, Denver",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0196232,39.7617535,"2622 w 32nd ave, denver, co 80211, usa",purple
+Bakery Four,partner,2023-11-02T00:00:00Z,bakery,1.0,NA,"4150 Tennyson St, Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0437967,39.7734788,"4150 tennyson st, denver, co 80212, usa",purple
+Trompeau Bakery,partner,NA,bakery,NA,NA,"2950 S Broadway, Englewood, CO 80113",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9870326,39.663372,"2950 s broadway, englewood, co 80113, usa",purple
+Detox Juice,partner,2023-10-18T00:00:00Z,grab n go,1.0,NA,"3310 Brighton Blvd 110 Denver, CO 80216",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9805375,39.7681448,"3310 brighton blvd ste.110, denver, co 80216, usa",purple
+Ritual Social House,partner,2023-10-19T00:00:00Z,fast casual MTO,1.0,NA,"1209 E 13th Ave Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9726439,39.7370508,"1209 e 13th ave, denver, co 80218, usa",purple
+Nude Foods,partner,2023-11-02T00:00:00Z,grocer,1.0,NA,"3538 W 44th Ave, Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0343267,39.7765661,"3538 w 44th ave, denver, co 80211, usa",purple
+FlyteCo,partner,2023-11-06T00:00:00Z,cafe,1.0,NA,"4499 W 38th Ave Ste 101 Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0448627,39.7696155,"4499 w 38th ave #101, denver, co 80212, usa",purple
+Ti Cafe,partner,2023-11-01T00:00:00Z,cafe,1.0,NA,"30 N Broadway Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.987177,39.7172627,"30 n broadway, denver, co 80203, usa",purple
+Fox Run Cafe,partner,2023-10-18T00:00:00Z,fast casual RM,1.0,NA,"3550 E Colfax Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9455277,39.7398822,"3550 e colfax ave, denver, co 80206, usa",purple
+Qargo Coffee,partner,2023-10-20T00:00:00Z,Cafe,1.0,NA,"2005 17th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0021451,39.7551859,"2005 17th st, denver, co 80202, usa",purple
+Mob Coffee,partner,2023-11-02T00:00:00Z,cafe,1.0,NA,"3937 Tennyson St Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0441636,39.7718344,"3937 tennyson st, denver, co 80212, usa",purple
+Thump Coffee,partner,2023-11-02T00:00:00Z,cafe,NA,NA,"1201 E 13th Ave Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9728066,39.7370362,"1201 e 13th ave, denver, co 80218, usa",purple
+Little Bodega,partner,NA,fast casual MTO,1.0,NA,"613 22nd St, Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9841798,39.7504478,"613 22nd st, denver, co 80205, usa",purple
+We Knead Donut,partner,2023-11-16T00:00:00Z,bakery,NA,NA,"723 S University Blvd, Denver, CO",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9597055,39.7032764,"723 s university blvd, denver, co 80209, usa",purple
+Saucy's Southern BBQ & Cuisine,partner,2023-11-06T00:00:00Z,fast casual RM,NA,NA,"2100 S University Blvd, Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9591013,39.67818339999999,"2100 s university blvd, denver, co 80210, usa",purple
+Leroy's Bagels,partner,NA,bakery,NA,NA,"4432 W 29th Ave, Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0446685,39.7583361,"4432 w 29th ave, denver, co 80212, usa",purple
+Playa Bowls,partner,NA,fast casual MTO,5.0,NA,"99 S Broadway, Unit 115, Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9877859,39.71514579999999,"99 s broadway suite 115, denver, co 80209, usa",purple
+Hearth,stalled,2023-10-19T00:00:00Z,bakery,1.0,NA,"2500 Lawrence St 200 Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9850283,39.7568677,"2500 lawrence st #200, denver, co 80205, usa",NA
+Pandemic Donuts,C1,2023-11-06T00:00:00Z,donut shop,NA,NA,"2962 Welton St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9744025,39.7573538,"2962 welton st, denver, co 80205, usa",darkblue
+Delectable egg,C1,2023-11-06T00:00:00Z,fast casual RM,NA,NA,"1642 Market St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.997359,39.750231,"1642 market st, denver, co 80202, usa",darkblue
+Just BE Kitchen,C1,2023-11-06T00:00:00Z,fast casual,NA,NA,"2364 15th St, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0091486,39.7560568,"2364 15th st, denver, co 80202, usa",darkblue
+Lula Rose,L2,2023-11-01T00:00:00Z,cafe,NA,NA,"3434 E Colfax Ave, Denver, CO 80206-1802",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9464373,39.7398924,"3434 e colfax ave, denver, co 80206, usa",lightblue
+Good Bread Bake Shop,L0,NA,bakery,NA,NA,"1515 Madison St Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9468764,39.7405264,"1515 madison st, denver, co 80206, usa",black
+Mermaid's Bakery,L1,2023-11-02T00:00:00Z,bakery,NA,NA,"1543 Champa St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.994701,39.7463658,"1543 champa st, denver, co 80202, usa",grey
+Sonder Coffee,C1,2023-11-02T00:00:00Z,cafe,NA,NA,"2000 S Colorado Blvd, Denver, CO 80222",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9380216,39.6808677,"2000 s colorado blvd, denver, co 80222, usa",darkblue
+Istanbul Cafe & Bakery,L2,2023-10-30T00:00:00Z,bakery,3.0,NA,"850 S Monaco Pkwy, Unit 9, Denver, CO 80224",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9116233,39.7015806,"850 s monaco st pkwy #9, denver, co 80224, usa",lightblue
+The Post Chicken & Beer,Lost,NA,chx & beer,2.0,NA,"1575 Boulder St Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0109285,39.759241,"1575 boulder st, denver, co 80211, usa",NA
+Parlor Doughnuts,Stalled,2023-11-06T00:00:00Z,donut shop,1.0,NA,"95 Lincoln St Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.986462,39.718208,"95 lincoln st, denver, co 80203, usa",NA
+Park Burger RiNo,C1,2023-10-19T00:00:00Z,fast casual MTO,1.0,corporate,"2615 Walnut St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9861768,39.7596633,"2615 walnut st, denver, co 80205, usa",darkblue
+Queen City Roasting,stalled,2023-10-23T00:00:00Z,cafe,3.0,NA,"2962 Welton St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9744025,39.7573538,"2962 welton st, denver, co 80205, usa",NA
+Baked N' Denver,C1,2023-10-18T00:00:00Z,bakery,1.0,NA,"1301 S Broadway Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9877948,39.6928588,"1301 s broadway, denver, co 80210, usa",darkblue
+Novo Coffee,C1,2023-10-31T00:00:00Z,cafe,4.0,NA,"1600 Glenarm Pl Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9897071,39.744228,"1600 glenarm place, 1600 glenarm pl, denver, co 80202, usa",darkblue
+illegal pete's,L2,2023-11-02T00:00:00Z,fast casual RM,4.0,NA,"1610 16th St Mall, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0003381,39.7512616,"1610 16th st mall, denver, co 80202, usa",lightblue
+under the umbrella,stalled,2023-11-06T00:00:00Z,bakery,1.0,NA,"3507 E 12th Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9458652,39.7352599,"3507 e 12th ave, denver, co 80206, usa",NA
+Vital Root,L2,2023-11-02T00:00:00Z,grab n' go,3.0,NA,"3915 Tennyson St Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0443032,39.7714113,"3915 tennyson st, denver, co 80212, usa",lightblue
+Voodoo Doughnut (Colfax),L2,2023-11-02T00:00:00Z,donut shop,NA,NA,"1520 E Colfax Ave Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9692217,39.7398111,"1520 e colfax ave, denver, co 80218, usa",lightblue
+Le Bakery,lost,2023-12-11T00:00:00Z,Bakery,NA,NA,"300 E 6th Ave Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9831301,39.7253822,"300 e 6th ave, denver, co 80203, usa",red
+Gateaux pastries,L2,2023-11-07T00:00:00Z,Bakery,1.0,NA,"1160 N Speer Blvd Denver, CO 80204",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9939005,39.7347562,"1160 n speer blvd, denver, co 80204, usa",lightblue
+Tumble Haus,C1,2023-10-24T00:00:00Z,Cafe,1.0,NA,"1330 W 38th St Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0027349,39.7690848,"1330 w 38th ave, denver, co 80211, usa",darkblue
+DP Dough,L1,2023-10-24T00:00:00Z,Fast casual MTO,NA,NA,"1228 E Colfax Ave Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9711835,39.7397239,"rosenstock place, 1228 e colfax ave, denver, co 80218, usa",grey
+Detour Bakery,L2,2023-11-07T00:00:00Z,Bakery,NA,local,"1479 S Holly St Denver, CO 80222",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9234977,39.6898565,"1479 s holly st, denver, co 80222, usa",lightblue
+Izzio Bakery Central Market,L1,2023-10-23T00:00:00Z,Bakery,2+,NA,"2669 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9846591,39.7593414,"2669 larimer st, denver, co 80205, usa",grey
+La Fillette Bakery,L2,NA,Bakery,NA,NA,"6217 E 14th Ave Denver, CO 80220",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9155669,39.738764,"6217 e 14th ave, denver, co 80220, usa",lightblue
+Lo Dough Bakery,lost,NA,Bakery,NA,NA,"1850 Wazee St 150 Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9962233,39.7535655,"1850 wazee st #150, denver, co 80202, usa",red
+Tokyo Premium Bakery,NA,2023-10-18T00:00:00Z,Bakery,1.0,NA,"1540 S Pearl St Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9802089,39.6886115,"1540 s pearl st, denver, co 80210, usa",NA
+Reunion Bakery,L1,2023-10-19T00:00:00Z,Bakery,1.0,NA,"3350 Brighton Blvd 140 Denver, CO 80216",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9796081,39.76863609999999,"3350 brighton blvd #140, denver, co 80216, usa",grey
+Banh and Butter Bakery,lost,2023-11-02T00:00:00Z,Bakery,NA,NA,"9935 E Colfax Ave Aurora, CO 80110",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.8724843,39.7404342,"9935 e colfax ave, aurora, co 80010, usa",red
+Lamar's Donuts,L2,2023-11-07T00:00:00Z,Bakery,NA,franchise,"990 W 6th Ave Denver, CO 80204",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9994482,39.7254991,"990 w 6th ave, denver, co 80204, usa",lightblue
+Wooden Spoon,Stalled,2023-10-19T00:00:00Z,Bakery,1.0,NA,"2418 W 32nd Ave Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.016402,39.7619035,"2418 w 32nd ave, denver, co 80211, usa",NA
+Petunia Bakeshop,lost,NA,Bakery,NA,NA,"3000 W 23rd Ave Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0254923,39.7510274,"3000 w 23rd ave, denver, co 80211, usa",red
+Omonoia Bakery (No Website),L1,2023-11-02T00:00:00Z,Bakery,1.0,NA,"2813 E Colfax Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9543771,39.7404223,"2813 e colfax ave, denver, co 80206, usa",grey
+Miss Mollys Bakery,L2,2023-11-02T00:00:00Z,Bakery,1.0,NA,"2600 E Colfax Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9558151,39.7399807,"2600 e colfax ave, denver, co 80206, usa",lightblue
+my favorite muffin (16th mall),L1,2023-10-19T00:00:00Z,Bakery,1.0,NA,"1750 16th Street Mall Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0014458,39.752047,"1750 16th st mall, denver, co 80202, usa",grey
+City Bakery,L1,NA,Bakery,NA,NA,"5454 Washington St Denver, CO 80216",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9774933,39.7965307,"5454 washington st, denver, co 80216, usa",grey
+Devils food bakery,NA,2023-10-19T00:00:00Z,Bakery,NA,NA,"1020 S Gaylord St Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9615749,39.698032,"1020 s gaylord st, denver, co 80209, usa",NA
+Olive and Finch,L1,2023-10-23T00:00:00Z,Cafe,2+,NA,"1552 E 17th Ave Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9689559,39.7430907,"1552 e 17th ave, denver, co 80218, usa",grey
+House and Bread,L2,NA,Bakery,NA,NA,"2020 S Parker Rd Denver, CO 80231",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.8757911,39.6796044,"2020 s parker rd, denver, co 80231, usa",lightblue
+Taste of Denmark,lost,2023-11-02T00:00:00Z,Bakery,NA,NA,"1901 S Kipling St Lakewood, CO 80227",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.1102566,39.68180419999999,"1901 s kipling st, lakewood, co 80227, usa",red
+Rebel Bread,lost,2023-11-10T00:00:00Z,Bakery,NA,NA,"675 S Broadway Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9885662,39.7048301,"675 s broadway, denver, co 80209, usa",red
+Owlette Bakery,L1,NA,Bakery,NA,NA,"1530 16th St. Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9999828,39.7509317,"1530 16th st mall, denver, co 80202, usa",grey
+kolache house bakery,L1,2023-11-07T00:00:00Z,NA,NA,NA,"8840 W Colfax Ave Lakewood, CO 80215",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0972774,39.7398382,"8840 w colfax ave, lakewood, co 80215, usa",grey
+Whittier Cafe,L2,NA,Cafe,NA,NA,"1710 E 25th Ave Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9668788,39.7530276,"1710 e 25th ave, denver, co 80205, usa",lightblue
+Roostercat Coffee House,L1,2023-10-17T00:00:00Z,Cafe,1.0,NA,"1045 Lincoln St Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9864848,39.7329559,"1045 lincoln st, denver, co 80203, usa",grey
+The Bardo,L1,2023-11-01T00:00:00Z,Cafe,NA,NA,"238 S Broadway Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.987238,39.7123148,"238 s broadway, denver, co 80209, usa",grey
+Blue Sparrow Coffe,L2,2023-10-17T00:00:00Z,Cafe,NA,NA,"3070 Blake St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9810503,39.7640929,"3070 blake st, denver, co 80205, usa",lightblue
+Copper Door Coffee Roaster,L1,2023-11-02T00:00:00Z,Cafe,NA,NA,"1085 York St Denver Botanic Gardens Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9601928,39.7330312,"1085 york st, denver, co 80206, usa",grey
+Corvus (south broadway),L1,2023-10-23T00:00:00Z,Cafe,4.0,NA,"1740 S Broadway Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.98723,39.68495800000001,"1740 s broadway, denver, co 80210, usa",grey
+Dandy Lion Coffe,L1,2023-11-02T00:00:00Z,Cafe,NA,NA,"5225 E 38th Denver, CO 80207",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9264824,39.7694043,"5225 e 38th ave, denver, co 80207, usa",grey
+Huckleberry Roasters,L1,NA,Cafe,NA,NA,"4301 Pecos St Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.006752,39.7754821,"4301 n pecos st, denver, co 80211, usa",grey
+Jubilee Roasting Co.,L1,NA,Cafe,NA,NA,"1075 Park Ave W Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9867683,39.75442049999999,"1075 park ave w, denver, co 80205, usa",grey
+Lekker,L1,2023-10-18T00:00:00Z,Cafe,1.0,NA,"3460 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9748554,39.7665057,"3460 larimer st, denver, co 80205, usa",grey
+Pablo's Coffee,L1,2023-10-18T00:00:00Z,Cafe,NA,NA,"1300 Pennsylvania St Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9806122,39.737084,"1300 pennsylvania st, denver, co 80203, usa",grey
+Quince Coffee Shop,L2,NA,Cafe,NA,NA,"1447 Quince St Denver, CO 80220",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9026362,39.7395661,"1447 quince st, denver, co 80220, usa",lightblue
+Little finch,L1,2023-10-18T00:00:00Z,Cafe,NA,NA,"1490 16th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9991273,39.750343,"1490 16th st mall, denver, co 80202, usa",grey
+Huckle Berry (milk Market),L1,2023-10-17T00:00:00Z,Cafe,4.0,NA,"1800 Wazee St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9968463,39.7532096,"1800 wazee st, denver, co 80202, usa",grey
+Metropolis Coffee,L1,2023-10-17T00:00:00Z,Cafe,4.0,NA,"300 W 11th Ave Denver, CO 80204",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9920682,39.73363,"300 w 11th ave, denver, co 80204, usa",grey
+Moxie,L1,2023-11-02T00:00:00Z,Cafe,NA,NA,"70 Broadway Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.987101,39.7178876,"70 broadway, denver, co 80203, usa",grey
+Wonder,L2,2023-11-02T00:00:00Z,Cafe,NA,NA,"1540 Platte St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0086894,39.7565976,"1540 platte st, denver, co 80202, usa",lightblue
+Mutiny,lost,2023-10-18T00:00:00Z,Cafe,NA,NA,"2 S Broadway Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9871436,39.71641779999999,"2 s broadway, denver, co 80209, usa",red
+Talked to Marco (employee) while owner wasn't there. Passing it on to owner. Wasn't aloud to give out contact/spoke w ee/manager is typically in in the morning 9AM,L1,2023-11-02T00:00:00Z,Cafe,1.0,NA,"2862 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9817151,39.7611263,"2862 larimer st, denver, co 80205, usa",grey
+Atomic Provisions (pizza),L1,2023-10-17T00:00:00Z,Pizza,2?,NA,"141 S Broadway, Denver, CO 802",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9877857,39.7137398,"141 s broadway, denver, co 80209, usa",grey
+Pie Hole,L1,2023-10-19T00:00:00Z,Pizza,NA,NA,"44 S Broadway Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9871592,39.7157156,"44 s broadway, denver, co 80209, usa",grey
+The Bardo,L1,2023-11-02T00:00:00Z,Cafe,NA,NA,"238 S Broadway Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.987238,39.7123148,"238 s broadway, denver, co 80209, usa",grey
+Devils food bakery,L1,2023-10-18T00:00:00Z,NA,NA,NA,"1020 S Gaylord St Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9615749,39.698032,"1020 s gaylord st, denver, co 80209, usa",grey
+Steam Espresso Bar,L2,2023-10-18T00:00:00Z,Cafe,NA,NA,"1801 S Pearl St Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.980711,39.683855200000004,"1801 s pearl st, denver, co 80210, usa",lightblue
+Gates and Grog,L2,2023-10-18T00:00:00Z,Deli,NA,NA,"1875 S Pearl St Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9808023,39.6825819,"1875 s pearl st, denver, co 80210, usa",lightblue
+WashPerk,L1,2023-10-18T00:00:00Z,Cafe,1.0,NA,"853 E Ohio Ave Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9771195,39.7022232,"853 e ohio ave, denver, co 80209, usa",grey
+Happy bake shop,L1,NA,NA,NA,NA,"3621 W 32nd Ave Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0351257,39.7623126,"3621 w 32nd ave, denver, co 80211, usa",grey
+Daboba,lost,NA,Cafe,NA,NA,"1920 17th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0021415,39.7540868,"1920 17th st, denver, co 80202, usa",red
+Penelope's Cafe,L2,2023-10-18T00:00:00Z,Cafe,NA,NA,"1801 Blake St Free Market Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9968503,39.7527739,"1801 blake st, denver, co 80202, usa",lightblue
+Fluid Coffee,L2,2023-10-19T00:00:00Z,Cafe,2.0,NA,"501 E 19th Ave Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9809495,39.7463246,"501 e 19th ave, denver, co 80203, usa",lightblue
+Slackline Coffee,L1,2023-11-02T00:00:00Z,Cafe,NA,NA,"1139 20th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9913841,39.75226,"1139 20th st, denver, co 80202, usa",grey
+Corner Bakery,L1,2023-10-19T00:00:00Z,Cafe,3.0,NA,"717 17th St, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9914871,39.7468226,"717 17th st, denver, co 80202, usa",grey
+Il Posto,Lost,2023-10-19T00:00:00Z,fast casual MTO,1.0,NA,"2601 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9852964,39.7588525,"2601 larimer st, denver, co 80205, usa",NA
+Stow Away Cafe Denver,L2,2023-10-19T00:00:00Z,Cafe,NA,NA,"2528 Walnut St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9865533,39.7585606,"2528 walnut st, denver, co 80205, usa",lightblue
+Silce works colfax,L1,2023-10-23T00:00:00Z,pizzeria RM,4.0,NA,"700 E Colfax Ave Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9785793,39.7398368,"700 e colfax ave, denver, co 80203, usa",grey
+Slice works LODO,L1,NA,Pizza,NA,NA,"1433 17th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9975539,39.7514038,"1433 17th st, denver, co 80202, usa",grey
+Slices Pizza,L0,NA,Pizza,NA,NA,"7155 E Hampden Ave, Denver, CO 80224-3050",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9053268,39.6536487,"7155 e hampden ave, denver, co 80224, usa",black
+Redeemer,L1,2023-10-18T00:00:00Z,Pizza,NA,NA,"2705 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.984096,39.759777,"2705 larimer st, denver, co 80205, usa",grey
+Sexy Pizza,L2,2023-11-02T00:00:00Z,Pizza,NA,NA,"1579 S Pearl St Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9806854,39.6879125,"1579 s pearl st, denver, co 80210, usa",lightblue
+Blue Pan Pizza,L1,2023-10-19T00:00:00Z,Pizza,2.0,NA,"3509 E 12th Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9457811,39.7353563,"3509 e 12th ave, denver, co 80206, usa",grey
+Famous Original J's,L1,NA,Pizza,NA,NA,"715 E 26th Ave Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9775559,39.7548073,"715 e 26th ave, denver, co 80205, usa",grey
+Mora,stalled,NA,Pizza,NA,NA,"911 E Colfax Ave Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9755877,39.7402081,"911 e colfax ave, denver, co 80218, usa",NA
+Oblio's,L0,NA,Pizza,NA,NA,"6115 E 22nd Ave Denver, CO 80207",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9170466,39.7494336,"6115 e 22nd ave, denver, co 80207, usa",black
+Mellow mushroom,L1,2023-10-23T00:00:00Z,Pizzeria MTO,NA,NA,"1201 16th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.996298,39.7485735,"1201 16th st mall, denver, co 80202, usa",grey
+Cart Driver,L1,2023-10-25T00:00:00Z,Pizza MTO,2.0,NA,"2239 W 30th Ave, Denver, CO 80211, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0142589,39.7598083,"2239 w 30th ave, denver, co 80211, usa",grey
+Giordano's,L1,2023-10-23T00:00:00Z,Pizzeria MTO,NA,NA,"1600 California St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.991597,39.7451995,"1600 california st, denver, co 80202, usa",grey
+Fox and the Hen,L1,NA,Pizza MTO,NA,NA,"2257 West 32nd Ave Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0142159,39.7622381,"2257 w 32nd ave, denver, co 80211, usa",grey
+Afterburners Calzones,stalled,NA,Pizza,NA,NA,"32 N Broadway Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.987325,39.7174059,"32 n broadway, denver, co 80203, usa",NA
+Improper City,lost,2023-10-20T00:00:00Z,cafe,NA,NA,"3201 Walnut St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9787712,39.7653517,"3201 walnut st, denver, co 80205, usa",red
+Chopstickers,stalled,2023-10-21T00:00:00Z,Noodle shop,NA,NA,"1617A California St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9919004,39.7455708,"1617a california st, denver, co 80202, usa",NA
+Super fruit republic,L1,2023-11-02T00:00:00Z,Health foods,3.0,NA,"1776 N Broadway Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9870534,39.744751,"1776 n broadway, denver, co 80290, usa",grey
+Fresh farm market,L1,NA,NA,NA,NA,"2401 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9879596,39.7571044,"2401 larimer st, denver, co 80205, usa",grey
+Benny Blanco's Slice of the Bronx,Lost,2023-10-19T00:00:00Z,pizzeria RM,NA,NA,"616 E 13th Ave Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9793874,39.7367449,"616 e 13th ave, denver, co 80203, usa",NA
+Cart Driver,Lost,2023-10-18T00:00:00Z,pizza,NA,NA,"2500 Larimer St, Denver, CO 80205-2275",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9861197,39.7576532,"2500 larimer st, denver, co 80205, usa",NA
+Hello darling cafe,L0,NA,NA,NA,NA,"1610 Little Raven St, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0046357,39.7551182,"1610 little raven st, denver, co 80202, usa",black
+Denver Pizza Company,stalled,NA,NA,2.0,NA,"309 West 11th Avenue, Denver, CO 80204",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9920474,39.7339986,"309 w 11th ave, denver, co 80204, usa",NA
+Billy's Hotdogs,lost,NA,NA,NA,NA,"2445 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.987069,39.7574301,"2445 larimer st, denver, co 80205, usa",red
+Tuscany coffee and deli,L1,NA,NA,2.0,NA,"1600 Stout St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.99251,39.7457093,"1600 stout st, denver, co 80202, usa",grey
+Rugby Scott Ranch Provisions,L2,2023-10-18T00:00:00Z,Wholesale Meats,1.0,NA,"731 S University Blvd Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9595871,39.7031558,"731 s university blvd, denver, co 80209, usa",lightblue
+Rio Grande,L1,NA,NA,NA,NA,"1745 Wazee St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9981245,39.7530412,"1745 wazee st, denver, co 80202, usa",grey
+Menya Noodle Bar,L2,NA,Asian Noodles,2.0,NA,"951 16th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.993771,39.7468414,"951 16th st mall, denver, co 80202, usa",lightblue
+Daves Hot Chicken,L1,2023-11-07T00:00:00Z,Hot Chicken,2.0,NA,"99 S Broadway Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9880824,39.7149811,"99 s broadway, denver, co 80209, usa",grey
+Rosenbergs,L2,2023-11-02T00:00:00Z,bagel shop,2.0,NA,"725 E 26th Ave Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9773677,39.7547989,"725 e 26th ave, denver, co 80205, usa",lightblue
+Lechugas,L1,NA,italian restaurant,2.0,NA,"3609 Tejon St Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0114178,39.7670806,"3609 tejon st, denver, co 80211, usa",grey
+Tacos Uprising,L1,2023-10-23T00:00:00Z,NA,NA,NA,"2849 Welton St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9760368,39.7566497,"2849 welton st, denver, co 80205, usa",grey
+Chook,L1,NA,chicken,2.0,NA,"1300 S Pearl St Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.980215,39.6928881,"1300 s pearl st, denver, co 80210, usa",grey
+Duffeyroll,stalled,NA,Bakery & Cafe,2.0,NA,"1290 S Pearl St Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9801633,39.6931498,"1290 s pearl st, denver, co 80210, usa",NA
+Modern market,L1,NA,NA,2.0,NA,"900 16th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.994219,39.7465767,"900 16th st mall, denver, co 80202, usa",grey
+Hops and Pie,L1,2023-11-02T00:00:00Z,Pizza RM,1.0,NA,"3920 Tennyson St Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0437324,39.7713884,"3920 tennyson st, denver, co 80212, usa",grey
+steam espresso bar,L2,2023-11-02T00:00:00Z,cafe,1.0,NA,"3600 Tejon St Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0109518,39.7670571,"3600 tejon st, denver, co 80211, usa",lightblue
+Ricos Pizza,Stalled,2023-10-31T00:00:00Z,Pizzeria RM,2.0,NA,"2700 E Colfax Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9549174,39.74000270000001,"2700 e colfax ave, denver, co 80206, usa",NA
+Leroy's bagels,L0,NA,NA,NA,NA,"4432 W 29th Ave Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0446685,39.7583361,"4432 w 29th ave, denver, co 80212, usa",black
+Osaka Ramen (Sushi-Rama),L2,2023-10-20T00:00:00Z,fast casual RM,4.0,NA,"2615 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9852473,39.7590215,"2615 larimer st, denver, co 80205, usa",lightblue
+The French Press,L1,2023-10-18T00:00:00Z,Cafe,4.0,NA,"3504 E 12th Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9459002,39.7349669,"3504 e 12th ave, denver, co 80206, usa",grey
+The Walnut Room,L1,2023-11-02T00:00:00Z,fast casual MTO,1.0,NA,"3131 Walnut St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.979821,39.7646231,"3131 walnut st, denver, co 80205, usa",grey
+Mister Oso,L0,2023-10-18T00:00:00Z,fast casual MTO,2.0,NA,"3163 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9784359,39.7642049,"3163 larimer st, denver, co 80205, usa",black
+Temper Chocolates,L1,2023-10-18T00:00:00Z,grab n' go,1.0,NA,"2669 Larimer St The Central Market Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9846129,39.7593608,"2669 larimer st, denver, co 80205, usa",grey
+SAME Cafe,Lost,2023-10-18T00:00:00Z,fast casual RM,1.0,NA,"2023 E Colfax Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9626973,39.7401525,"2023 e colfax ave, denver, co 80206, usa",NA
+Truffle Cheese Shop,L1,2023-10-19T00:00:00Z,grab n' go,1.0,NA,"2906 E 6th Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9530998,39.725429,"2906 e 6th ave, denver, co 80206, usa",grey
+Steve's snappin Dogs,L1,2023-10-18T00:00:00Z,fast casual RM,2.0,NA,"3525 E Colfax Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9457097,39.7403838,"3525 e colfax ave, denver, co 80206, usa",grey
+Hayati Mediterranean Grill,L1,2023-10-18T00:00:00Z,fast casual RM,1.0,NA,"2958 N Downing St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9730661,39.7592917,"2958 n downing st, denver, co 80205, usa",grey
+Call your Mother,L1,2023-10-24T00:00:00Z,cafe,2.0,NA,"1291 N Pearl St Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9798756,39.7366991,"1291 n pearl st, denver, co 80203, usa",grey
+The pasty Republic,L1,2023-10-24T00:00:00Z,fast casual RM,2.0,NA,"2615 E 3rd Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9566251,39.72113520000001,"2615 e 3rd ave, denver, co 80206, usa",grey
+OnOff Cafe,L1,2023-10-24T00:00:00Z,cafe,1.0,NA,"2401 W 32nd Ave Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0160877,39.7622028,"2401 w 32nd ave, denver, co 80211, usa",grey
+College Inn,L1,2023-10-19T00:00:00Z,fast casual RM,NA,NA,"4400 E 8th Ave Denver, CO 80224",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9358754,39.7291522,"4400 e 8th ave, denver, co 80220, usa",grey
+Chook Chicken,Lost,2023-11-02T00:00:00Z,fast casual RM,2.0,NA,"4340 E 8th Ave Denver, CO 80220",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9361937,39.7291192,"4340 e 8th ave, denver, co 80220, usa",NA
+Frank and Roze,Lost,2023-10-19T00:00:00Z,cafe,NA,NA,"4097 E 9th Ave Denver, CO 80220",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9396839,39.7312074,"4097 e 9th ave, denver, co 80220, usa",NA
+Crepes n Crepes,Lost,2023-10-19T00:00:00Z,fast casual RM,NA,NA,"1222 Madison St Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9457856,39.7355494,"1222 madison st, denver, co 80206, usa",NA
+Mezcal,Lost,2023-10-19T00:00:00Z,Fast casual MTO,NA,NA,"3230 E Colfax Ave Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9487874,39.7399581,"3230 e colfax ave, denver, co 80206, usa",NA
+Doppio Coffee,Lost,2023-10-24T00:00:00Z,Cafe,NA,NA,"1245 E Colfax Ave Ste 105 Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9710864,39.7404872,"1245 e colfax ave #105, denver, co 80218, usa",NA
+Zoup eatery,Lost,2023-10-19T00:00:00Z,Fast casual MTO,NA,NA,"1550 Court Pl Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9892235,39.7418106,"1550 court pl, denver, co 80202, usa",NA
+Lazo Empanadas,L1,2023-10-19T00:00:00Z,fast casual RM,3.0,NA,"1319 22nd St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.990434,39.75521579999999,"1319 22nd st, denver, co 80205, usa",grey
+Lunch Boxx,L1,2023-10-19T00:00:00Z,fast casual RM,NA,NA,"2669 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9846591,39.7593414,"2669 larimer st, denver, co 80205, usa",grey
+Rye Society,L0,NA,NA,NA,NA,"3090 N Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9792619,39.7629048,"3090 larimer st, denver, co 80205, usa",black
+Lohi Eats,Lost,2023-10-18T00:00:00Z,cafe,NA,NA,"2550 15th St, Denver CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0115946,39.7580511,"2550 15th st, denver, co 80211, usa",NA
+Heidi's Brooklyn Deli,L0,NA,NA,4.0,NA,"1225 17th St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9952031,39.7502764,"17th street plaza, 1225 17th st, denver, co 80202, usa",black
+The radiator,L0,2023-10-24T00:00:00Z,Cafe,NA,NA,"2139 W 44th Ave Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0132615,39.7767417,"2139 w 44th ave, denver, co 80211, usa",black
+Maria Empanada,L1,2023-10-23T00:00:00Z,fast casual RM,3.0,NA,"1700 Platte St Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0067129,39.7582877,"1700 platte st, denver, co 80202, usa",grey
+Dio Mio,Lost,NA,NA,NA,NA,"3264 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9768086,39.7647832,"3264 larimer st, denver, co 80205, usa",NA
+Empanada Express,L1,2023-11-02T00:00:00Z,NA,NA,NA,"4301 W 44th Ave Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0430703,39.7768079,"4301 w 44th ave, denver, co 80212, usa",grey
+Curtis park creamery,L0,NA,NA,NA,NA,"908 30th St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9774704,39.7597163,"908 30th st, denver, co 80205, usa",black
+Gold Point,L1,NA,NA,NA,NA,"3126 Larimer St Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9785772,39.7634582,"3126 larimer st, denver, co 80205, usa",grey
+La Cochinita,L0,NA,fast casual RM ?,NA,NA,"4935 W 29th Ave Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0503356,39.7588071,"4935 w 29th ave, denver, co 80212, usa",black
+City Donuts,L0,NA,NA,2.0,NA,"4918 E Colfax Ave Denver, CO 80220",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9299192,39.7399321,"4918 e colfax ave, denver, co 80220, usa",black
+Coffee High Company,L1,NA,NA,NA,NA,"2240 Blake St, Denver, CO 80205, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9908667,39.7565559,"2240 blake st, denver, co 80205, usa",grey
+Milk and Honey,stalled,NA,Cafe,NA,NA,"2401 Blake St Denver, CO 80205, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9894974,39.7584684,"2401 blake st, denver, co 80205, usa",NA
+Dochi Denver,L1,2023-11-02T00:00:00Z,Bakery,NA,NA,"2449 Larimer St, Denver, CO 80205, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9870554,39.757471,"2449 larimer st, denver, co 80205, usa",grey
+Intermission cafe,L1,2023-10-23T00:00:00Z,Cafe + MTO,1.0,NA,"1800 Larimer St Suite 101, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9942901,39.75118399999999,"1800 larimer st suite 101, denver, co 80202, usa",grey
+Mercantile Dining & Provision,L1,2023-10-23T00:00:00Z,Cafe + MTO,1.0,NA,"1701 Wynkoop St #155, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.999707,39.7536124,"1701 wynkoop st #155, denver, co 80202, usa",grey
+Pigtrain Coffee Co,L1,2023-10-23T00:00:00Z,Cafe + MTO,NA,NA,"1701 Wynkoop St, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9999636,39.7530868,"1701 wynkoop st, denver, co 80202, usa",grey
+Waffles & Dinges,L1,2023-10-23T00:00:00Z,Bakery,NA,NA,"1701 Wynkoop St, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9999636,39.7530868,"1701 wynkoop st, denver, co 80202, usa",grey
+Fish n Chips,Lost,2023-10-23T00:00:00Z,Fast casual MTO,NA,NA,"1311 S Broadway, Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9877454,39.6926348,"1311 s broadway, denver, co 80210, usa",NA
+Azucar Bakery,L1,NA,NA,NA,NA,"1886 S Broadway, Denver, CO 80210-3104",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9871923,39.6824115,"1886 s broadway, denver, co 80210, usa",grey
+The Rolling Pin Bakeshop,L1,NA,NA,NA,NA,"2716 Welton St, Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9775161,39.7549467,"2716 welton st, denver, co 80205, usa",grey
+Sugar Bakeshop,L1,NA,NA,NA,NA,"277 Broadway, Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9878584,39.7206609,"277 broadway, denver, co 80203, usa",grey
+Katherine's French Bakery & Cafe,L1,NA,NA,NA,NA,"728 S University Blvd, Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.959051,39.7030235,"728 s university blvd, denver, co 80209, usa",grey
+mpeau Bakery,L1,NA,NA,NA,NA,"2950 S Broadway, Englewood, CO 80113",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9870326,39.663372,"2950 s broadway, englewood, co 80113, usa",grey
+City Cafe,L1,NA,NA,NA,NA,"726 Lincoln St, Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.985823,39.7278245,"726 lincoln st, denver, co 80203, usa",grey
+Raleigh Street Bakery Bread,L1,NA,NA,NA,NA,"5245 Raleigh St, Denver, CO 80212",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0418832,39.79211970000001,"5245 raleigh st, denver, co 80212, usa",grey
+French for Sugar,L1,NA,NA,NA,NA,"1201 E Colfax Ave, Denver, CO 80218, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9718795,39.7402329,"1201 e colfax ave, denver, co 80218, usa",grey
+D Bar Denver,L1,2023-11-02T00:00:00Z,Bakery,NA,NA,"494 E 19th Ave, Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9814641,39.745903,"494 e 19th ave, denver, co 80203, usa",grey
+The Bindery,L1,NA,NA,NA,NA,"1817 Central St, Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0065086,39.7607023,"1817 central st, denver, co 80211, usa",grey
+Maxs Market,L1,2023-10-19T00:00:00Z,Bakery,1.0,NA,"2080 Lawrence St, Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9906978,39.7528746,"2080 lawrence st, denver, co 80205, usa",grey
+Cosmos,L1,NA,Pizza RM,NA,NA,"550 N Grant St, Denver, CO 80203-4420",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9830885,39.7249865,"550 n grant st, denver, co 80203, usa",grey
+pastry runner,L1,NA,NA,NA,NA,1139 20th St Denver CO 80205,NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9913841,39.75226,"1139 20th st, denver, co 80202, usa",grey
+The Flour Shop,L1,2023-10-25T00:00:00Z,Bakery,1.0,NA,"2400 Curtis St. Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9846748,39.7546206,"2400 curtis street, denver, co 80205, usa",grey
+Nest Coffee,stalled,2023-10-25T00:00:00Z,Cafe,1.0,NA,"2949 Federal Blvd Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.025926,39.7594927,"2949 federal blvd, denver, co 80211, usa",NA
+Mead St. Provisions,L1,2023-10-25T00:00:00Z,Fast Casual MTO,NA,NA,3625 West 32nd Avenue,NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0352627,39.7623338,"3625 w 32nd ave, denver, co 80211, usa",grey
+Pizza Alley,lost,2023-10-25T00:00:00Z,Pizza RM,NA,NA,"3499 W 32nd Ave, Denver, CO 80211-3103",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.034418,39.7624651,"parking lot, 3499 w 32nd ave, denver, co 80211, usa",red
+Happy Bakeshop,L1,2023-11-02T00:00:00Z,Bakery,NA,NA,"3621 W 32nd Ave, Highlands Square, Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0351257,39.7623126,"3621 w 32nd ave, denver, co 80211, usa",grey
+Winchels Donuts,L1,2023-11-02T00:00:00Z,Bakery,NA,NA,4965 N. Federal St. Denver,NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0254972,39.7867628,"4965 n federal blvd, denver, co 80221, usa",grey
+Reds Tops Rendevous,L1,2023-10-25T00:00:00Z,Pizza RM,NA,NA,"2917 W 25th Ave, Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0241569,39.7538314,"2917 w 25th ave, denver, co 80211, usa",grey
+Deiter's Chocolates,L1,2023-10-31T00:00:00Z,Chocolates,NA,NA,"1734 E Evans Ave, Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9669377,39.6783214,"1734 e evans ave, denver, co 80210, usa",grey
+Jerusalem Restaurant,lost,2023-11-06T00:00:00Z,fast casual RM,NA,NA,1890 E Evans Ave Denver CO 80210,NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9654328,39.6782546,"1890 e evans ave, denver, co 80210, usa",red
+Stoners Pizza Joint,L0,NA,NA,2.0,NA,"4565 E Colfax Ave, Denver, CO 80220",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.934619,39.74034,"4565 e colfax ave, denver, co 80220, usa",black
+Pete's University Cafe,L2,2023-10-31T00:00:00Z,fast casual RM,NA,NA,"2345 E Evans Ave, Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9596597,39.6786418,"2345 e evans ave, denver, co 80210, usa",lightblue
+Zorbas,L1,2023-11-03T00:00:00Z,bakery + cafe,NA,NA,"2626 E 12th Ave, Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9555413,39.7349755,"2626 e 12th ave, denver, co 80206, usa",grey
+Kokoro Restaurant,Lost,2023-10-30T00:00:00Z,NA,NA,NA,"390 S Colorado Blvd, Denver, CO 80222",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9404509,39.7096898,"390 s colorado blvd, glendale, co 80246, usa",NA
+Kaladi Coffee Roasters,L1,2023-10-31T00:00:00Z,cafe,NA,NA,"1730 E Evans Ave, Denver, CO 80210",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9670729,39.6783303,"1730 e evans ave, denver, co 80210, usa",grey
+Breakfast on Broadway,L1,NA,NA,NA,NA,"2901 S Broadway, Englewood, CO 80113",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9881337,39.6637835,"2901 s broadway, englewood, co 80113, usa",grey
+Junction Food Hall,L1,2023-10-31T00:00:00Z,food hall,NA,NA,"2000 South Colorado Blvd Denver, Colorado 80222",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9380216,39.6808677,"2000 s colorado blvd, denver, co 80222, usa",grey
+Pizza and Grill,lost,2023-11-07T00:00:00Z,pizza RM,NA,NA,"990 Lincoln St, Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9858238,39.7318668,"990 lincoln st, denver, co 80203, usa",red
+Brothers BBQ,L1,2023-10-31T00:00:00Z,fast casual MTO,NA,NA,"568 N Washington St, Denver, CO 8020",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9782835,39.7252948,"568 n washington st, denver, co 80203, usa",grey
+Punch Bowl Social,L1,2023-11-02T00:00:00Z,fast casual MTO,NA,franchise,"65 Broadway, Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9879806,39.71792860000001,"65 broadway, denver, co 80203, usa",grey
+Sexy Pizza,L1,2023-11-02T00:00:00Z,pizza RM,3.0,NA,"1018 E 11th Ave, Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9747835,39.7334979,"1018 e 11th ave, denver, co 80218, usa",grey
+Denver Biscuit Company,NA,2023-11-06T00:00:00Z,brunch,NA,franchise,"3237 E Colfax Ave, Denver, CO 80206",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9490503,39.7403976,"3237 e colfax ave, denver, co 80206, usa",NA
+Birdcall,L1,2023-11-02T00:00:00Z,NA,NA,franchise,"800 E 26th Ave, Denver, CO 80205",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9766945,39.7545035,"800 e 26th ave, denver, co 80205, usa",grey
+Sullivan scrap,L0,NA,NA,NA,NA,"1740 E. 17th Avenue, Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9661974,39.7430078,"1740 e 17th ave, denver, co 80218, usa",black
+The Corner Beet,L1,2023-11-03T00:00:00Z,cafe,NA,NA,"1401 N Ogden St, Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9754302,39.7386022,"1401 n ogden st, denver, co 80218, usa",grey
+Milepost Zero,L0,NA,NA,NA,NA,"1601 19th St, Suite 150,Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9965009,39.7543085,"1601 19th st suite 150, denver, co 80202, usa",black
+City o City,L1,NA,NA,NA,NA,"206 East 13th Avenue Denver, CO, 80203, United States",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9846383,39.7367022,"206 e 13th ave, denver, co 80203, usa",grey
+Mad Greens,L0,NA,NA,NA,NA,"1200 Acoma St Suite 101ADenver, CO 80204",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9884765,39.7357848,"1200 acoma st ste 101a, denver, co 80204, usa",black
+Bang Up the Elephant!,L0,NA,NA,NA,NA,"1310 N Pearl St, Denver, CO 80203-",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9796383,39.73720780000001,"1310 n pearl st, denver, co 80203, usa",black
+Whole Sol,L2,2023-11-03T00:00:00Z,NA,3.0,NA,"1735 Chestnut Pl, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.0018839,39.755454,"1735 chestnut pl, denver, co 80202, usa",lightblue
+Rush Bowls,L1,NA,NA,3.0,NA,"1665 Central Street, Denver, CO 80211",NA,NA,NA,NA,NA,NA,NA,NA,NA,-105.008668,39.7590147,"1665 central st, denver, co 80211, usa",grey
+Bourbon Grill,L2,2023-11-03T00:00:00Z,fast casual RM,1.0,local,"571 E Colfax Ave, Denver, CO 80203",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9801801,39.7402386,"571 e colfax ave, denver, co 80203, usa",lightblue
+The Corner Restaurant and Corner Bar,L2,2023-10-29T00:00:00Z,fast casual MTO,1.0,NA,"1401 Curtis Street, Denver, CO 80202",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.997243,39.7456054,"1401 curtis street, denver, co 80202, usa",lightblue
+Plant Magic Cafe,L1,2023-11-06T00:00:00Z,cafe,NA,NA,"925 E 17th Ave, Denver, CO 80218",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9753788,39.7435468,"925 e 17th ave, denver, co 80218, usa",grey
+AJ Pit Bar BQ,L2,2023-11-07T00:00:00Z,fast casual RM,NA,NA,"2180 S Delaware St, Denver, CO 80223",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9920535,39.6769827,"2180 s delaware st, denver, co 80223, usa",lightblue
+srybb,L1,2023-11-13T00:00:00Z,fast casual RM,1.0,local,"172 S Clarkson St Denver, CO 80209",NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9778127,39.71345609999999,"172 s clarkson st, denver, co 80209, usa",grey
+Kaos Pizzeria,C1,2023-11-20T00:00:00Z,fast casual mto,1.0,local,1439 S Pearl St,NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9808241,39.6905188,"1439 s pearl st, denver, co 80210, usa",darkblue
+La Abeja,L1,2023-11-21T00:00:00Z,Fast casual mto,NA,NA,512 colfax Ave Denver co,NA,NA,NA,NA,NA,NA,NA,NA,NA,-104.9807486,39.7398586,"512 e colfax ave, denver, co 80203, usa",grey
